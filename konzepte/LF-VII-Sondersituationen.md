@@ -105,11 +105,11 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 ├────────────────────────┼─────────────────────────────────┤
 │ Theorie-Input (10-15)  │ Demonstration, max. 15 min      │
 ├────────────────────────┼─────────────────────────────────┤
-│ Praxis-Phase (20-25)   │ Rollenspiel / Table-Top / Üben │
+│ Praxis-Phase (20-25)   │ Rollenspiel / Table-Top / Üben  │
 ├────────────────────────┼─────────────────────────────────┤
-│ Reflexion (5 min)      │ Was? So what? Now what?        │
+│ Reflexion (5 min)      │ Was? So what? Now what?         │
 ├────────────────────────┼─────────────────────────────────┤
-│ Mini-Lernziel-Check    │ Kurze Demonstration, 1 TN      │
+│ Mini-Lernziel-Check    │ Kurze Demonstration, 1 TN       │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -366,26 +366,26 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│ MANV-LAGEKARTE                                            │
-│ Ort: _____________________  Datum: _____________ Zeit: ___ │
+│ MANV-LAGEKARTE                                           │
+│ Ort: ___________________  Datum: _____________ Zeit: ___ │
 │ Wetter: __________________  Verletzte ca.: ____________  │
-│                                                            │
-│ KATEGORIE          ANZAHL      MASSNAHME                   │
-│ I - Sofort         _____       Reanimation / Notarzt       │
-│ II - Dringend      _____       Versorgung + Transport      │
-│ III - Leicht       _____       Betreuung, später Transport │
-│ IV - Hoffnungslos  _____       Betreuung, Seelsorge        │
-│                                                            │
-│ FUNKNOTRUF (an Leitstelle / LNA):                          │
-│ ☐ „Mehrere Verletzte, genaue Anzahl: _____ "               │
+│                                                          │
+│ KATEGORIE          ANZAHL     MASSNAHME                  │
+│ I - Sofort         _____      Reanimation / Notarzt      │
+│ II - Dringend      _____      Versorgung + Transport     │
+│ III - Leicht       _____      Betreuung, später Transport│
+│ IV - Hoffnungslos  _____       Betreuung, Seelsorge      │
+│                                                          │
+│ FUNKNOTRUF (an Leitstelle / LNA):                        │
+│ ☐ „Mehrere Verletzte, genaue Anzahl: _____ "             │
 │ ☐ Art der Verletzungen: __________________________       │
 │ ☐ Eigene Position / Anfahrt: _______________________     │
-│ ☐ Eigenschutz-Status: sicher / unsicher                   │
+│ ☐ Eigenschutz-Status: sicher / unsicher                  │
 │ ☐ Wetter / Umgebung: _______________________________     │
-│ ☐ Warten auf Rückfragen!"                                  │
-│                                                            │
-│ Eigenes Befinden: ☐ ruhig  ☐ gestresst  ☐ überfordert      │
-│ Weisungen erhalten: ☐ ja (von: __________ ) ☐ nein         │
+│ ☐ Warten auf Rückfragen!"                                │
+│                                                          │
+│ Eigenes Befinden: ☐ ruhig  ☐ gestresst  ☐ überfordert    │
+│ Weisungen erhalten: ☐ ja (von: __________ ) ☐ nein       │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -393,33 +393,33 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 ```
 ┌───────────────────────────────────────────────────────────────┐
-│ DEESKALATION - STRATEGIEN                                       │
+│ DEESKALATION - STRATEGIEN                                     │
 ├───────────────────────────────────────────────────────────────┤
-│ 1. RUHE AUSSTRAHLEN                                             │
-│    → langsam sprechen, tiefer Atem, Blickkontakt ohne Starren   │
-│                                                                  │
-│ 2. NICHT PROVOZIEREN LASSEN                                      │
-│    → nicht persönlich nehmen, Beleidigungen überhören           │
-│                                                                  │
-│ 3. KEIN RECHTHABEN                                               │
-│    → „Sie haben Recht, dass Sie sich ärgern" (validieren)       │
-│                                                                  │
-│ 4. FRÜHZEITIG HILFE ANFORDERN                                    │
-│    → Polizei, weitere Einsatzkräfte, Führung                   │
-│                                                                  │
-│ 5. TALK DOWN                                                     │
-│    → „Ich sehe, Sie sind wütend. Helfen Sie mir, zu verstehen."│
-│                                                                  │
-│ 6. „STOP!" - KLARE GRENZE                                        │
-│    → laut, deutlich, Hand heben, einmalige Wiederholung         │
-│                                                                  │
-│ 7. RÜCKZUG                                                       │
-│    → wenn keine Deeskalation möglich: Schritt zurück, Türe zu   │
-│                                                                  │
-│ VORBEUGUNG:                                                      │
-│ • Eigenes Verhalten regelmäßig spiegeln                          │
-│ • Deeskalations-Trainings besuchen (JUH-Kurse)                   │
-│ • Selbstverteidigungstechniken erlernen                         │
+│ 1. RUHE AUSSTRAHLEN                                           │
+│    → langsam sprechen, tiefer Atem, Blickkontakt ohne Starren │
+│                                                               │
+│ 2. NICHT PROVOZIEREN LASSEN                                   │
+│    → nicht persönlich nehmen, Beleidigungen überhören         │
+│                                                               │
+│ 3. KEIN RECHTHABEN                                            │
+│    → „Sie haben Recht, dass Sie sich ärgern" (validieren)     │
+│                                                               │
+│ 4. FRÜHZEITIG HILFE ANFORDERN                                 │
+│    → Polizei, weitere Einsatzkräfte, Führung                  │
+│                                                               │
+│ 5. TALK DOWN                                                  │
+│    →„Ich sehe, Sie sind wütend. Helfen Sie mir, zu verstehen."│
+│                                                               │
+│ 6. „STOP!" - KLARE GRENZE                                     │
+│    → laut, deutlich, Hand heben, einmalige Wiederholung       │
+│                                                               │
+│ 7. RÜCKZUG                                                    │
+│    → wenn keine Deeskalation möglich: Schritt zurück, Türe zu │
+│                                                               │
+│ VORBEUGUNG:                                                   │
+│ • Eigenes Verhalten regelmäßig spiegeln                       │
+│ • Deeskalations-Trainings besuchen (JUH-Kurse)                │
+│ • Selbstverteidigungstechniken erlernen                       │
 └───────────────────────────────────────────────────────────────┘
 ```
 
@@ -495,28 +495,29 @@ Frage an TN: Welche Hinweise aus dem Umfeld? Was tun?
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│ MEIN STRESS-SELBSTTEST (LF VII)                            │
-│ Name: _______________________  Datum: _______________     │
-│                                                            │
-│ Beantworte ehrlich (keine Bewertung - nur Selbstcheck):   │
-│                                                            │
-│ 1. Ich habe in den letzten 4 Wochen belastende Einsätze    │
-│    verarbeitet:   ☐ ja ☐ nein                             │
-│ 2. Ich schlafe schlechter als sonst:   ☐ ja ☐ nein        │
-│ 3. Ich denke an Einsätze, wenn ich nicht will: ☐ ja ☐ nein│
+│ MEIN STRESS-SELBSTTEST (LF VII)                          │
+│ Name: _______________________  Datum: _______________    │
+│                                                          │
+│ Beantworte ehrlich (keine Bewertung - nur Selbstcheck):  │
+│                                                          │
+│ 1. Ich habe in den letzten 4 Wochen belastende Einsätze  │
+│    verarbeitet:   ☐ ja ☐ nein                            │
+│ 2. Ich schlafe schlechter als sonst:   ☐ ja ☐ nein       │
+│ 3. Ich denke an Einsätze, wenn ich nicht will: ☐ja ☐nein │
 │ 4. Ich meide bestimmte Orte/Situationen: ☐ ja ☐ nein     │
-│ 5. Ich bin schneller gereizt als früher: ☐ ja ☐ nein    │
+│ 5. Ich bin schneller gereizt als früher: ☐ ja ☐ nein     │
 │ 6. Ich trinke mehr Alkohol / rauche mehr: ☐ ja ☐ nein    │
-│ 7. Ich ziehe mich von Freunden zurück: ☐ ja ☐ nein      │
-│ 8. Ich habe körperliche Beschwerden ohne Befund:          │
-│    ☐ ja ☐ nein                                            │
-│                                                            │
+│ 7. Ich ziehe mich von Freunden zurück: ☐ ja ☐ nein       │
+│ 8. Ich habe körperliche Beschwerden ohne Befund:         │
+│    ☐ ja ☐ nein                                           │
+│                                                          │
 │ Auswertung: 0-2 „ja" = stabil. 3+ „ja" = mit jemandem    │
-│ sprechen (Vertrauensperson / Einsatznachsorge 0800 2699701).│
-│                                                            │
+│ sprechen (Vertrauensperson / Einsatznachsorge 0800.      │
+│ 2699701).                                                │
+│                                                          │
 │ Meine Vertrauensperson: ______________________________   │
 │ Meine Notfall-Nummer: _________________________________  │
-│                                                            │
+│                                                          │
 │ (Diese Daten bleiben BEI DIR. Du musst sie niemandem zeigen.)│
 └──────────────────────────────────────────────────────────┘
 ```
