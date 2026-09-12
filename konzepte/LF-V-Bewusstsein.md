@@ -111,11 +111,11 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 ├────────────────────────┼─────────────────────────────────┤
 │ Theorie-Input (10-15)  │ Demonstration, max. 15 min      │
 ├────────────────────────┼─────────────────────────────────┤
-│ Praxis-Phase (20-25)   │ Üben mit Schauspielpatient     │
+│ Praxis-Phase (20-25)   │ Üben mit Schauspielpatient      │
 ├────────────────────────┼─────────────────────────────────┤
-│ Reflexion (5 min)      │ Was? So what? Now what?        │
+│ Reflexion (5 min)      │ Was? So what? Now what?         │
 ├────────────────────────┼─────────────────────────────────┤
-│ Mini-Lernziel-Check    │ Kurze Demonstration, 1 TN      │
+│ Mini-Lernziel-Check    │ Kurze Demonstration, 1 TN       │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -441,14 +441,14 @@ TN unterscheiden Unterkühlung (Frühstadium vs. fortgeschritten), Hitzschlag un
 ### 17.2 FAST-Karte (DIN A5)
 
 ```
-┌─────────────────────────────────┐
-│  F - Face: hängt der Mundwinkel?│
-│  A - Arms: sinkt ein Arm?       │
-│  S - Speech: verwaschene Sprache?│
+┌────────────────────────────────────┐
+│  F - Face: hängt der Mundwinkel?   │
+│  A - Arms: sinkt ein Arm?          │
+│  S - Speech: verwaschene Sprache?  │
 │  T - Time: Zeitpunkt dokumentieren!│
-│                                 │
-│  → Time is brain!               │
-└─────────────────────────────────┘
+│                                    │
+│  → Time is brain!                  │
+└────────────────────────────────────┘
 ```
 
 ### 17.3 Stabile-Seitenlage-Karte (DIN A5)
@@ -488,7 +488,7 @@ TN unterscheiden Unterkühlung (Frühstadium vs. fortgeschritten), Hitzschlag un
 ```
 ┌─────────────────────────────────┐
 │  Oral: Medikamente, Drogen,     │
-│        Pflanzen, Reiniger        │
+│        Pflanzen, Reiniger       │
 │  Inhalatorisch: CO, CO2,        │
 │        Reizgase, Dämpfe         │
 │  Perkutan: Lösungsmittel,       │
