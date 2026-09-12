@@ -1,16 +1,43 @@
-# SanH Modul B2 — Anki-Karten für Teilnehmer:innen
+# SanH Modul B2 — Anki-Karten + Trainer-Konzepte
 
-Sanitätshelfer-Ausbildungs-Karten (Modul B2, 48 UE) nach dem Curriculum der
+Sanitätshelfer-Ausbildungs-Material (Modul B2, 48 UE) nach dem Curriculum der
 Hilfsorganisationen (JUH, BG, BEE). Stand: 2018.
 
+Dieses Repo enthält zwei Bereiche:
+
+- **Anki-Deck** für Teilnehmer:innen (`*.apkg`, `*.csv`, `*.py`)
+- **Trainer-Konzepte** für Ausbilder:innen (`konzepte/*.md`)
+
 ## Inhalt
+
+### Anki-Deck
 
 | Datei | Beschreibung |
 |---|---|
 | `SanH_Modul_B2_Schueler.apkg` | Fertiges Anki-Deck zum Importieren (263 Karten) |
 | `sanh-schueler-deck.csv` | Quell-CSV (Semikolon-getrennt, 4 Spalten) |
 | `build_schueler_deck.py` | Generator-Skript (liest CSV, baut .apkg) |
-| `konzepte/LF-I-Basiskompetenzen.md` | Trainer-Konzept für 6 UE Lernfeld I (JUH-Pädagogik, 70-20-10, Gamification) |
+
+### Trainer-Konzepte (`konzepte/`)
+
+Vollständiges 48-UE-Konzept mit 7 Lernfeldern + Anhang + Gesamtkonzept.
+Jedes Konzept folgt der gleichen Struktur: Lernziele, Material,
+pädagogische Leitlinien, Gamification, UE-für-UE-Ablauf, Block-Abschluss,
+Differenzierung, Trainer-Qualifikation, Druckvorlagen.
+
+| Datei | Lernfeld | UE | Kommentar |
+|---|---|---|---|
+| `konzepte/LF-I-Basiskompetenzen.md` | Lernfeld I | 6 | S. 8–12 |
+| `konzepte/LF-II-Atmung.md` | Lernfeld II | 6 | S. 12–17 |
+| `konzepte/LF-III-Herz-Kreislauf.md` | Lernfeld III | 8 | S. 18–24 |
+| `konzepte/LF-IV-Verletzt.md` | Lernfeld IV | 10 | S. 25–34 |
+| `konzepte/LF-V-Bewusstsein.md` | Lernfeld V | 6 | S. 35–41 |
+| `konzepte/LF-VI-Schmerzen.md` | Lernfeld VI | 4 | S. 41–44 |
+| `konzepte/LF-VII-Sondersituationen.md` | Lernfeld VII | 4 | S. 45–46 |
+| `konzepte/Anhang-Normwerte.md` | Schnellreferenz | — | S. 47–52 |
+| `konzepte/Gesamtkonzept.md` | Master-Dokument (Kursfahrplan, Prüfung, Logistik) | 8 + Prüfung | alle |
+
+**Gesamtumfang:** 48 UE + Prüfungsvorbereitung, 36 Zeit-Stunden Präsenz.
 
 ## Karteikarten-Aufbau
 
