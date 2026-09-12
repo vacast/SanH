@@ -1,15 +1,15 @@
-# SanH-Ausbildung — Trainer-Konzept Lernfeld II
+# SanH-Ausbildung - Trainer-Konzept Lernfeld II
 
 ## Der Patient mit Atemstörung
 
-**Curriculum-Bezug:** Begleitender Kommentar 2018, S. 12–17 (Ablaufschemata Aspiration Erwachsene S. 51, Kinder S. 52)
+**Curriculum-Bezug:** Begleitender Kommentar 2018, S. 12-17 (Ablaufschemata Aspiration Erwachsene S. 51, Kinder S. 52)
 **Umfang:** 6 Unterrichtseinheiten à 45 min = 270 min
 **Zielgruppe:** Sanitätshelfer-Anfänger (LF I abgeschlossen)
 **Theorie-Praxis-Verhältnis:** 30 % Theorie, 70 % Praxis (JUH-Standard 1/3 : 2/3)
 
 ---
 
-## 1 Block-Lernziele (Bezug: Kommentar S. 16–17 „Das sollten Sie jetzt wissen und können")
+## 1 Block-Lernziele (Bezug: Kommentar S. 16-17 „Das sollten Sie jetzt wissen und können")
 
 Am Ende des Blocks können die Teilnehmer:innen (TN):
 
@@ -17,14 +17,14 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 |---|---|---|
 | LZ-1 | Die Anatomie/Physiologie der oberen und unteren Atemwege sowie die Steuerung der Atmung beschreiben und daraus Symptome ableiten | Verstehen, Anwenden |
 | LZ-2 | Atemstörungen anhand von Position, Atemgeräuschen, Hautfarbe (Zyanose) und Anamnese (SAMPLER) erkennen und dokumentieren | Anwenden, Analysieren |
-| LZ-3 | Bewusstseinskontrolle und Atemkontrolle (Sehen–Hören–Spüren, <10 s) korrekt durchführen und Fremdkörper im Mund-Rachen-Raum erkennen | Anwenden |
+| LZ-3 | Bewusstseinskontrolle und Atemkontrolle (Sehen-Hören-Spüren, <10 s) korrekt durchführen und Fremdkörper im Mund-Rachen-Raum erkennen | Anwenden |
 | LZ-4 | Sauerstoff unter Beachtung der Sicherheitshinweise (Brandförderung, Restdruck) anwenden, Flascheninhalt (Druck × Volumen) und Vorrat in Minuten berechnen | Anwenden, Analysieren |
 | LZ-5 | Die Pflicht-Ablaufschemata Aspiration bei Erwachsenen (S. 51) und bei Kindern (S. 52) anwenden und bei Bewusstlosigkeit in den HLW-Ablauf überleiten | Anwenden |
 | LZ-6 | Spezifische Atemstörungen (Aspiration, Beinahe-Ertrinken, Asthma, Insektenstich Rachen, Hyperventilation, Krupp) erkennen und die jeweils indizierten Maßnahmen einleiten | Anwenden, Bewerten |
 
 *Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen*
 
-**Prüfungsrelevanz:** LZ 1–6 sind prüfungsrelevant und werden am Blockende mit einer 15-min Mini-OSCE überprüft.
+**Prüfungsrelevanz:** LZ 1-6 sind prüfungsrelevant und werden am Blockende mit einer 15-min Mini-OSCE überprüft.
 
 ---
 
@@ -40,7 +40,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 **70-20-10-Modell:** 70 % Praxis (Üben, Szenarien), 20 % sozialer Austausch (Reflexion, Diskussion), 10 % formaler Input (Vortrag, Demo).
 
-**Anknüpfung an LF I:** ABCDE-Schema und SAMPLER-Anamnese werden zu Blockbeginn reaktiviert („Was habt ihr aus LF I mitgenommen?"). Eigenschutz und Hygiene bleiben jederzeit vorausgesetzt — Handschuhe werden vor jeder Atemkontrolle und O2-Anlage selbstverständlich angezogen.
+**Anknüpfung an LF I:** ABCDE-Schema und SAMPLER-Anamnese werden zu Blockbeginn reaktiviert („Was habt ihr aus LF I mitgenommen?"). Eigenschutz und Hygiene bleiben jederzeit vorausgesetzt - Handschuhe werden vor jeder Atemkontrolle und O2-Anlage selbstverständlich angezogen.
 
 ---
 
@@ -66,9 +66,9 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | Rollenkarten Atemnot (Asthma-Patient, Hyperventilierender, Kind mit Krupp, Aspiration Erw.) | 4 | UE 4, UE 5 |
 | Übungs-Dokumentationsbogen (DIVI-Standard, 1/TN) | 8 | UE 2, UE 6 |
 | Notruf-Checkliste 5 W's (DIN A5, laminiert, 1/TN) | 8 | UE 4, UE 6 |
-| ABCDE-Karte aus LF I (wieder verwendet) | 1/TN | UE 2–6 |
+| ABCDE-Karte aus LF I (wieder verwendet) | 1/TN | UE 2-6 |
 | Lernziel-Check-Bogen Mini-OSCE | 1/TN | Blockende |
-| Blockhefter „LF II — Atmung" (Erweiterung des Hefters aus LF I) | 1/TN | Vor Blockbeginn austeilen |
+| Blockhefter „LF II - Atmung" (Erweiterung des Hefters aus LF I) | 1/TN | Vor Blockbeginn austeilen |
 
 **Beschaffung:** 4 Wochen vor Blockbeginn mit Materialverantwortlichem klären. Übungsflasche O2 muss eine gültige Füllung haben; ggf. mit ortsansässiger Rettungswache kooperieren.
 
@@ -113,11 +113,11 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 └──────────────────────────────────────────────────────────┘
 ```
 
-**Trainer-Prinzip:** Nicht länger als 15 min reden. Lieber 3 × 5 min Theorie mit Praxis-Interleaving. Bei Atemnot-Symptomen ist Beobachtung der Schlüssel — TN müssen viel sehen, hören und ertasten.
+**Trainer-Prinzip:** Nicht länger als 15 min reden. Lieber 3 × 5 min Theorie mit Praxis-Interleaving. Bei Atemnot-Symptomen ist Beobachtung der Schlüssel - TN müssen viel sehen, hören und ertasten.
 
 ---
 
-## 6 UE 1 — Anatomie und Physiologie der Atmung (45 min, Kommentar S. 12–13)
+## UE 1 - Anatomie und Physiologie der Atmung (45 min, Kommentar S. 12-13)
 
 ### Lernziel
 TN beschreiben den Weg der Atemluft durch obere und untere Atemwege, erläutern den Gasaustausch in den Lungenbläschen und leiten daraus Erkennungsmerkmale einer gestörten Atmung ab.
@@ -131,16 +131,16 @@ TN beschreiben den Weg der Atemluft durch obere und untere Atemwege, erläutern 
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | „Stellt euch vor, ein Patient sagt: 'Ich bekomme keine Luft.' Was passiert gerade in seinem Körper?" TN sammeln 2 min, dann Sammlung am Flipchart. |
-| 5–18 | Theorie-Input | Weg der Atemluft: Nase/Mund (Anwärmen, Anfeuchten, Reinigen) → Rachen (Kreuzung Atem-/Speiseweg) → Kehlkopf mit Kehldeckel (Schutz vor Aspiration, Stimmbildung) → Luftröhre mit Knorpelspangen und Flimmerhärchen → Bronchien → Lungenbläschen (Gasaustausch O2/CO2). Totraum-Konzept kurz. Brustkorb (Brustbein, Rippen, Brustwirbelsäule) als Schutz und Atemmechanik. Atemmuskulatur (Zwerchfell, Atemhilfsmuskulatur). Steuerung: unwillkürlich über Atemzentrum im verlängerten Rückenmark; willkürliche Beeinflussung möglich. |
-| 18–38 | Praxis (Partnerarbeit + Demo) | Runde 1 (5 min): TN zeichnen zu zweit ein Atemwegs-Schema und vergleichen mit Anatomie-Plakat. Runde 2 (8 min): Demo am Phantom — Trainer:in zeigt Kehldeckel-Funktion mit Atemwegsmodell, dann üben TN selbst. Runde 3 (7 min): Atemfrequenz-Messung beim Partner in Ruhe (15 s × 4), Vergleich der Werte. |
-| 38–42 | Reflexion | „Welche Station war euch neu? Warum ist der Kehldeckel bei Bewusstlosigkeit gefährdet?" |
-| 42–45 | Mini-Lernziel-Check | 1 TN beschriftet am Demo-Modell Nase, Rachen, Kehldeckel, Luftröhre, Bronchien, Lungenbläschen. Badge „Atemwegs-Inspektor". |
+| 0-5 | Hook | „Stellt euch vor, ein Patient sagt: 'Ich bekomme keine Luft.' Was passiert gerade in seinem Körper?" TN sammeln 2 min, dann Sammlung am Flipchart. |
+| 5-18 | Theorie-Input | Weg der Atemluft: Nase/Mund (Anwärmen, Anfeuchten, Reinigen) → Rachen (Kreuzung Atem-/Speiseweg) → Kehlkopf mit Kehldeckel (Schutz vor Aspiration, Stimmbildung) → Luftröhre mit Knorpelspangen und Flimmerhärchen → Bronchien → Lungenbläschen (Gasaustausch O2/CO2). Totraum-Konzept kurz. Brustkorb (Brustbein, Rippen, Brustwirbelsäule) als Schutz und Atemmechanik. Atemmuskulatur (Zwerchfell, Atemhilfsmuskulatur). Steuerung: unwillkürlich über Atemzentrum im verlängerten Rückenmark; willkürliche Beeinflussung möglich. |
+| 18-38 | Praxis (Partnerarbeit + Demo) | Runde 1 (5 min): TN zeichnen zu zweit ein Atemwegs-Schema und vergleichen mit Anatomie-Plakat. Runde 2 (8 min): Demo am Phantom - Trainer:in zeigt Kehldeckel-Funktion mit Atemwegsmodell, dann üben TN selbst. Runde 3 (7 min): Atemfrequenz-Messung beim Partner in Ruhe (15 s × 4), Vergleich der Werte. |
+| 38-42 | Reflexion | „Welche Station war euch neu? Warum ist der Kehldeckel bei Bewusstlosigkeit gefährdet?" |
+| 42-45 | Mini-Lernziel-Check | 1 TN beschriftet am Demo-Modell Nase, Rachen, Kehldeckel, Luftröhre, Bronchien, Lungenbläschen. Badge „Atemwegs-Inspektor". |
 
 ### Trainer-Hinweise
 - **Häufiger Fehler:** TN verwechseln Speise- und Luftröhre oder vergessen die Atemhilfsmuskulatur. Bildliche Vergleiche („Kehldeckel = Klappe, die beim Schlucken den Eingang zur Luftröhre zumacht") helfen.
-- **Schnittstellen aufzeigen:** „Die Luftröhre mit Knorpelspangen werdet ihr beim Larynx-Tubus in LF III wiederfinden — er wird in die Speiseröhre eingeführt, nicht in die Luftröhre!"
-- **Realitäts-Hinweis:** „Bei einem bewusstlosen Patienten kann der Kehldeckel seine Schutzfunktion verlieren — das ist der Grund, warum wir bei Bewusstlosen den Kopf überstrecken."
+- **Schnittstellen aufzeigen:** „Die Luftröhre mit Knorpelspangen werdet ihr beim Larynx-Tubus in LF III wiederfinden - er wird in die Speiseröhre eingeführt, nicht in die Luftröhre!"
+- **Realitäts-Hinweis:** „Bei einem bewusstlosen Patienten kann der Kehldeckel seine Schutzfunktion verlieren - das ist der Grund, warum wir bei Bewusstlosen den Kopf überstrecken."
 
 ### Reflexionsfragen
 - Welche Konsequenz hat es, wenn der Kehldeckel bei Bewusstlosigkeit nicht mehr schließt?
@@ -148,10 +148,10 @@ TN beschreiben den Weg der Atemluft durch obere und untere Atemwege, erläutern 
 
 ---
 
-## 7 UE 2 — Atemstörungen erkennen und Atemkontrolle (45 min, Kommentar S. 13–14)
+## UE 2 - Atemstörungen erkennen und Atemkontrolle (45 min, Kommentar S. 13-14)
 
 ### Lernziel
-TN erkennen Atemstörungen anhand von Position, Atemgeräuschen, Hautfarbe und Anamnese und führen die Atemkontrolle (Sehen–Hören–Spüren, <10 s) bei Bewusstlosen korrekt durch.
+TN erkennen Atemstörungen anhand von Position, Atemgeräuschen, Hautfarbe und Anamnese und führen die Atemkontrolle (Sehen-Hören-Spüren, <10 s) bei Bewusstlosen korrekt durch.
 
 ### Material
 - Übungsphantom Reanimationspuppe
@@ -164,14 +164,14 @@ TN erkennen Atemstörungen anhand von Position, Atemgeräuschen, Hautfarbe und A
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | Trainer:in spielt Atemgeräusche vor (Rasseln, Stridor, pfeifende Ausatmung, Schnappatmung). „Was hört ihr? Welche Ursache könnte das haben?" TN sammeln. |
-| 5–17 | Theorie-Input | Erkennen auf den ersten Blick: vorgefundene Position (sitzend, Arme abgestützt = Atemhilfsmuskulatur), Ringen nach Luft, unnatürliche Atemgeräusche, Zyanose (Lippen, Nagelbett), Angst/Unruhe. Erkennen aus Anamnese (bekanntes Asthma, psychische Erregung, Bewusstseinsstörung, Hinweis auf Verletzung, Insektenstiche). Bewertung der Atemqualitäten: Frequenz, Tiefe, Rhythmus. Bewusstseinskontrolle (laut ansprechen + Rütteln an Schulter). Atemkontrolle: Mundraum-Kontrolle bei Verdacht auf Fremdkörper, Kopf in Nacken beugen + Unterkiefer vorziehen, Sehen–Hören–Spüren max. 10 s. |
-| 17–37 | Praxis (3 Runden) | Runde 1 (7 min): Atemkontrolle am Phantom in <10 s, Stoppuhr sichtbar. Runde 2 (7 min): Pulsmessung am Partner an 4 Stellen (Speichen-, Hals-, Leisten-, Oberarmschlagader); TN beschreiben Frequenz/Qualität. Runde 3 (6 min): Atemfrequenz + Atemtiefe + Rhythmus am Partner in Ruhe und nach 20 Kniebeugen dokumentieren. |
-| 37–42 | Reflexion | „Welche Atemqualität war am schwierigsten zu beurteilen? Wann ist 'keine normale Atmung' klar erkennbar?" |
-| 42–45 | Mini-Lernziel-Check | 1 TN führt Atemkontrolle in <10 s vor. Badge „Atem-Detektiv". |
+| 0-5 | Hook | Trainer:in spielt Atemgeräusche vor (Rasseln, Stridor, pfeifende Ausatmung, Schnappatmung). „Was hört ihr? Welche Ursache könnte das haben?" TN sammeln. |
+| 5-17 | Theorie-Input | Erkennen auf den ersten Blick: vorgefundene Position (sitzend, Arme abgestützt = Atemhilfsmuskulatur), Ringen nach Luft, unnatürliche Atemgeräusche, Zyanose (Lippen, Nagelbett), Angst/Unruhe. Erkennen aus Anamnese (bekanntes Asthma, psychische Erregung, Bewusstseinsstörung, Hinweis auf Verletzung, Insektenstiche). Bewertung der Atemqualitäten: Frequenz, Tiefe, Rhythmus. Bewusstseinskontrolle (laut ansprechen + Rütteln an Schulter). Atemkontrolle: Mundraum-Kontrolle bei Verdacht auf Fremdkörper, Kopf in Nacken beugen + Unterkiefer vorziehen, Sehen-Hören-Spüren max. 10 s. |
+| 17-37 | Praxis (3 Runden) | Runde 1 (7 min): Atemkontrolle am Phantom in <10 s, Stoppuhr sichtbar. Runde 2 (7 min): Pulsmessung am Partner an 4 Stellen (Speichen-, Hals-, Leisten-, Oberarmschlagader); TN beschreiben Frequenz/Qualität. Runde 3 (6 min): Atemfrequenz + Atemtiefe + Rhythmus am Partner in Ruhe und nach 20 Kniebeugen dokumentieren. |
+| 37-42 | Reflexion | „Welche Atemqualität war am schwierigsten zu beurteilen? Wann ist 'keine normale Atmung' klar erkennbar?" |
+| 42-45 | Mini-Lernziel-Check | 1 TN führt Atemkontrolle in <10 s vor. Badge „Atem-Detektiv". |
 
 ### Trainer-Hinweise
-- **Häufiger Fehler:** TN halten den Kopf des Patienten nicht überstreckt oder entfernen die Hände vom Kopf. Verdeutlichen: „Beide Hände am Kopf belassen — Kinn nach oben, Hals strecken."
+- **Häufiger Fehler:** TN halten den Kopf des Patienten nicht überstreckt oder entfernen die Hände vom Kopf. Verdeutlichen: „Beide Hände am Kopf belassen - Kinn nach oben, Hals strecken."
 - **Schnappatmung ≠ normale Atmung:** „Auch wenn der Brustkorb sich bewegt: Schnappatmung ist KEINE normale Atmung. Das ist der Übergang in die HLW."
 - **Schnittstellen zu LF III aufzeigen:** „Pulsmessung und Atemkontrolle sind die zwei vitalen Checks, die ihr auch in der Reanimation braucht. Atemkontrolle max. 10 s!"
 - **Realitäts-Hinweis:** „Im echten Einsatz ist Schnappatmung schwer zu erkennen. Lieber einmal zu viel HLW starten als zu spät."
@@ -182,7 +182,7 @@ TN erkennen Atemstörungen anhand von Position, Atemgeräuschen, Hautfarbe und A
 
 ---
 
-## 8 UE 3 — Sauerstoff-Gabe: Sicherheit und Berechnung (45 min, Kommentar S. 14)
+## UE 3 - Sauerstoff-Gabe: Sicherheit und Berechnung (45 min, Kommentar S. 14)
 
 ### Lernziel
 TN wenden Sauerstoff unter Beachtung der Sicherheitshinweise an, berechnen Flascheninhalt (Druck × Volumen) und Vorrat in Minuten korrekt und schließen das Gerät sicher.
@@ -197,16 +197,16 @@ TN wenden Sauerstoff unter Beachtung der Sicherheitshinweise an, berechnen Flasc
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | „Eine 5-L-Flasche steht mit 100 bar im RTW. Der Patient braucht 4 L/min. Wie lange reicht der Sauerstoff?" TN überlegen, sammeln Antworten. |
-| 5–17 | Theorie-Input | Sicherheitshinweise O2: brandfördernd (kein Öl/Fett an Ventilen, kein Pflaster auf Gewinde → Explosionsgefahr); nur in vorgesehenen Befestigungen lagern, Schutzkappen sichern; Restdruck ≥ 30 bar in leeren Flaschen. Bedienung: Ventil öffnen, Maske/Brille anlegen (Herstellerangaben), Flow einstellen. Schließen: erst Ventil, dann nach Druckabfall Flowmeter zudrehen. Berechnung Flascheninhalt = Druck (bar) × Volumen (L). Berechnung Vorrat (min) = (Inhalt − Restdruck-Reserve) / Verbrauch (L/min). Beispielaufgabe: 5 L × (200 − 30) bar = 850 L / 2 L/min = 425 min. |
-| 17–37 | Praxis (3er-Gruppen, 3 Stationen rotierend) | Station 1 (7 min): O2-Anlage am Phantom — Maske anlegen, Flow einstellen, Patient beruhigen, Schließen. Station 2 (7 min): Berechnung von 4 Aufgaben aus dem Aufgabenblatt (z. B. 10 L × 150 bar / 4 L/min). Station 3 (6 min): Sicherheits-Check — TN identifizieren an der defekten/ungepflegten Flasche 5 Risiken (ölverschmierte Dichtung, fehlende Schutzkappe, kein Restdruck, lose Befestigung, abgeknickter Schlauch). |
-| 37–42 | Reflexion | „Welcher Rechenschritt war am fehleranfälligsten? Was würdet ihr im Echt-Einsatz tun, wenn die Flasche weniger Druck hat als erwartet?" |
-| 42–45 | Mini-Lernziel-Check | 1 TN berechnet eine Aufgabe mündlich und erklärt die Schritte. Badge „O2-Berechner". |
+| 0-5 | Hook | „Eine 5-L-Flasche steht mit 100 bar im RTW. Der Patient braucht 4 L/min. Wie lange reicht der Sauerstoff?" TN überlegen, sammeln Antworten. |
+| 5-17 | Theorie-Input | Sicherheitshinweise O2: brandfördernd (kein Öl/Fett an Ventilen, kein Pflaster auf Gewinde → Explosionsgefahr); nur in vorgesehenen Befestigungen lagern, Schutzkappen sichern; Restdruck ≥ 30 bar in leeren Flaschen. Bedienung: Ventil öffnen, Maske/Brille anlegen (Herstellerangaben), Flow einstellen. Schließen: erst Ventil, dann nach Druckabfall Flowmeter zudrehen. Berechnung Flascheninhalt = Druck (bar) × Volumen (L). Berechnung Vorrat (min) = (Inhalt − Restdruck-Reserve) / Verbrauch (L/min). Beispielaufgabe: 5 L × (200 − 30) bar = 850 L / 2 L/min = 425 min. |
+| 17-37 | Praxis (3er-Gruppen, 3 Stationen rotierend) | Station 1 (7 min): O2-Anlage am Phantom - Maske anlegen, Flow einstellen, Patient beruhigen, Schließen. Station 2 (7 min): Berechnung von 4 Aufgaben aus dem Aufgabenblatt (z. B. 10 L × 150 bar / 4 L/min). Station 3 (6 min): Sicherheits-Check - TN identifizieren an der defekten/ungepflegten Flasche 5 Risiken (ölverschmierte Dichtung, fehlende Schutzkappe, kein Restdruck, lose Befestigung, abgeknickter Schlauch). |
+| 37-42 | Reflexion | „Welcher Rechenschritt war am fehleranfälligsten? Was würdet ihr im Echt-Einsatz tun, wenn die Flasche weniger Druck hat als erwartet?" |
+| 42-45 | Mini-Lernziel-Check | 1 TN berechnet eine Aufgabe mündlich und erklärt die Schritte. Badge „O2-Berechner". |
 
 ### Trainer-Hinweise
 - **Häufiger Fehler:** TN vergessen den Restdruck (ca. 30 bar) abzuziehen oder verwechseln Flaschenvolumen mit Flowrate. Rechenweg-Schritte explizit aufschreiben.
-- **Sicherheits-Dramatik:** „Ein ölverschmierter O2-Anschluss kann sich unter Druck spontan selbst entzünden — das ist keine Theorie, das passiert."
-- **Schnittstelle zu LF III:** „In der HLW beatmen wir über den Beatmungsbeutel mit O2-Anschluss — das Gerät ist dasselbe."
+- **Sicherheits-Dramatik:** „Ein ölverschmierter O2-Anschluss kann sich unter Druck spontan selbst entzünden - das ist keine Theorie, das passiert."
+- **Schnittstelle zu LF III:** „In der HLW beatmen wir über den Beatmungsbeutel mit O2-Anschluss - das Gerät ist dasselbe."
 - **Realitäts-Hinweis:** „Im Sanitätsdienst ist die 5-L-Flasche Standard; im RTW eher 10 L. Beide Berechnungen funktionieren gleich."
 
 ### Reflexionsfragen
@@ -215,7 +215,7 @@ TN wenden Sauerstoff unter Beachtung der Sicherheitshinweise an, berechnen Flasc
 
 ---
 
-## 9 UE 4 — Spezifische Atemstörungen Teil 1: Aspiration und Asthma (45 min, Kommentar S. 15, Schemata S. 51–52)
+## UE 4 - Spezifische Atemstörungen Teil 1: Aspiration und Asthma (45 min, Kommentar S. 15, Schemata S. 51-52)
 
 ### Lernziel
 TN wenden die Ablaufschemata Aspiration bei Erwachsenen (S. 51) und Kindern (S. 52) an und versorgen einen Asthma-Anfall mit Atemerleichterung und Lippenbremse.
@@ -233,16 +233,16 @@ TN wenden die Ablaufschemata Aspiration bei Erwachsenen (S. 51) und Kindern (S. 
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | Schauspieler betritt den Raum, hustet, greift sich an den Hals, Lippen werden bläulich (Moulage). „Was ist hier los? Was tut ihr?" TN sammeln. |
-| 5–17 | Theorie-Input | Aspiration: Ursachen (Fremdkörper im Rachenraum: Mageninhalt, Zahnprothesen, Kaugummi, Nahrung). Gefahren (plötzliche Verlegung, Verätzung, Lungenentzündung). Erkennen (plötzliche Atemnot, Husten, Würgen, hochroter Kopf, Vorgeschichte, Zyanose, ggf. Bewusstlosigkeit). Maßnahmen: Fremdkörperbeseitigung/Verlagerung nach JUH-Leitlinie Erwachsene (S. 51) und Kinder (S. 52). Übergang in HLW bei Bewusstlosigkeit. Asthma: Auslöser (familiäre Vorbelastung, Allergene, Kälte, Belastung, Psyche, Infektion). Erkennen (nach vorne gebeugt, akute Atemnot, behinderte Ausatmung, pfeifende Geräusche, Zyanose). Maßnahmen: „Wie bei allen Problemen in der Brust" + Lippenbremse. |
-| 17–37 | Praxis (3 Stationen, 3er-Gruppen rotierend) | Station 1 (7 min): Aspiration Erwachsener — Gruppe wendet das Schema S. 51 Schritt für Schritt am Schauspielpatient an. Station 2 (7 min): Aspiration Kind — gleiches Team wechselt Rolle und Szenario, Schema S. 52. Station 3 (7 min): Asthma-Anfall — Lippenbremse mit Strohhalm üben, Schauspielpatient atmet hörbar schwer, TN führen Atemanweisungen durch, Inhalator-Demo. |
-| 37–42 | Reflexion | „Was war der Unterschied zwischen Erwachsenen- und Kinder-Schema? Wann würdet ihr vom Asthma-Szenario in die Reanimation wechseln?" |
-| 42–45 | Mini-Lernziel-Check | 1 TN demonstriert das Aspiration-Schema Erwachsener in <90 s. Badge „Aspiration-Profi". |
+| 0-5 | Hook | Schauspieler betritt den Raum, hustet, greift sich an den Hals, Lippen werden bläulich (Moulage). „Was ist hier los? Was tut ihr?" TN sammeln. |
+| 5-17 | Theorie-Input | Aspiration: Ursachen (Fremdkörper im Rachenraum: Mageninhalt, Zahnprothesen, Kaugummi, Nahrung). Gefahren (plötzliche Verlegung, Verätzung, Lungenentzündung). Erkennen (plötzliche Atemnot, Husten, Würgen, hochroter Kopf, Vorgeschichte, Zyanose, ggf. Bewusstlosigkeit). Maßnahmen: Fremdkörperbeseitigung/Verlagerung nach JUH-Leitlinie Erwachsene (S. 51) und Kinder (S. 52). Übergang in HLW bei Bewusstlosigkeit. Asthma: Auslöser (familiäre Vorbelastung, Allergene, Kälte, Belastung, Psyche, Infektion). Erkennen (nach vorne gebeugt, akute Atemnot, behinderte Ausatmung, pfeifende Geräusche, Zyanose). Maßnahmen: „Wie bei allen Problemen in der Brust" + Lippenbremse. |
+| 17-37 | Praxis (3 Stationen, 3er-Gruppen rotierend) | Station 1 (7 min): Aspiration Erwachsener - Gruppe wendet das Schema S. 51 Schritt für Schritt am Schauspielpatient an. Station 2 (7 min): Aspiration Kind - gleiches Team wechselt Rolle und Szenario, Schema S. 52. Station 3 (7 min): Asthma-Anfall - Lippenbremse mit Strohhalm üben, Schauspielpatient atmet hörbar schwer, TN führen Atemanweisungen durch, Inhalator-Demo. |
+| 37-42 | Reflexion | „Was war der Unterschied zwischen Erwachsenen- und Kinder-Schema? Wann würdet ihr vom Asthma-Szenario in die Reanimation wechseln?" |
+| 42-45 | Mini-Lernziel-Check | 1 TN demonstriert das Aspiration-Schema Erwachsener in <90 s. Badge „Aspiration-Profi". |
 
 ### Trainer-Hinweise
-- **Häufiger Fehler:** TN beginnen mit Schlägen auf den Rücken, obwohl der Patient noch husten kann. Verdeutlichen: „Effektives Husten ist besser als jeder Schlag — nur wenn kein Husten mehr da ist, eingreifen."
-- **Kinder-Schema-Detail:** „Beim Kind sind die Schläge zwischen die Schulterblätter mit dem Handballen, nicht mit der flachen Hand — und 5×, dann 5× Thoraxkompressionen."
-- **Schnittstellen zu LF III:** „Wenn der aspirations-Patient bewusstlos wird, kommt sofort das HLW-Schema aus LF III — und das lernt ihr dort."
+- **Häufiger Fehler:** TN beginnen mit Schlägen auf den Rücken, obwohl der Patient noch husten kann. Verdeutlichen: „Effektives Husten ist besser als jeder Schlag - nur wenn kein Husten mehr da ist, eingreifen."
+- **Kinder-Schema-Detail:** „Beim Kind sind die Schläge zwischen die Schulterblätter mit dem Handballen, nicht mit der flachen Hand - und 5×, dann 5× Thoraxkompressionen."
+- **Schnittstellen zu LF III:** „Wenn der aspirations-Patient bewusstlos wird, kommt sofort das HLW-Schema aus LF III - und das lernt ihr dort."
 - **Inklusion SP:** Schauspielpatient vor UE briefen: Atemgeräusche, Lippenfarbe (Moulage), Husten-Intensität.
 
 ### Reflexionsfragen
@@ -251,7 +251,7 @@ TN wenden die Ablaufschemata Aspiration bei Erwachsenen (S. 51) und Kindern (S. 
 
 ---
 
-## 10 UE 5 — Spezifische Atemstörungen Teil 2: Hyperventilation, Krupp, Insektenstich, Beinahe-Ertrinken (45 min, Kommentar S. 15–16)
+## UE 5 - Spezifische Atemstörungen Teil 2: Hyperventilation, Krupp, Insektenstich, Beinahe-Ertrinken (45 min, Kommentar S. 15-16)
 
 ### Lernziel
 TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Beinahe-Ertrinken und leiten die jeweils indizierten spezifischen Maßnahmen ein.
@@ -269,17 +269,17 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | Trainer:in spielt Audio Krupp-Husten (bellend, pfeifend) ab. „Welches Kind habt ihr heute Morgen in der Notaufnahme gesehen, das so klingt?" TN sammeln. |
-| 5–17 | Theorie-Input | Hyperventilation: Auslöser (Angst, Schmerz, Psyche). Erkennen (schnelle tiefe Atmung, Kribbeln, Pfötchenstellung, Karpfenmund, Schwindel). Maßnahmen: Beruhigung, Gespräch, Atemanweisung, Rückatmung mit Tüte. Krupp: virale Kehlkopf-Entzündung, Kinder 1–5 J., bellender Husten, pfeifende Einatmung, Heiserkeit. Maßnahmen: „Wie bei allen Problemen in der Brust" + feucht-kalte Einatmung (Fenster auf, kalte Nachtluft) + Bezugsperson beruhigen. Insektenstich Rachen: Erkennen (Schwellung, Atemnot), Maßnahmen: „Wie bei allen Problemen in der Brust" + Kühlen außen (Eisbeutel) und innen (kaltes Wasser in kleinen Schlucken / Eiswürfel, nur bei Bewusstseinsklaren). Beinahe-Ertrinken: bei Ansprechbaren „wie bei allen Problemen in der Brust", bei Bewusstlosen „wie bei allen Bewusstlosen". |
-| 17–40 | Praxis (4 Rollenspiele, 4er-Gruppen rotierend) | Gruppe A: Hyperventilation (5 min Spiel + 2 min Reflexion) — Rückatmung mit Tüte. Gruppe B: Krupp-Kind (5 min Spiel + 2 min) — Bezugsperson beruhigen, Fenster auf. Gruppe C: Insektenstich Rachen (5 min Spiel + 2 min) — Eisbeutel von außen, kaltes Wasser. Gruppe D: Beinahe-Ertrinken am Beckenrand (5 min Spiel + 2 min) — ansprechbarer Patient, Atemerleichterung, Wärmeerhaltung. Trainer:in rotiert, gibt Live-Feedback. |
-| 40–43 | Reflexion | „Welche Maßnahme war euch neu? Welche Atemstörung würdet ihr am meisten fürchten?" |
-| 43–45 | Mini-Lernziel-Check | 1 TN erkennt ein Symptom-Set und benennt die richtige Diagnose + 2 Maßnahmen. Badge „Atemnot-Spezialist". |
+| 0-5 | Hook | Trainer:in spielt Audio Krupp-Husten (bellend, pfeifend) ab. „Welches Kind habt ihr heute Morgen in der Notaufnahme gesehen, das so klingt?" TN sammeln. |
+| 5-17 | Theorie-Input | Hyperventilation: Auslöser (Angst, Schmerz, Psyche). Erkennen (schnelle tiefe Atmung, Kribbeln, Pfötchenstellung, Karpfenmund, Schwindel). Maßnahmen: Beruhigung, Gespräch, Atemanweisung, Rückatmung mit Tüte. Krupp: virale Kehlkopf-Entzündung, Kinder 1-5 J., bellender Husten, pfeifende Einatmung, Heiserkeit. Maßnahmen: „Wie bei allen Problemen in der Brust" + feucht-kalte Einatmung (Fenster auf, kalte Nachtluft) + Bezugsperson beruhigen. Insektenstich Rachen: Erkennen (Schwellung, Atemnot), Maßnahmen: „Wie bei allen Problemen in der Brust" + Kühlen außen (Eisbeutel) und innen (kaltes Wasser in kleinen Schlucken / Eiswürfel, nur bei Bewusstseinsklaren). Beinahe-Ertrinken: bei Ansprechbaren „wie bei allen Problemen in der Brust", bei Bewusstlosen „wie bei allen Bewusstlosen". |
+| 17-40 | Praxis (4 Rollenspiele, 4er-Gruppen rotierend) | Gruppe A: Hyperventilation (5 min Spiel + 2 min Reflexion) - Rückatmung mit Tüte. Gruppe B: Krupp-Kind (5 min Spiel + 2 min) - Bezugsperson beruhigen, Fenster auf. Gruppe C: Insektenstich Rachen (5 min Spiel + 2 min) - Eisbeutel von außen, kaltes Wasser. Gruppe D: Beinahe-Ertrinken am Beckenrand (5 min Spiel + 2 min) - ansprechbarer Patient, Atemerleichterung, Wärmeerhaltung. Trainer:in rotiert, gibt Live-Feedback. |
+| 40-43 | Reflexion | „Welche Maßnahme war euch neu? Welche Atemstörung würdet ihr am meisten fürchten?" |
+| 43-45 | Mini-Lernziel-Check | 1 TN erkennt ein Symptom-Set und benennt die richtige Diagnose + 2 Maßnahmen. Badge „Atemnot-Spezialist". |
 
 ### Trainer-Hinweise
-- **Häufiger Fehler:** Bei Hyperventilation wird die Tüte zu groß oder zu lange benutzt. Erklären: „Nur kleine Tüte, nur wenige Atemzüge, nie länger als 1–2 min — sonst O2-Mangel."
+- **Häufiger Fehler:** Bei Hyperventilation wird die Tüte zu groß oder zu lange benutzt. Erklären: „Nur kleine Tüte, nur wenige Atemzüge, nie länger als 1-2 min - sonst O2-Mangel."
 - **Krupp-Eltern:** „Wenn das Kind schreit, wird die Atmung schlimmer. Eltern beruhigen ist therapeutisch, nicht nur psychologisch."
-- **Insektenstich-Zeitdruck:** „Schwellung im Rachen kann innerhalb weniger Minuten lebensbedrohlich werden — Notarzt sofort, Eis von außen, Lagerung mit erhöhtem Oberkörper."
-- **Schnittstelle zu LF III:** „Beinahe-Ertrinken kann zum Herz-Kreislauf-Stillstand führen — HLW-Übergang in LF III."
+- **Insektenstich-Zeitdruck:** „Schwellung im Rachen kann innerhalb weniger Minuten lebensbedrohlich werden - Notarzt sofort, Eis von außen, Lagerung mit erhöhtem Oberkörper."
+- **Schnittstelle zu LF III:** „Beinahe-Ertrinken kann zum Herz-Kreislauf-Stillstand führen - HLW-Übergang in LF III."
 
 ### Reflexionsfragen
 - Welche Atemstörung kann sich am schnellsten lebensbedrohlich entwickeln?
@@ -287,7 +287,7 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 
 ---
 
-## 11 UE 6 — Integriertes Atemnot-Szenario + Blockabschluss (45 min, Kommentar S. 51–52, Mini-OSCE)
+## UE 6 - Integriertes Atemnot-Szenario + Blockabschluss (45 min, Kommentar S. 51-52, Mini-OSCE)
 
 ### Lernziele
 - TN versorgen ein integriertes Atemnot-Szenario mit Bewusstlosigkeit und leiten korrekt in HLW über.
@@ -304,14 +304,14 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | „Heute schließen wir den Block. Wir laufen ein Szenario wie im echten Einsatz, danach gibt es die Mini-OSCE." |
-| 5–15 | Theorie-Input | Kurze Wiederholung der Aspiration-Schemata Erwachsene + Kinder (S. 51–52) als Wiederauffrischung; Übergang in HLW bei Bewusstlosigkeit. Stoppuhr-Regel: Atemkontrolle max. 10 s, dann HLW. |
-| 15–30 | Praxis (Integriertes Szenario, 2er-Teams) | Szenario „Erwachsener aspiriert beim Essen, wird bewusstlos": Team 1 versorgt → ruft Notarzt → leitet HLW ein → Beatmung mit Beutel. Szenario „Kind mit Spielzeug aspiriert": Team 2 versorgt nach S. 52 → bei Bewusstlosigkeit HLW-Schema Kind. Trainer:in beurteilt beide Teams live. |
-| 30–42 | Block-Abschluss / Reflexion / Mini-OSCE im Plenum | Reflexion im Plenum: „Was hat euch überrascht? Welche Atemstörung war neu für euch? Welche Frage ist offen geblieben?" 1–2 TN absolvieren die OSCE-Station live (Aspiration-Schema am Schauspielpatient in <90 s + O2-Berechnung), Plenum darf beobachten, Trainer:in kommentiert. Badge-Vergabe. |
-| 42–45 | Übergang zu LF III | Ausblick: „Im nächsten Block geht es um Herz-Kreislauf — wir vertiefen die HLW, den Larynx-Tubus und den AED. Atemkontrolle und Pulsmessung werden dort wieder aufgegriffen." Hausaufgabe (optional): „Beobachtet im Alltag 3× die Atmung eines Menschen — was fällt euch auf?" |
+| 0-5 | Hook | „Heute schließen wir den Block. Wir laufen ein Szenario wie im echten Einsatz, danach gibt es die Mini-OSCE." |
+| 5-15 | Theorie-Input | Kurze Wiederholung der Aspiration-Schemata Erwachsene + Kinder (S. 51-52) als Wiederauffrischung; Übergang in HLW bei Bewusstlosigkeit. Stoppuhr-Regel: Atemkontrolle max. 10 s, dann HLW. |
+| 15-30 | Praxis (Integriertes Szenario, 2er-Teams) | Szenario „Erwachsener aspiriert beim Essen, wird bewusstlos": Team 1 versorgt → ruft Notarzt → leitet HLW ein → Beatmung mit Beutel. Szenario „Kind mit Spielzeug aspiriert": Team 2 versorgt nach S. 52 → bei Bewusstlosigkeit HLW-Schema Kind. Trainer:in beurteilt beide Teams live. |
+| 30-42 | Block-Abschluss / Reflexion / Mini-OSCE im Plenum | Reflexion im Plenum: „Was hat euch überrascht? Welche Atemstörung war neu für euch? Welche Frage ist offen geblieben?" 1-2 TN absolvieren die OSCE-Station live (Aspiration-Schema am Schauspielpatient in <90 s + O2-Berechnung), Plenum darf beobachten, Trainer:in kommentiert. Badge-Vergabe. |
+| 42-45 | Übergang zu LF III | Ausblick: „Im nächsten Block geht es um Herz-Kreislauf - wir vertiefen die HLW, den Larynx-Tubus und den AED. Atemkontrolle und Pulsmessung werden dort wieder aufgegriffen." Hausaufgabe (optional): „Beobachtet im Alltag 3× die Atmung eines Menschen - was fällt euch auf?" |
 
 ### Trainer-Hinweise
-- **Häufiger Fehler:** TN vergessen den Notruf oder leiten die HLW nicht rechtzeitig ein. Verdeutlichen: „Sobald 'keine normale Atmung', starten — Lieber zu früh HLW als zu spät."
+- **Häufiger Fehler:** TN vergessen den Notruf oder leiten die HLW nicht rechtzeitig ein. Verdeutlichen: „Sobald 'keine normale Atmung', starten - Lieber zu früh HLW als zu spät."
 - **Mini-OSCE-Standard:** „Aspiration-Schema in <90 s + O2-Berechnung richtig → bestanden. Bei Nichtbestehen: Wiederholung in einer der Folge-UE vor LF III."
 - **Inklusion:** Unsichere TN zuerst in der Kleingruppe, dann vor dem Plenum.
 
@@ -340,8 +340,8 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 - Foto / Pinwand-Eintrag
 
 ### Übergang zu Lernfeld III
-- Ausblick: „Im nächsten Block geht es um Herz-Kreislauf — HLW, Larynx-Tubus, AED. Aspiration und Bewusstlosigkeit werden dort mit dem HLW-Schema verknüpft."
-- Hausaufgabe (optional): „Beobachtet im Alltag 3× Atmung und Puls eines Menschen — Frequenz, Regelmäßigkeit, Qualität."
+- Ausblick: „Im nächsten Block geht es um Herz-Kreislauf - HLW, Larynx-Tubus, AED. Aspiration und Bewusstlosigkeit werden dort mit dem HLW-Schema verknüpft."
+- Hausaufgabe (optional): „Beobachtet im Alltag 3× Atmung und Puls eines Menschen - Frequenz, Regelmäßigkeit, Qualität."
 
 ---
 
@@ -427,7 +427,7 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 └────────────────────────────────────────┘
 ```
 
-### 17.2 Atemnot-Erkennung — Quick-Check (DIN A5)
+### 17.2 Atemnot-Erkennung - Quick-Check (DIN A5)
 
 ```
 ┌────────────────────────────────────────┐
@@ -453,14 +453,14 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 └────────────────────────────────────────┘
 ```
 
-### 17.3 Atemkontrolle — Schritte (DIN A5)
+### 17.3 Atemkontrolle - Schritte (DIN A5)
 
 ```
 ┌────────────────────────────────────────┐
 │  1. Mundraum-Kontrolle (Fremdkörper?)  │
 │  2. Kopf in den Nacken beugen + UK     │
 │     vorziehen                         │
-│  3. Sehen — Hören — Spüren             │
+│  3. Sehen - Hören - Spüren             │
 │     (Hände am Kopf NICHT entfernen)    │
 │  4. Dauer: max. 10 Sekunden            │
 │  5. Keine normale Atmung → HLW         │
@@ -495,14 +495,14 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 
 ```
 ┌────────────────────────────────────────┐
-│  LIPPENBREMSE — bei Asthma-Anfall      │
+│  LIPPENBREMSE - bei Asthma-Anfall      │
 │                                        │
 │  1. Patient auffordern, langsam auszu- │
 │     atmen.                             │
 │  2. Lippen locker aufeinanderlegen,    │
 │     leicht spitz oder breitgezogen.    │
 │  3. Ausatmung gegen den Widerstand     │
-│     der Lippen — 'puh wie auf eine     │
+│     der Lippen - 'puh wie auf eine     │
 │     heiße Suppe'.                      │
 │  4. Atemhilfsmuskulatur entspannt      │
 │     sich, Bronchien bleiben länger     │
@@ -517,7 +517,7 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 
 ```
 ┌────────────────────────────────────────┐
-│  RÜCKATMUNG — bei Hyperventilation     │
+│  RÜCKATMUNG - bei Hyperventilation     │
 │                                        │
 │  Indikation: Pfötchenstellung,         │
 │  Karpfenmund, Kribbeln                 │
@@ -525,7 +525,7 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 │  1. Patient beruhigen (4-S-Regel!)     │
 │  2. In Gespräch verwickeln             │
 │  3. Kleine Plastiktüte über Mund +     │
-│     Nase — max. 1–2 Minuten           │
+│     Nase - max. 1-2 Minuten           │
 │  4. Tüte vorher entleeren (kein         │
 │     Sauerstoffentzug über die Norm)    │
 │                                        │
@@ -539,8 +539,8 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 ### 17.7 Blockhefter-Inhalt LF II (Erweiterung des Hefters aus LF I, 1/TN)
 
 1. Anatomie-Karte Atemwege
-2. Atemnot-Erkennung — Quick-Check
-3. Atemkontrolle — Schritte
+2. Atemnot-Erkennung - Quick-Check
+3. Atemkontrolle - Schritte
 4. ABCDE-Karte (aus LF I)
 5. SAMPLER-Karte (aus LF I)
 6. O2-Berechnungs-Karte

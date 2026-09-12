@@ -1,11 +1,11 @@
-# SanH-Ausbildung — Trainer-Konzept Lernfeld VII
+# SanH-Ausbildung - Trainer-Konzept Lernfeld VII
 
 ## Sondersituationen und Notfälle abseits der Routine
 
-**Curriculum-Bezug:** Begleitender Kommentar 2018, S. 45–46
+**Curriculum-Bezug:** Begleitender Kommentar 2018, S. 45-46
 **Umfang:** 4 Unterrichtseinheiten à 45 min = 180 min
 **Zielgruppe:** Sanitätshelfer-Anfänger (Mindestalter 16, Erste-Hilfe-Kurs vorausgesetzt)
-**Theorie-Praxis-Verhältnis:** 25 % Theorie, 75 % Praxis (JUH-Standard 1/3 : 2/3; hier zugunsten Praxis verschoben — Sondersituationen lernt man im Rollenspiel)
+**Theorie-Praxis-Verhältnis:** 25 % Theorie, 75 % Praxis (JUH-Standard 1/3 : 2/3; hier zugunsten Praxis verschoben - Sondersituationen lernt man im Rollenspiel)
 
 ---
 
@@ -24,7 +24,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 *Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen*
 
-**Prüfungsrelevanz:** LZ 1–6 sind prüfungsrelevant und werden am Blockende mit einer 12-min Mini-OSCE (Szenario-basiert) überprüft.
+**Prüfungsrelevanz:** LZ 1-6 sind prüfungsrelevant und werden am Blockende mit einer 12-min Mini-OSCE (Szenario-basiert) überprüft.
 
 ---
 
@@ -49,7 +49,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 | Material | Menge | Wofür |
 |---|---|---|
-| Schauspielpatienten (Rekrutierung mind. 3 Personen — für Gewalt-Szenarien) | 3 | UE 2, UE 4 |
+| Schauspielpatienten (Rekrutierung mind. 3 Personen - für Gewalt-Szenarien) | 3 | UE 2, UE 4 |
 | Reaktionszeit-Stoppuhr | 1 | UE 1 MANV-Übung |
 | Funkgeräte (oder einfache Walkie-Talkies) | 4 | UE 1 MANV-Table-Top |
 | Moderationskarten MANV-Szenarien (4 Stück, s. Druckvorlage 17.1) | 4 | UE 1 |
@@ -57,7 +57,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | Deeskalations-Übersichtstafel (DIN A2, s. Druckvorlage 17.2) | 1 | UE 2 |
 | Rollenkarten „Konflikt-Szenarien" (6 Stück, s. Druckvorlage 17.3) | 6 | UE 2, UE 4 |
 | Stresssyndrom-Symptom-Karten (DIN A6, 8 Stück) | 8 | UE 3 |
-| Fallbeispiel-Karten „Einsatznachsorge" (3 echte Fallvignetten, anonymisiert — z. B. aus JUH-Einsatznachsorge-Material, s. Druckvorlage 17.4) | 3 | UE 3 |
+| Fallbeispiel-Karten „Einsatznachsorge" (3 echte Fallvignetten, anonymisiert - z. B. aus JUH-Einsatznachsorge-Material, s. Druckvorlage 17.4) | 3 | UE 3 |
 | Reflexionsbogen „Mein Stress-Selbsttest" (1/TN, s. Druckvorlage 17.5) | TN-Anzahl | UE 3 |
 | Info-Flyer „Einsatznachsorge Johanniter" (kostenfrei bestellbar) | 1/TN | UE 3 Verteilung |
 | Einweghandschuhe | 20 Paare | alle UE |
@@ -65,7 +65,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | Verbandsmaterial + Moulage-Set (für MANV-Szenarien) | 1 Set | UE 1, UE 4 |
 | Rettungsdecken + Wolldecken | 5 + 5 | UE 1, UE 4 |
 | Mini-OSCE-Bogen (s. Druckvorlage 17.6) | 1/TN | Blockende |
-| Blockhefter „LF VII — Sondersituationen" | 1/TN | Vor Blockbeginn austeilen |
+| Blockhefter „LF VII - Sondersituationen" | 1/TN | Vor Blockbeginn austeilen |
 
 **Beschaffung:** Schauspielpatienten 6 Wochen vor Blockbeginn anfragen (Gewalt-Rollenspiele brauchen mehr Vorbereitung!). JUH-Einsatznachsorge-Flyer 4 Wochen vorher bestellen.
 
@@ -112,11 +112,11 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 ---
 
-## 6 UE 1 — Mehrere Verletzte und MANV-Einführung (45 min, Kommentar S. 46)
+## UE 1 - Mehrere Verletzte und MANV-Einführung (45 min, Kommentar S. 46)
 
 ### Lernziele
 - TN verschaffen sich bei einem Massenanfall von Verletzten einen Überblick und setzen einen gezielten Notruf ab.
-- TN verstehen die MANV-Schwelle (ab ca. 5–10 Verletzten je nach Patient:Helfer-Verhältnis) und die Führungsstruktur (LNA/OrgL).
+- TN verstehen die MANV-Schwelle (ab ca. 5-10 Verletzten je nach Patient:Helfer-Verhältnis) und die Führungsstruktur (LNA/OrgL).
 
 ### Material
 - Moderationskarten MANV-Szenarien (4 Stück)
@@ -131,18 +131,18 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | „Stellt euch vor, ihr kommt zu einem Sanitätsdienst auf ein Stadtfest. Plötzlich bricht eine Massenpanik aus. Schreie, Menschen liegen am Boden. Was ist euer erster Impuls?" TN sammeln, keine Bewertung. |
-| 5–13 | Theorie-Input | Definition MANV (Massenanfall von Verletzten) ab ca. 5–10 Verletzten je nach Patient:Helfer-Verhältnis. Wichtig: KEIN vollständiges MANV-Konzept in Modul B2 — Verweis auf weiterführende MANV-Ausbildung. Führungsstruktur: LNA (Leitender Notarzt) + OrgL (Organisatorischer Leiter) — kurze Erwähnung, Aufgabe: Sichtung, Verteilung, Anforderung weiterer Kräfte. Schritte nach Kommentar S. 46: Eigenschutz, Überblick verschaffen, gezielter Notruf mit relevanten Angaben, situationsabhängiges Vorgehen, sich nicht überschätzen, Weisungen von Führungskräften befolgen. |
-| 13–38 | Praxis (Table-Top-Übung, 4er-Gruppen, 25 min) | Gruppe 1: „Stadtfest-Panik" — 8 „Verletzte" (Moulage-Karten), TN müssen Lage erkunden, Lagekarte ausfüllen, Funknotruf absetzen. Gruppe 2: „Busunfall 12 Verletzte" — TN müssen erste Sichtung („Sichtungskategorien I-IV" nur kurz erwähnen), Reihenfolge der Hilfeleistung, Funknotruf mit exakter Anzahl und Art der Verletzungen. Gruppe 3 + 4: Parallel mit leichteren Szenarien (5 Verletzte Schulausflug, 6 Verletzte Betriebsunfall). Trainer:in rotiert, Stoppuhr 25 min, danach 5 min Vorstellung der Ergebnisse pro Gruppe (nur Highlights). |
-| 38–43 | Reflexion | „Was war die größte Hürde beim Funken? Wann hättet ihr euch selbst überschätzt? Wie fühlt es sich an, wenn plötzlich 10 Personen Hilfe brauchen und ihr seid nur zu zweit?" |
-| 43–45 | Mini-Lernziel-Check | 1 TN füllt Lagekarte in <90 s aus + formuliert Funknotruf. Badge „MANV-Operator" vergeben. |
+| 0-5 | Hook | „Stellt euch vor, ihr kommt zu einem Sanitätsdienst auf ein Stadtfest. Plötzlich bricht eine Massenpanik aus. Schreie, Menschen liegen am Boden. Was ist euer erster Impuls?" TN sammeln, keine Bewertung. |
+| 5-13 | Theorie-Input | Definition MANV (Massenanfall von Verletzten) ab ca. 5-10 Verletzten je nach Patient:Helfer-Verhältnis. Wichtig: KEIN vollständiges MANV-Konzept in Modul B2 - Verweis auf weiterführende MANV-Ausbildung. Führungsstruktur: LNA (Leitender Notarzt) + OrgL (Organisatorischer Leiter) - kurze Erwähnung, Aufgabe: Sichtung, Verteilung, Anforderung weiterer Kräfte. Schritte nach Kommentar S. 46: Eigenschutz, Überblick verschaffen, gezielter Notruf mit relevanten Angaben, situationsabhängiges Vorgehen, sich nicht überschätzen, Weisungen von Führungskräften befolgen. |
+| 13-38 | Praxis (Table-Top-Übung, 4er-Gruppen, 25 min) | Gruppe 1: „Stadtfest-Panik" - 8 „Verletzte" (Moulage-Karten), TN müssen Lage erkunden, Lagekarte ausfüllen, Funknotruf absetzen. Gruppe 2: „Busunfall 12 Verletzte" - TN müssen erste Sichtung („Sichtungskategorien I-IV" nur kurz erwähnen), Reihenfolge der Hilfeleistung, Funknotruf mit exakter Anzahl und Art der Verletzungen. Gruppe 3 + 4: Parallel mit leichteren Szenarien (5 Verletzte Schulausflug, 6 Verletzte Betriebsunfall). Trainer:in rotiert, Stoppuhr 25 min, danach 5 min Vorstellung der Ergebnisse pro Gruppe (nur Highlights). |
+| 38-43 | Reflexion | „Was war die größte Hürde beim Funken? Wann hättet ihr euch selbst überschätzt? Wie fühlt es sich an, wenn plötzlich 10 Personen Hilfe brauchen und ihr seid nur zu zweit?" |
+| 43-45 | Mini-Lernziel-Check | 1 TN füllt Lagekarte in <90 s aus + formuliert Funknotruf. Badge „MANV-Operator" vergeben. |
 
 ### Trainer-Hinweise
 - **Häufiger Fehler:** TN beginnen sofort mit Behandeln statt mit Überblick und Notruf. Trainer:in stellt sich vor die „Patienten" und sagt: „Stopp! Was ist euer ERSTER Schritt?" → Antwort muss lauten: Überblick + Notruf.
 - **Nicht überfrachten:** Modul B2 vermittelt KEIN vollständiges MANV-Konzept. TN auf weiterführende MANV-Ausbildung hinweisen (JUH-MANV-Kurs, in der Regel 8 UE).
-- **LNA/OrgL:** Nur kurz erwähnen — Aufgabe ist, dass TN im Echtfall Weisungen befolgen, nicht selbst führen. Brücke zu LF IV (Polytrauma-Versorgung, ähnliche Logik der Sichtung).
-- **Schnittstelle zu LF I:** „Eigenschutz, ABCDE, Notruf — ihr kennt das alles schon. Hier kommt Stress und Zeitdruck dazu."
-- **Realitäts-Hinweis:** „Im Echtfall werdet ihr oft die Sekunde 'einfrieren' — das ist normal. Atmet einmal durch, dann erst überlegen."
+- **LNA/OrgL:** Nur kurz erwähnen - Aufgabe ist, dass TN im Echtfall Weisungen befolgen, nicht selbst führen. Brücke zu LF IV (Polytrauma-Versorgung, ähnliche Logik der Sichtung).
+- **Schnittstelle zu LF I:** „Eigenschutz, ABCDE, Notruf - ihr kennt das alles schon. Hier kommt Stress und Zeitdruck dazu."
+- **Realitäts-Hinweis:** „Im Echtfall werdet ihr oft die Sekunde 'einfrieren' - das ist normal. Atmet einmal durch, dann erst überlegen."
 
 ### Reflexionsfragen
 - Welche Information muss im Funknotruf unbedingt enthalten sein, damit die Leitstelle weitere Kräfte schickt?
@@ -150,14 +150,14 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 ---
 
-## 7 UE 2 — Gewalt im Einsatz: Erkennen und Deeskalation (45 min, Kommentar S. 46)
+## UE 2 - Gewalt im Einsatz: Erkennen und Deeskalation (45 min, Kommentar S. 46)
 
 ### Lernziele
 - TN erkennen auslösende Faktoren für Gewalt im Einsatz.
 - TN wenden Deeskalationsstrategien an (ruhiges Auftreten, Talk down, „Stop!", Rückzug, Hilfe anfordern).
 
 ### Material
-- Schauspielpatienten (mind. 2 — einer als „aggressiver Patient", eine als „aggressiver Angehöriger")
+- Schauspielpatienten (mind. 2 - einer als „aggressiver Patient", eine als „aggressiver Angehöriger")
 - Deeskalations-Übersichtstafel (DIN A2)
 - Rollenkarten „Konflikt-Szenarien" (6 Stück)
 - Stoppuhr
@@ -167,18 +167,18 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | Schauspielpatient spielt eine wütende Szene (Person am Eingang, schreit: „Mein Vater wartet seit 3 Stunden — jetzt kümmert euch endlich!"). Trainer:in stoppt nach 60 s. „Was habt ihr gesehen? Was war der Auslöser? Was hättet ihr getan?" TN sammeln, keine Bewertung. |
-| 5–15 | Theorie-Input | Auslösende Faktoren (Kommentar S. 46): Angst, Stress, Überlastung, Alkohol-/Drogeneinfluss, Gruppendynamik, provokantes Auftreten, Wahrnehmungs-/Kommunikationsstörung, Konflikt im Team, Anspruchsdenken, häusliche Gewalt. Auch Einsatzkräfte können durch eskalierendes Verhalten Gewalt PROVOZIEREN. Deeskalationsstrategien: ruhiges und besonnenes Auftreten, nicht provozieren lassen, kein Rechthaben um jeden Preis, frühzeitig Hilfe anfordern, Talk down, „Stop!" als klare Grenze, Rückzug wenn nötig. Vorbeugung: eigenes Verhalten spiegeln, Deeskalation erlernen, Selbstverteidigungstechniken (nur erwähnen, kein Kurs). |
-| 15–40 | Praxis (3er-Gruppen, 6 Rollenspiele à 6 min + Wechsel) | Szenario-Pool: (1) Betrunkener Jugendlicher nach Sturz, (2) Wütender Angehöriger im Wartebereich, (3) Patient mit akuter Psychose, (4) Gruppe provozierender Passanten, (5) Häusliche Gewalt — Angehöriger droht, (6) Sprachbarriere + Frustration. Jede 3er-Gruppe zieht 1 Szenario, spielt 6 min, beobachtet 6 min, debriefed 3 min. Trainer:in + Co-Trainer:in rotieren, geben Live-Feedback (insbesondere: „Hast du gerade eskaliert?"). Nach 18 min Rollentausch: andere 3er-Gruppen spielen die übrigen Szenarien. |
-| 40–43 | Reflexion | „Welche Deeskalations-Strategie war am wirksamsten? Wann hättet ihr 'Stop!' gesagt? Wann hättet ihr euch zurückgezogen?" |
-| 43–45 | Mini-Lernziel-Check | 1 TN spielt ein 90-s-Kurz-Szenario, wendet mind. 1 Deeskalationsstrategie an. Trainer:in bewertet. Badge „Deeskalations-Profi". |
+| 0-5 | Hook | Schauspielpatient spielt eine wütende Szene (Person am Eingang, schreit: „Mein Vater wartet seit 3 Stunden - jetzt kümmert euch endlich!"). Trainer:in stoppt nach 60 s. „Was habt ihr gesehen? Was war der Auslöser? Was hättet ihr getan?" TN sammeln, keine Bewertung. |
+| 5-15 | Theorie-Input | Auslösende Faktoren (Kommentar S. 46): Angst, Stress, Überlastung, Alkohol-/Drogeneinfluss, Gruppendynamik, provokantes Auftreten, Wahrnehmungs-/Kommunikationsstörung, Konflikt im Team, Anspruchsdenken, häusliche Gewalt. Auch Einsatzkräfte können durch eskalierendes Verhalten Gewalt PROVOZIEREN. Deeskalationsstrategien: ruhiges und besonnenes Auftreten, nicht provozieren lassen, kein Rechthaben um jeden Preis, frühzeitig Hilfe anfordern, Talk down, „Stop!" als klare Grenze, Rückzug wenn nötig. Vorbeugung: eigenes Verhalten spiegeln, Deeskalation erlernen, Selbstverteidigungstechniken (nur erwähnen, kein Kurs). |
+| 15-40 | Praxis (3er-Gruppen, 6 Rollenspiele à 6 min + Wechsel) | Szenario-Pool: (1) Betrunkener Jugendlicher nach Sturz, (2) Wütender Angehöriger im Wartebereich, (3) Patient mit akuter Psychose, (4) Gruppe provozierender Passanten, (5) Häusliche Gewalt - Angehöriger droht, (6) Sprachbarriere + Frustration. Jede 3er-Gruppe zieht 1 Szenario, spielt 6 min, beobachtet 6 min, debriefed 3 min. Trainer:in + Co-Trainer:in rotieren, geben Live-Feedback (insbesondere: „Hast du gerade eskaliert?"). Nach 18 min Rollentausch: andere 3er-Gruppen spielen die übrigen Szenarien. |
+| 40-43 | Reflexion | „Welche Deeskalations-Strategie war am wirksamsten? Wann hättet ihr 'Stop!' gesagt? Wann hättet ihr euch zurückgezogen?" |
+| 43-45 | Mini-Lernziel-Check | 1 TN spielt ein 90-s-Kurz-Szenario, wendet mind. 1 Deeskalationsstrategie an. Trainer:in bewertet. Badge „Deeskalations-Profi". |
 
 ### Trainer-Hinweise
-- **Häufiger Fehler:** TN werden selbst laut, weil die SP-Situationen emotional sind. Trainer:in stoppt sofort, fragt: „Wer eskaliert gerade — du oder die andere Person?" → Ziel: Selbstwahrnehmung schärfen.
+- **Häufiger Fehler:** TN werden selbst laut, weil die SP-Situationen emotional sind. Trainer:in stoppt sofort, fragt: „Wer eskaliert gerade - du oder die andere Person?" → Ziel: Selbstwahrnehmung schärfen.
 - **Psychische Sicherheit:** Vor Rollenspielen Ausstiegs-Signal vereinbaren (z. B. Hand heben). Wenn TN eine Rolle nicht spielen will → alternative Aufgabe (Beobachten + Protokollieren).
 - **Selbstverteidigung:** Nur kurz erwähnen, KEIN Training in Modul B2. Verweis auf JUH-Deeskalations-Kurse / Selbstverteidigungs-Kurse.
 - **Realitäts-Hinweis:** „Es gibt keine Garantie. Wenn ihr euch bedroht fühlt: HILFE ANFORDERN, dann RÜCKZUG, dann erst eigene Maßnahmen."
-- **Schnittstelle zu LF I:** „Die 4-S-Regel hilft auch hier — Sagen (ruhig), Schützen (Grenzen setzen), Schirmen (sich zurückziehen), Sorgen (Hilfe holen)."
+- **Schnittstelle zu LF I:** „Die 4-S-Regel hilft auch hier - Sagen (ruhig), Schützen (Grenzen setzen), Schirmen (sich zurückziehen), Sorgen (Hilfe holen)."
 
 ### Reflexionsfragen
 - Welche Situation hat euch am meisten Angst gemacht? Wie würdet ihr euch vorbereiten?
@@ -186,7 +186,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 ---
 
-## 8 UE 3 — Einsatznachsorge und Stresssyndrom erkennen (45 min, Kommentar S. 46)
+## UE 3 - Einsatznachsorge und Stresssyndrom erkennen (45 min, Kommentar S. 46)
 
 ### Lernziele
 - TN erkennen Stresssyndrom-Symptome bei sich und anderen.
@@ -204,19 +204,19 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | „Stellt euch vor, ihr hattet letzte Woche einen Einsatz mit einem verstorbenen Kind. Ihr habt geschlafen, aber wacht mit Herzrasen auf und könnt das Bild nicht abschalten. Was ist das? Was könnt ihr tun?" TN tauschen sich kurz aus, keine Bewertung — Sammlung an Flipchart. |
-| 5–15 | Theorie-Input | Belastende Einsätze können Stresssyndrom auslösen. Symptome (Kommentar S. 46): Lethargie, Antriebslosigkeit, sozialer Rückzug; somatische Störungen (Kopfschmerzen, Magen-Darm); Schlafstörungen; Flashbacks („Bilder vor Augen"); Vermeidungshaltung; Substanzmissbrauch (Alkohol, Nikotin, Medikamente). Wichtig: Symptome treten ISOLIERT und JEDERZEIT nach Einsatz auf. Betroffene sind oft auf Anstöße von außen angewiesen, um Hilfsmaßnahmen anzunehmen. Hilfsangebote: Einsatznachsorgeteams deutschlandweit, 24h-Meldezentrale 0800 2699701, für Johanniter kostenfrei, ohne vorherige Genehmigung in Anspruch zu nehmen. Web: www.johanniter.de/einsatznachsorge. |
-| 15–35 | Praxis (Partnerarbeit + Gruppendiskussion, 20 min) | Runde 1 (10 min): TN arbeiten in 3er-Gruppen, ziehen 3 Symptom-Karten, ordnen sie in „leicht erkennbar" / „schwer erkennbar" / „oft übersehen" + erarbeiten jeweils eine Frage, die sie Kolleg:innen stellen würden. Runde 2 (10 min): Jede Gruppe erhält eine Fallvignette (anonymisiert — Tod eines Kindes, Suizid-Einsatz, Massenkarambolage), diskutiert 10 min: „Welche Symptome könnten auftreten? Wer im Umfeld merkt es zuerst? Was würdet ihr tun?" Trainer:in + Co-Trainer:in moderieren. |
-| 35–42 | Reflexion | „Was war neu für euch? Welches Symptom hättet ihr bei euch selbst übersehen? Wie würdet ihr heute die Meldezentrale nutzen?" Info-Flyer werden ausgeteilt. |
-| 42–45 | Mini-Lernziel-Check | 1 TN ordnet 4 Symptom-Karten korrekt zu + nennt die Meldezentrale-Nummer. Badge „Einsatznachsorge-Scout" bei 5/6 oder besser. |
+| 0-5 | Hook | „Stellt euch vor, ihr hattet letzte Woche einen Einsatz mit einem verstorbenen Kind. Ihr habt geschlafen, aber wacht mit Herzrasen auf und könnt das Bild nicht abschalten. Was ist das? Was könnt ihr tun?" TN tauschen sich kurz aus, keine Bewertung - Sammlung an Flipchart. |
+| 5-15 | Theorie-Input | Belastende Einsätze können Stresssyndrom auslösen. Symptome (Kommentar S. 46): Lethargie, Antriebslosigkeit, sozialer Rückzug; somatische Störungen (Kopfschmerzen, Magen-Darm); Schlafstörungen; Flashbacks („Bilder vor Augen"); Vermeidungshaltung; Substanzmissbrauch (Alkohol, Nikotin, Medikamente). Wichtig: Symptome treten ISOLIERT und JEDERZEIT nach Einsatz auf. Betroffene sind oft auf Anstöße von außen angewiesen, um Hilfsmaßnahmen anzunehmen. Hilfsangebote: Einsatznachsorgeteams deutschlandweit, 24h-Meldezentrale 0800 2699701, für Johanniter kostenfrei, ohne vorherige Genehmigung in Anspruch zu nehmen. Web: www.johanniter.de/einsatznachsorge. |
+| 15-35 | Praxis (Partnerarbeit + Gruppendiskussion, 20 min) | Runde 1 (10 min): TN arbeiten in 3er-Gruppen, ziehen 3 Symptom-Karten, ordnen sie in „leicht erkennbar" / „schwer erkennbar" / „oft übersehen" + erarbeiten jeweils eine Frage, die sie Kolleg:innen stellen würden. Runde 2 (10 min): Jede Gruppe erhält eine Fallvignette (anonymisiert - Tod eines Kindes, Suizid-Einsatz, Massenkarambolage), diskutiert 10 min: „Welche Symptome könnten auftreten? Wer im Umfeld merkt es zuerst? Was würdet ihr tun?" Trainer:in + Co-Trainer:in moderieren. |
+| 35-42 | Reflexion | „Was war neu für euch? Welches Symptom hättet ihr bei euch selbst übersehen? Wie würdet ihr heute die Meldezentrale nutzen?" Info-Flyer werden ausgeteilt. |
+| 42-45 | Mini-Lernziel-Check | 1 TN ordnet 4 Symptom-Karten korrekt zu + nennt die Meldezentrale-Nummer. Badge „Einsatznachsorge-Scout" bei 5/6 oder besser. |
 
 ### Trainer-Hinweise
 - **Häufiger Fehler:** TN verwechseln „Stresssyndrom" mit „Burnout". Klarstellen: Stresssyndrom = Reaktion auf konkretes belastendes Ereignis; Burnout = langfristige Überlastung. Beides ist behandelbar.
-- **Eigene Erfahrungen:** Trainer:in kann (wenn gewünscht) eine eigene belastende Einsatz-Erfahrung teilen — normalisiert das Thema. Aber: NIEMALS TN zwingen, eigene Erfahrungen zu teilen.
+- **Eigene Erfahrungen:** Trainer:in kann (wenn gewünscht) eine eigene belastende Einsatz-Erfahrung teilen - normalisiert das Thema. Aber: NIEMALS TN zwingen, eigene Erfahrungen zu teilen.
 - **Schweigepflicht:** TN können sich ohne Genehmigung an die Meldezentrale wenden. Das ist KEIN Schwachsein, sondern professionelle Selbstfürsorge.
-- **Brücke zu LF VI:** „Schmerz kann auch psychisch sein — Stress und Belastung können Kopf-, Zahn-, Rückenschmerzen auslösen."
-- **Realitäts-Hinweis:** „Ihr müsst nicht alles alleine tragen — dafür gibt es das Netzwerk."
-- **Schnittstelle zu LF I:** „Schon in LF I haben wir über Belastung gesprochen — jetzt lernt ihr das konkrete Hilfsangebot kennen."
+- **Brücke zu LF VI:** „Schmerz kann auch psychisch sein - Stress und Belastung können Kopf-, Zahn-, Rückenschmerzen auslösen."
+- **Realitäts-Hinweis:** „Ihr müsst nicht alles alleine tragen - dafür gibt es das Netzwerk."
+- **Schnittstelle zu LF I:** „Schon in LF I haben wir über Belastung gesprochen - jetzt lernt ihr das konkrete Hilfsangebot kennen."
 
 ### Reflexionsfragen
 - Welche 3 Routinen könntet ihr nach belastenden Einsätzen einbauen (z. B. „kurz mit Kolleg:in sprechen", „1 Stunde bewusst Pause")?
@@ -224,7 +224,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 ---
 
-## 9 UE 4 — Praxis-Vertiefung und Block-Abschluss (45 min, Kommentar S. 45–46)
+## UE 4 - Praxis-Vertiefung und Block-Abschluss (45 min, Kommentar S. 45-46)
 
 ### Lernziele
 - TN integrieren alle LF-VII-Inhalte in praxisnahen Sondersituationen.
@@ -245,18 +245,18 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | „Heute bündeln wir alles: MANV, Gewalt, Einsatznachsorge. Ein Block — vier Szenarien. Bereit?" TN nicken oder zeigen Stress-Signal — Trainer:in justiert Tempo. |
-| 5–12 | Theorie-Input (kompakt) | Kurze Wiederholung der 3 Hauptthemen an Flipchart: (1) MANV-Schritte, (2) Deeskalations-Stopp-Wörter („Stop!" / „Ich hole Hilfe" / „Wir gehen einen Schritt zurück"), (3) Einsatznachsorge-Aktivierung („Wer ist deine Vertrauensperson?"). Wichtig: Hier wird NICHTS Neues mehr erklärt — nur Wiederholung. |
-| 12–36 | Praxis (4 Mini-Stationen, 4er-Gruppen, je 6 min + 1 min Wechsel = 28 min) | Station 1 — MANV-Table-Top (8 min): Funknotruf mit korrekten Angaben, Lagekarte ausfüllen, Reihenfolge der Hilfeleistung. Station 2 — Deeskalation (8 min): Rollenspiel „aggressiver Angehöriger" + Trainer:in als Co-Deeskalations-Partner:in. Station 3 — Stresssyndrom-Erkennung (6 min): Fallvignette diskutieren + passende Maßnahme wählen. Station 4 — Einsatznachsorge-Aktivierung (6 min): Reflexionsbogen ausfüllen + persönlichen Notfall-Plan skizzieren („Wenn ich XY brauche, rufe ich Z an"). Trainer:in + Co-Trainer:in rotieren, Live-Feedback. |
-| 36–42 | Reflexion + Block-Briefing | Reflexion im Plenum (6 min): „Was nehmt ihr aus diesem Block mit? Welche Sondersituation fühlt ihr euch jetzt sicherer?" Trainer:in fasst Brücke zu kommenden Blöcken zusammen: „In LF V (Bewusstlosigkeit/Demenz) und LF IV (Polytrauma) werden wir MANV-Aspekte wieder aufgreifen." |
-| 42–45 | Badge-Vergabe + Abschluss | Verteilung der Badges. Nicht-bestandene OSCE-Stationen werden im Folge-Block wiederholt. Optional: gemeinsames Foto mit allen TN, die 4/4 erreicht haben. |
+| 0-5 | Hook | „Heute bündeln wir alles: MANV, Gewalt, Einsatznachsorge. Ein Block - vier Szenarien. Bereit?" TN nicken oder zeigen Stress-Signal - Trainer:in justiert Tempo. |
+| 5-12 | Theorie-Input (kompakt) | Kurze Wiederholung der 3 Hauptthemen an Flipchart: (1) MANV-Schritte, (2) Deeskalations-Stopp-Wörter („Stop!" / „Ich hole Hilfe" / „Wir gehen einen Schritt zurück"), (3) Einsatznachsorge-Aktivierung („Wer ist deine Vertrauensperson?"). Wichtig: Hier wird NICHTS Neues mehr erklärt - nur Wiederholung. |
+| 12-36 | Praxis (4 Mini-Stationen, 4er-Gruppen, je 6 min + 1 min Wechsel = 28 min) | Station 1 - MANV-Table-Top (8 min): Funknotruf mit korrekten Angaben, Lagekarte ausfüllen, Reihenfolge der Hilfeleistung. Station 2 - Deeskalation (8 min): Rollenspiel „aggressiver Angehöriger" + Trainer:in als Co-Deeskalations-Partner:in. Station 3 - Stresssyndrom-Erkennung (6 min): Fallvignette diskutieren + passende Maßnahme wählen. Station 4 - Einsatznachsorge-Aktivierung (6 min): Reflexionsbogen ausfüllen + persönlichen Notfall-Plan skizzieren („Wenn ich XY brauche, rufe ich Z an"). Trainer:in + Co-Trainer:in rotieren, Live-Feedback. |
+| 36-42 | Reflexion + Block-Briefing | Reflexion im Plenum (6 min): „Was nehmt ihr aus diesem Block mit? Welche Sondersituation fühlt ihr euch jetzt sicherer?" Trainer:in fasst Brücke zu kommenden Blöcken zusammen: „In LF V (Bewusstlosigkeit/Demenz) und LF IV (Polytrauma) werden wir MANV-Aspekte wieder aufgreifen." |
+| 42-45 | Badge-Vergabe + Abschluss | Verteilung der Badges. Nicht-bestandene OSCE-Stationen werden im Folge-Block wiederholt. Optional: gemeinsames Foto mit allen TN, die 4/4 erreicht haben. |
 
 ### Trainer-Hinweise
 - **Häufiger Fehler:** TN überfordern sich in den Mini-Stationen, weil 4 Szenarien in 28 min dicht sind. Trainer:in justiert Tempo: lieber 3 Stationen gut als 4 Stationen halb.
-- **Realitäts-Tiefe:** Szenarien sind hier BEWUSST anspruchsvoller als in den vorherigen UE. Trainer:in darf sagen: „Das ist ein Endspurt — traut euch, Fehler zu machen."
+- **Realitäts-Tiefe:** Szenarien sind hier BEWUSST anspruchsvoller als in den vorherigen UE. Trainer:in darf sagen: „Das ist ein Endspurt - traut euch, Fehler zu machen."
 - **Schweigepflicht + Schweigeübung:** Vor OSCE nochmal explizit darauf hinweisen: „Was hier gespielt wird, bleibt im Raum. Auch die belastenden Szenarien."
-- **Brücke zu Gesamtkurs:** „In allen weiteren Blöcken kommt das hier Gelernte vor — nicht als Extra, sondern als integraler Bestandteil eurer SanH-Rolle."
-- **Schnittstelle zu LF VI:** „Schmerz, Stress und Sondersituationen gehören zusammen — ein Patient mit akutem Abdomen im MANV ist eine andere Liga als ein Einzelpatient in der Praxis."
+- **Brücke zu Gesamtkurs:** „In allen weiteren Blöcken kommt das hier Gelernte vor - nicht als Extra, sondern als integraler Bestandteil eurer SanH-Rolle."
+- **Schnittstelle zu LF VI:** „Schmerz, Stress und Sondersituationen gehören zusammen - ein Patient mit akutem Abdomen im MANV ist eine andere Liga als ein Einzelpatient in der Praxis."
 
 ### Reflexionsfragen
 - Welches Szenario aus diesem Block würdet ihr gerne nochmal üben?
@@ -278,16 +278,16 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 ### Reflexionsrunde (15 min, im Plenum)
 - „Was hat euch in diesem Block am meisten überrascht?"
-- „Welche Sondersituation werdet ihr am meisten fürchten — und wie wollt ihr euch vorbereiten?"
+- „Welche Sondersituation werdet ihr am meisten fürchten - und wie wollt ihr euch vorbereiten?"
 - „Welche Frage ist offen geblieben?"
 
 ### Badge-Vergabe
 - 4/4 Badges = SanH-Fitness-Level „Krisen-Manager:in"
 - Foto / Pinwand-Eintrag
-- Info-Flyer „Einsatznachsorge" wird an ALLE TN verteilt — unabhängig vom Bestehen.
+- Info-Flyer „Einsatznachsorge" wird an ALLE TN verteilt - unabhängig vom Bestehen.
 
 ### Übergang zum Kurs-Abschluss (Modul B2)
-- Ausblick: „Wir sind am Ende von Modul B2. In der Abschlussprüfung kommen MANV, Deeskalation und Einsatznachsorge als Querschnittsthemen vor — nicht als eigene Station, sondern als 'Was-wäre-wenn'-Elemente."
+- Ausblick: „Wir sind am Ende von Modul B2. In der Abschlussprüfung kommen MANV, Deeskalation und Einsatznachsorge als Querschnittsthemen vor - nicht als eigene Station, sondern als 'Was-wäre-wenn'-Elemente."
 - Hausaufgabe (optional): „Beobachtet eine Woche lang, welche Sondersituationen euch im Alltag begegnen (Stau, Aggression im Supermarkt, Stress im Beruf). Wie würdet ihr reagieren?"
 
 ---
@@ -317,12 +317,12 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 |---|---|
 | JUH-Fachdozentenstatus | offiziell erforderlich für die Zertifizierung |
 | Eigener SanH-Abschluss + ≥ 5 Einsätze, davon mind. 1 belastender Einsatz | Glaubwürdigkeit, Praxisbezug |
-| Erfahrung mit Schauspielpatienten (Gewalt-Rollenspiele) | für UE 2 + UE 4 — kritisch, vorher eigenes Training |
+| Erfahrung mit Schauspielpatienten (Gewalt-Rollenspiele) | für UE 2 + UE 4 - kritisch, vorher eigenes Training |
 | Deeskalations-Schulung (z. B. JUH-Deeskalationskurs) | für UE 2 |
 | Kenntnis der JUH-Einsatznachsorge-Angebote | für UE 3 |
 | Hospitation bei erfahrenem SanH-Ausbilder (1×) | vor Erst-Einsatz |
 
-**Co-Trainer empfohlen ab 6 TN** (1 Trainer : 6 TN Maximum — Gewalt-Rollenspiele brauchen mehr Aufsicht).
+**Co-Trainer empfohlen ab 6 TN** (1 Trainer : 6 TN Maximum - Gewalt-Rollenspiele brauchen mehr Aufsicht).
 
 ---
 
@@ -346,7 +346,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | Maßnahme | Wann | Verantwortlich |
 |---|---|---|
 | Schriftliche TN-Feedbackbogen (inkl. psychische Belastung) | Blockende | Trainer |
-| Trainer-Selbstreflexion (20 min — Gewalt-Themen brauchen mehr) | nach Block | Trainer |
+| Trainer-Selbstreflexion (20 min - Gewalt-Themen brauchen mehr) | nach Block | Trainer |
 | Hospitation durch Mentoren (1× pro Jahr) | jährlich | Ausbildungsleitung |
 | Vergleich OSCE-Ergebnisse mit Vorjahr | nach Kursende | Ausbildungsleitung |
 | Trainer:in führt 1× pro Jahr Deeskalations-Auffrischung | jährlich | Ausbildungsleitung |
@@ -366,10 +366,10 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 │ Wetter: __________________  Verletzte ca.: ____________  │
 │                                                            │
 │ KATEGORIE          ANZAHL      MASSNAHME                   │
-│ I — Sofort         _____       Reanimation / Notarzt       │
-│ II — Dringend      _____       Versorgung + Transport      │
-│ III — Leicht       _____       Betreuung, später Transport │
-│ IV — Hoffnungslos  _____       Betreuung, Seelsorge        │
+│ I - Sofort         _____       Reanimation / Notarzt       │
+│ II - Dringend      _____       Versorgung + Transport      │
+│ III - Leicht       _____       Betreuung, später Transport │
+│ IV - Hoffnungslos  _____       Betreuung, Seelsorge        │
 │                                                            │
 │ FUNKNOTRUF (an Leitstelle / LNA):                          │
 │ ☐ „Mehrere Verletzte, genaue Anzahl: _____ "               │
@@ -388,7 +388,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 ```
 ┌───────────────────────────────────────────────────────────────┐
-│ DEESKALATION — STRATEGIEN                                       │
+│ DEESKALATION - STRATEGIEN                                       │
 ├───────────────────────────────────────────────────────────────┤
 │ 1. RUHE AUSSTRAHLEN                                             │
 │    → langsam sprechen, tiefer Atem, Blickkontakt ohne Starren   │
@@ -405,7 +405,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 │ 5. TALK DOWN                                                     │
 │    → „Ich sehe, Sie sind wütend. Helfen Sie mir, zu verstehen."│
 │                                                                  │
-│ 6. „STOP!" — KLARE GRENZE                                        │
+│ 6. „STOP!" - KLARE GRENZE                                        │
 │    → laut, deutlich, Hand heben, einmalige Wiederholung         │
 │                                                                  │
 │ 7. RÜCKZUG                                                       │
@@ -421,37 +421,37 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 ### 15.3 Konflikt-Szenario-Karten (DIN A6, 6 Karten)
 
 ```
-SZENARIO 1 — BETRUNKENER JUGENDLICHER
+SZENARIO 1 - BETRUNKENER JUGENDLICHER
 Setting: Sanitätsdienst, Discounteingang
 Rolle SP: sturzbetrunken, lallt, wird laut
 Auslöser: will „endlich nach Hause", SanH will Untersuchung
 Ziel: deeskalieren ohne Eskalation
 
-SZENARIO 2 — WÜTENDER ANGEHÖRIGER
+SZENARIO 2 - WÜTENDER ANGEHÖRIGER
 Setting: RTW-Hof, Patient:in versorgt im Wagen
 Rolle SP: Vater schreit, will Einlass, beschimpft SanH
 Auslöser: 3 Stunden Wartezeit auf RTW
 Ziel: „Ich verstehe Ihre Sorge" + Hilfe anfordern
 
-SZENARIO 3 — PATIENT MIT PSYCHOSE
+SZENARIO 3 - PATIENT MIT PSYCHOSE
 Setting: Wohnung, Patient:in allein, verwirrt
 Rolle SP: spricht mit nicht vorhandenen Personen, ängstlich, schubst
 Auslöser: Angst + Verfolgungswahn
 Ziel: ruhig ansprechen, Notarzt mit „psychiatrisch"
 
-SZENARIO 4 — PROVOZIERENDE GRUPPE
+SZENARIO 4 - PROVOZIERENDE GRUPPE
 Setting: Volksfest, größere Jugendgruppe
 Rolle SP: ruft „Sani-Volk!", wirft Flasche, bedrängt SanH
 Auslöser: Gruppendynamik + Alkohol
 Ziel: zurückziehen, Polizei rufen
 
-SZENARIO 5 — HÄUSLICHE GEWALT
+SZENARIO 5 - HÄUSLICHE GEWALT
 Setting: Wohnung, Patientin mit blauen Flecken
 Rolle SP: Ehemann freundlich, kontrolliert; Patientin schweigt
 Auslöser: Patientin will nicht reden mit Mann im Raum
 Ziel: Ehemann kurz rausbitten, Frau allein befragen, ggf. Polizei
 
-SZENARIO 6 — SPRACHBARRIERE + FRUSTRATION
+SZENARIO 6 - SPRACHBARRIERE + FRUSTRATION
 Setting: RTW, Patient spricht nur gebrochen Deutsch
 Rolle SP: zeigt auf Brust, sagt „Schmerz", versteht Frage nicht
 Auslöser: Angst + Nicht-Verstehen
@@ -461,7 +461,7 @@ Ziel: Piktogramme nutzen, Dolmetscher-Hotline, Notarzt
 ### 15.4 Fallvignetten Einsatznachsorge (3 Karten, anonymisiert)
 
 ```
-VIGNETTE 1 — TOD EINES KINDES
+VIGNETTE 1 - TOD EINES KINDES
 Einsatz: SanH ist Ersthelfer:in bei Reanimation eines 3-jährigen Kindes
 nach Ertrinkungsunfall. Kind verstirbt. Einsatz wird korrekt abgearbeitet.
 Vier Wochen später: TN wacht schreiend auf, sieht das Kind vor sich,
@@ -469,14 +469,14 @@ meidet den Badebereich, trinkt mehr Alkohol als sonst.
 Frage an TN: Welche Symptome erkennt ihr? Was würdet ihr raten?
 → Antwort: Flashback, Vermeidung, Substanzmissbrauch → Meldezentrale
 
-VIGNETTE 2 — SUIZID-EINSATZ
+VIGNETTE 2 - SUIZID-EINSATZ
 Einsatz: SanH findet einen Suizidenten (Sprung aus Fenster).
 Einsatz wird professionell abgearbeitet. Zwei Monate später:
 TN berichtet von Schlafstörungen, sozialem Rückzug, „alles ist sinnlos".
 Frage an TN: Was würdet ihr beobachten? Welche Maßnahme?
 → Antwort: Lethargie, somatische Störungen → professionelle Hilfe
 
-VIGNETTE 3 — MASSENKARAMBOLAGE
+VIGNETTE 3 - MASSENKARAMBOLAGE
 Einsatz: SanH ist Erstversorger:in bei 7 Verletzten nach Massen-Crash
 auf Autobahn. Ein:e Patient:in stirbt vor Ort. Einsatz wird korrekt
 abgearbeitet. Drei Wochen später: TN ist „nur noch still", Partner:in
@@ -493,7 +493,7 @@ Frage an TN: Welche Hinweise aus dem Umfeld? Was tun?
 │ MEIN STRESS-SELBSTTEST (LF VII)                            │
 │ Name: _______________________  Datum: _______________     │
 │                                                            │
-│ Beantworte ehrlich (keine Bewertung — nur Selbstcheck):   │
+│ Beantworte ehrlich (keine Bewertung - nur Selbstcheck):   │
 │                                                            │
 │ 1. Ich habe in den letzten 4 Wochen belastende Einsätze    │
 │    verarbeitet:   ☐ ja ☐ nein                             │
@@ -506,7 +506,7 @@ Frage an TN: Welche Hinweise aus dem Umfeld? Was tun?
 │ 8. Ich habe körperliche Beschwerden ohne Befund:          │
 │    ☐ ja ☐ nein                                            │
 │                                                            │
-│ Auswertung: 0–2 „ja" = stabil. 3+ „ja" = mit jemandem    │
+│ Auswertung: 0-2 „ja" = stabil. 3+ „ja" = mit jemandem    │
 │ sprechen (Vertrauensperson / Einsatznachsorge 0800 2699701).│
 │                                                            │
 │ Meine Vertrauensperson: ______________________________   │
@@ -520,7 +520,7 @@ Frage an TN: Welche Hinweise aus dem Umfeld? Was tun?
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│ MINI-OSCE LF VII — SONDERSITUATIONEN                       │
+│ MINI-OSCE LF VII - SONDERSITUATIONEN                       │
 │ Name TN: ____________________   Datum: _____________     │
 │                                                            │
 │ Station 1: MANV-Funknotruf + Lagekarte                    │
@@ -554,7 +554,7 @@ Frage an TN: Welche Hinweise aus dem Umfeld? Was tun?
 1. Lernfeld-Übersicht + Lernziele (Kommentar S. 46)
 2. MANV-Schritte-Übersicht (Eigenschutz → Überblick → Notruf → situationsabhängig → Weisungen)
 3. MANV-Lagekarte (Blanko-Vorlage)
-4. Führungsstruktur MANV (LNA / OrgL) — Kurzübersicht
+4. Führungsstruktur MANV (LNA / OrgL) - Kurzübersicht
 5. Deeskalations-Übersicht (7 Strategien)
 6. Konflikt-Szenario-Karten (6 Stück zum Selbst-Üben)
 7. Stresssyndrom-Symptom-Übersicht (6 Symptome)
@@ -562,7 +562,7 @@ Frage an TN: Welche Hinweise aus dem Umfeld? Was tun?
 9. Reflexionsbogen „Mein Stress-Selbsttest"
 10. Info-Flyer „Einsatznachsorge Johanniter" (zur Aufbewahrung)
 11. Mini-OSCE-Bogen
-12. Brücke-Karte zu Kurs-Abschluss (Modul B2) — Ausblick
+12. Brücke-Karte zu Kurs-Abschluss (Modul B2) - Ausblick
 13. Notfall-Karte „Meine 3 wichtigsten Schritte bei MANV" (laminiert für Portemonnaie)
 
 ---

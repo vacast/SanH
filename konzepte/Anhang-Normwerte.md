@@ -1,10 +1,10 @@
-# Anhang — Normwerte, Tabellen und Ablaufschemata
+# Anhang - Normwerte, Tabellen und Ablaufschemata
 
-**Curriculum-Bezug:** Begleitender Kommentar 2018, S. 47–52 (Anhang + Ablaufschemata)
+**Curriculum-Bezug:** Begleitender Kommentar 2018, S. 47-52 (Anhang + Ablaufschemata)
 
 Dieses Dokument sammelt alle nachschlagbaren Werte, Tabellen und
 Ablaufschemata, die im laufenden Kursbetrieb immer wieder benötigt werden.
-Es ist als **Schnellreferenz für Ausbilder:innen** gedacht — die zugehörigen
+Es ist als **Schnellreferenz für Ausbilder:innen** gedacht - die zugehörigen
 Lernziele und Didaktik finden sich in den jeweiligen LF-Konzepten.
 
 ---
@@ -24,12 +24,12 @@ Lernziele und Didaktik finden sich in den jeweiligen LF-Konzepten.
 
 | Gruppe | Puls/min |
 |---|---|
-| Erwachsener | 60–80 |
+| Erwachsener | 60-80 |
 | Tachykardie | > 100 |
 | Bradykardie | < 60 |
-| Schulkind | 85–100 |
-| Kleinkind | 95–120 |
-| Neugeborenes | 125–160 |
+| Schulkind | 85-100 |
+| Kleinkind | 95-120 |
+| Neugeborenes | 125-160 |
 
 ### 1.3 Blutdruck (mmHg)
 
@@ -46,7 +46,7 @@ Lernziele und Didaktik finden sich in den jeweiligen LF-Konzepten.
 
 | Gruppe | BZ |
 |---|---|
-| Erwachsener | 70–100 (± 20) |
+| Erwachsener | 70-100 (± 20) |
 
 > **Didaktischer Hinweis (Kommentar S. 38):** Auf die Angabe von
 > Blutzucker-Grenzwerten, die eine Über- bzw. Unterzuckerung kennzeichnen,
@@ -56,7 +56,7 @@ Lernziele und Didaktik finden sich in den jeweiligen LF-Konzepten.
 
 ### 1.5 Schmerzskala (Kommentar S. 44)
 
-Numerisch 0–10:
+Numerisch 0-10:
 
 - **0** = keine Schmerzen
 - **10** = schlimmster vorstellbarer Schmerz
@@ -74,7 +74,7 @@ Patient:innen werden gefragt: „Welche Zahl geben Sie Ihrem Schmerz?"
 | Rumpf vorne | 18 % | 18 % | 18 % |
 | Rumpf hinten | 18 % | 18 % | 18 % |
 | Beine (je) | 18 % | 16 % | 14 % |
-| Genitalbereich | 1 % | — | — |
+| Genitalbereich | 1 % | - | - |
 
 > **Merke:** Kinder haben einen relativ größeren Kopf, kleinere Beine.
 
@@ -91,7 +91,7 @@ Patient:innen werden gefragt: „Welche Zahl geben Sie Ihrem Schmerz?"
 | Beckenbruch | 5.000 |
 
 > **Pädagogischer Hinweis:** Ein Beckenbruch kann die zirkulierende Blutmenge
-> eines Erwachsenen halbieren — Lebensgefahr. Stop-the-Bleed + Notarzt + ggf.
+> eines Erwachsenen halbieren - Lebensgefahr. Stop-the-Bleed + Notarzt + ggf.
 > Beckenschlinge.
 
 ---
@@ -101,10 +101,10 @@ Patient:innen werden gefragt: „Welche Zahl geben Sie Ihrem Schmerz?"
 | Größe | Farbe | Zielgruppe |
 |---|---|---|
 | 0 | Transparent | Neugeborene < 5 kg |
-| 1 | Weiß | Babys 5–12 kg |
-| 2 | Grün | Kinder 12–25 kg |
+| 1 | Weiß | Babys 5-12 kg |
+| 2 | Grün | Kinder 12-25 kg |
 | 3 | Gelb | 25 kg und < 155 cm |
-| 4 | Rot | Erwachsene 155–180 cm |
+| 4 | Rot | Erwachsene 155-180 cm |
 | 5 | Violett | Erwachsene > 180 cm |
 
 > **Praxis:** Tubus-Blockerspritze bereithalten, Cuffs gleichzeitig belüften,
@@ -116,11 +116,11 @@ Patient:innen werden gefragt: „Welche Zahl geben Sie Ihrem Schmerz?"
 
 | Priorität | Frage | Beispiel-Probleme | Maßnahmen |
 |---|---|---|---|
-| **A — Airway** | Atemwege frei? | Verlegte Atemwege (Fremdkörper, Zunge); Gefahr späterer Verlegung (Erbrechen) | Fremdkörperbeseitigung; lebensrettender Handgriff; stabile Seitenlage; ständige Kontrolle; Absaugbereitschaft |
-| **B — Breathing** | Atemstörung? | Ausfall der Atmung; abnorme Atmung; Gefahr späterer Veränderung | Atemwege sichern; Beatmung (Maske-Beutel/Larynx-Tubus); Notarzt nachfordern; Sauerstoffgabe |
-| **C — Circulation** | Kreislaufstörung? | Ausfall des Kreislaufs; erhöhter Puls oder Blutdruck; Schockanzeichen | Herz-Lungen-Wiederbelebung; Notarzt nachfordern; Schocklage (wenn indiziert); Beruhigung |
-| **D — Disability** | Neurologische Einschränkung? | ZORRO: Zeitlich orientiert? Reagiert? Räumlich orientiert? Gefühlsstörungen, Lähmungen, Kraftverlust? Zu niedriger/hoher Blutzucker? | Abpolsterung und Fixierung der gelähmten Extremitäten; Notarzt nachfordern; bei Bewusstseinsstörung Seitenlage; ggf. Zucker verabreichen |
-| **E — Expose** | Begleitumstände? | Gesamte Notfallsituation prüfen: Begleitumstände, Unfallhergang, äußere Einwirkungen, Anzeichen für Vergiftung | Überblick verschaffen; Patienten ggf. entkleiden; Bodycheck; Wärmeerhalt; Gift sichern; Notarzt nachfordern |
+| **A - Airway** | Atemwege frei? | Verlegte Atemwege (Fremdkörper, Zunge); Gefahr späterer Verlegung (Erbrechen) | Fremdkörperbeseitigung; lebensrettender Handgriff; stabile Seitenlage; ständige Kontrolle; Absaugbereitschaft |
+| **B - Breathing** | Atemstörung? | Ausfall der Atmung; abnorme Atmung; Gefahr späterer Veränderung | Atemwege sichern; Beatmung (Maske-Beutel/Larynx-Tubus); Notarzt nachfordern; Sauerstoffgabe |
+| **C - Circulation** | Kreislaufstörung? | Ausfall des Kreislaufs; erhöhter Puls oder Blutdruck; Schockanzeichen | Herz-Lungen-Wiederbelebung; Notarzt nachfordern; Schocklage (wenn indiziert); Beruhigung |
+| **D - Disability** | Neurologische Einschränkung? | ZORRO: Zeitlich orientiert? Reagiert? Räumlich orientiert? Gefühlsstörungen, Lähmungen, Kraftverlust? Zu niedriger/hoher Blutzucker? | Abpolsterung und Fixierung der gelähmten Extremitäten; Notarzt nachfordern; bei Bewusstseinsstörung Seitenlage; ggf. Zucker verabreichen |
+| **E - Expose** | Begleitumstände? | Gesamte Notfallsituation prüfen: Begleitumstände, Unfallhergang, äußere Einwirkungen, Anzeichen für Vergiftung | Überblick verschaffen; Patienten ggf. entkleiden; Bodycheck; Wärmeerhalt; Gift sichern; Notarzt nachfordern |
 
 > **Allgemeine Regel (S. 8):** Was den Patienten am meisten gefährdet,
 > wird zuerst behandelt. Eigene Grenzen erkennen, frühzeitig Hilfe anfordern.
@@ -139,7 +139,7 @@ Keine Reaktion auf Ansprechen und Rütteln an den Schultern?
 │       ├─ Normale Atmung? → Stabile Seitenlage, Atmung kontrollieren, Wärmeerhalt, Notruf 112
 │       └─ Keine normale Atmung?
 │           ├─ Notruf 112 (veranlassen oder selbst)
-│           ├─ 30 Brustkorb-Kompressionen (5–6 cm tief, 100–120/min)
+│           ├─ 30 Brustkorb-Kompressionen (5-6 cm tief, 100-120/min)
 │           └─ 2 Beatmungen (oder Beatmungsversuche)
 │           → HLW 30:2 fortführen bis RTW/NA eintrifft oder Patient sich erholt
 └─ NEIN → Stabile Seitenlage
@@ -178,7 +178,7 @@ Keine Reaktion auf Ansprechen und Rütteln an den Schultern?
 **Unterschied zu Erwachsenen:**
 
 - **5 Initialbeatmungen** statt sofortige Kompressionen (kinder-spezifisch, häufiger respiratorisch bedingt)
-- **Kompressionstiefe** = 1/3 Brustkorb-Durchmesser (ca. 4–5 cm)
+- **Kompressionstiefe** = 1/3 Brustkorb-Durchmesser (ca. 4-5 cm)
 - **15:2** bei 2 Helfern (statt 30:2)
 
 ---
@@ -213,7 +213,7 @@ Schwere Verlegung? (ineffektiver oder fehlender Hustenstoß)
 Schwere Verlegung? (ineffektiver oder fehlender Hustenstoß)
 ├─ JA → Laut „Hilfe" rufen
 │       5 Schläge zwischen Schulterblättern
-│       5 Brustkorb-Kompressionen (KEINE Oberbauch-Kompressionen — Verletzungsgefahr!)
+│       5 Brustkorb-Kompressionen (KEINE Oberbauch-Kompressionen - Verletzungsgefahr!)
 │       Im Wechsel bis Verlegung behoben oder Bewusstlosigkeit eintritt
 │       Bei Bewusstlosigkeit: weiter im Schema „Keine Reaktion"
 │
@@ -274,17 +274,17 @@ aufgegriffen werden, in dem Vitalzeichen eine Rolle spielen (LF II, III, V).
 
 | Gruppe | Lernintensität | Begründung |
 |---|---|---|
-| **Erwachsenen-Normwerte** (AF 12, Puls 60–80, RR 120/70–140/90) | auswendig | tägliche Anwendung |
-| **Kinder-Normwerte** (AF 25, Puls 95–120, RR 90/60–105/70) | im Spickzettel nachschlagen | seltener im SanH-Alltag |
-| **Neugeborenen-Wummert** (AF 40, Puls 125–160) | zur Information | kommt nur in Reanimations-Spezialkursen vor |
+| **Erwachsenen-Normwerte** (AF 12, Puls 60-80, RR 120/70-140/90) | auswendig | tägliche Anwendung |
+| **Kinder-Normwerte** (AF 25, Puls 95-120, RR 90/60-105/70) | im Spickzettel nachschlagen | seltener im SanH-Alltag |
+| **Neugeborenen-Wummert** (AF 40, Puls 125-160) | zur Information | kommt nur in Reanimations-Spezialkursen vor |
 
 **Didaktischer Vorschlag:** Die Erwachsenen-Normwerte in **jeder** UE
 mindestens einmal abfragen (Mini-LZ-Check). Repetition schlägt einmaliges
 Pauken.
 
-### 12.3 9er-Regel — didaktische Hinweise
+### 12.3 9er-Regel - didaktische Hinweise
 
-- **Kinder sind keine kleinen Erwachsenen.** Kopf 14–18 % statt 9 %!
+- **Kinder sind keine kleinen Erwachsenen.** Kopf 14-18 % statt 9 %!
 - **Schnelle Schätzung:** Handflächenregel (Patientenhand = ca. 1 %) als
   Backup, wenn 9er-Regel unsicher.
 - **Übung:** An Moulage oder an Puppe die 9er-Regel durchgehen lassen,

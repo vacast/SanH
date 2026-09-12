@@ -1,8 +1,8 @@
-# SanH-Ausbildung — Trainer-Konzept Lernfeld I
+# SanH-Ausbildung - Trainer-Konzept Lernfeld I
 
 ## Vermittlung notfallmedizinischer Basiskompetenzen
 
-**Curriculum-Bezug:** Begleitender Kommentar 2018, S. 8–12
+**Curriculum-Bezug:** Begleitender Kommentar 2018, S. 8-12
 **Umfang:** 6 Unterrichtseinheiten à 45 min = 270 min
 **Zielgruppe:** Sanitätshelfer-Anfänger (Mindestalter 16, Erste-Hilfe-Kurs vorausgesetzt)
 **Theorie-Praxis-Verhältnis:** 30 % Theorie, 70 % Praxis (JUH-Standard 1/3 : 2/3)
@@ -24,7 +24,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 *Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen*
 
-**Prüfungsrelevanz:** LZ 1–6 sind prüfungsrelevant und werden am Blockende mit einer 15-min Mini-OSCE überprüft.
+**Prüfungsrelevanz:** LZ 1-6 sind prüfungsrelevant und werden am Blockende mit einer 15-min Mini-OSCE überprüft.
 
 ---
 
@@ -34,9 +34,9 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 |---|---|
 | **Teilnehmerorientierung** | Bedarfsanalyse in UE 0 (vor dem Block); Tempo und Wiederholungen werden nach Vorwissen angepasst |
 | **Handlungsorientierung** | Jede UE enthält mindestens eine Praxis-Phase mit Partner- oder Gruppenarbeit |
-| **Lernfeldorientierung** | Jede UE zeigt Schnittstellen zu LF II–VII explizit auf (z. B. „ABCDE wird in LF III bei Reanimation wiederholt") |
+| **Lernfeldorientierung** | Jede UE zeigt Schnittstellen zu LF II-VII explizit auf (z. B. „ABCDE wird in LF III bei Reanimation wiederholt") |
 | **Praxisorientierung** | Mind. 50 % Realzeit mit Übungen, Schauspielpatienten ab UE 2 |
-| **Kooperationskultur** | Partnerarbeit, Peer-Feedback, kein Bloßstellen — Fehler sind Lernchancen |
+| **Kooperationskultur** | Partnerarbeit, Peer-Feedback, kein Bloßstellen - Fehler sind Lernchancen |
 
 **70-20-10-Modell:** 70 % Praxis (Üben, Szenarien), 20 % sozialer Austausch (Reflexion, Diskussion), 10 % formaler Input (Vortrag, Demo).
 
@@ -62,7 +62,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | Übergabe-Checkliste (selbst erstellt, s. UE 6) | 1/TN | UE 6 |
 | Smartphones mit Stoppuhr | TN-eigene | Reflexions-Timer |
 | Lernziel-Check-Bogen Mini-OSCE | 1/TN | Blockende |
-| Blockhefter „LF I — Basiskompetenzen" | 1/TN | Vor Blockbeginn austeilen |
+| Blockhefter „LF I - Basiskompetenzen" | 1/TN | Vor Blockbeginn austeilen |
 
 **Beschaffung:** 4 Wochen vor Blockbeginn mit Materialverantwortlichem klären.
 
@@ -111,7 +111,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 
 ---
 
-## 6 UE 1 — Eigenschutz und Hygiene (45 min, Kommentar S. 8)
+## UE 1 - Eigenschutz und Hygiene (45 min, Kommentar S. 8)
 
 ### Lernziel
 TN wenden die hygienische Händedesinfektion korrekt an und ziehen Schutzhandschuhe in der richtigen Reihenfolge an und aus.
@@ -126,11 +126,11 @@ TN wenden die hygienische Händedesinfektion korrekt an und ziehen Schutzhandsch
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | Fallbeispiel: „Stellt euch vor, ein Patient erbricht im RTW, ihr habt keine Handschuhe an. Was passiert mit Hepatitis-Risiko, mit eurer Schichtfähigkeit?" → TN diskutieren 2 min, dann Sammlung |
-| 5–15 | Theorie-Input | Händedesinfektion (Schritte, Einwirkzeit, Trocknung), Handschuhe an/aus, Eigenschutz-Reihenfolge (erst Desinfektion → trocknen → Handschuhe an → Patient versorgen → Handschuhe aus → erneute Desinfektion). Schaubild zeigen. |
-| 15–35 | Praxis | TN geben sich gegenseitig Händedesinfektions-Mittel und führen Schritte durch. Trainer:in geht mit UV-Lampe durch die Reihen und zeigt fluoreszierende Lücken. 2 Runden. |
-| 35–42 | Reflexion | „Was war überraschend? Wo lagen eure Lücken? Wie sieht es im Echt Einsatz aus, wenn ihr Hektik habt?" |
-| 42–45 | Mini-Lernziel-Check | 1 TN demonstriert vor der Gruppe, Trainer:in kommentiert. Badge „Hygiene-Profi" vergeben bei vollständiger Benetzung. |
+| 0-5 | Hook | Fallbeispiel: „Stellt euch vor, ein Patient erbricht im RTW, ihr habt keine Handschuhe an. Was passiert mit Hepatitis-Risiko, mit eurer Schichtfähigkeit?" → TN diskutieren 2 min, dann Sammlung |
+| 5-15 | Theorie-Input | Händedesinfektion (Schritte, Einwirkzeit, Trocknung), Handschuhe an/aus, Eigenschutz-Reihenfolge (erst Desinfektion → trocknen → Handschuhe an → Patient versorgen → Handschuhe aus → erneute Desinfektion). Schaubild zeigen. |
+| 15-35 | Praxis | TN geben sich gegenseitig Händedesinfektions-Mittel und führen Schritte durch. Trainer:in geht mit UV-Lampe durch die Reihen und zeigt fluoreszierende Lücken. 2 Runden. |
+| 35-42 | Reflexion | „Was war überraschend? Wo lagen eure Lücken? Wie sieht es im Echt Einsatz aus, wenn ihr Hektik habt?" |
+| 42-45 | Mini-Lernziel-Check | 1 TN demonstriert vor der Gruppe, Trainer:in kommentiert. Badge „Hygiene-Profi" vergeben bei vollständiger Benetzung. |
 
 ### Trainer-Hinweise
 - **Häufiger Fehler:** Daumen und Handgelenke vergessen. Mit UV-Lampe sichtbar machen, das prägt.
@@ -143,7 +143,7 @@ TN wenden die hygienische Händedesinfektion korrekt an und ziehen Schutzhandsch
 
 ---
 
-## 7 UE 2 — Strukturierte Patientenversorgung / ABCDE (45 min, Kommentar S. 8–9)
+## UE 2 - Strukturierte Patientenversorgung / ABCDE (45 min, Kommentar S. 8-9)
 
 ### Lernziel
 TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkennen die erweiterte X-ABCDE-Reihenfolge bei Traumata.
@@ -157,16 +157,16 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | „Patient liegt reglos am Boden. Was ist euer erster Gedanke? Was macht ihr zuerst?" TN sammeln an Flipchart, Reihenfolge wird nicht bewertet. |
-| 5–15 | Theorie-Input | ABCDE-Schema: A=Airway, B=Breathing, C=Circulation, D=Disability, E=Expose. „Was am meisten gefährdet, wird zuerst behandelt." X-ABCDE bei Trauma (massive Blutung zuerst). Demo am Phantom: Trainer:in zeigt A bis E in 90 s. |
-| 15–35 | Praxis (Partnerarbeit, 3 Runden) | Runde 1: Bodycheck ohne Verletzung (Partner bewusstlos simulieren). Runde 2: Bodycheck mit Moulage (Schnittwunde am Unterarm). Runde 3: X-ABCDE mit starker Blutung (Tourniquet-Demo). Trainer:in coacht, Stoppuhr sichtbar. |
-| 35–42 | Reflexion | „Welche Priorität war am schwierigsten zu erkennen? Wann würdet ihr vom Schema abweichen?" |
-| 42–45 | Mini-Lernziel-Check | 1 TN führt ABCDE am Phantom in <2 min vor. Badge „ABCDE-Operator". |
+| 0-5 | Hook | „Patient liegt reglos am Boden. Was ist euer erster Gedanke? Was macht ihr zuerst?" TN sammeln an Flipchart, Reihenfolge wird nicht bewertet. |
+| 5-15 | Theorie-Input | ABCDE-Schema: A=Airway, B=Breathing, C=Circulation, D=Disability, E=Expose. „Was am meisten gefährdet, wird zuerst behandelt." X-ABCDE bei Trauma (massive Blutung zuerst). Demo am Phantom: Trainer:in zeigt A bis E in 90 s. |
+| 15-35 | Praxis (Partnerarbeit, 3 Runden) | Runde 1: Bodycheck ohne Verletzung (Partner bewusstlos simulieren). Runde 2: Bodycheck mit Moulage (Schnittwunde am Unterarm). Runde 3: X-ABCDE mit starker Blutung (Tourniquet-Demo). Trainer:in coacht, Stoppuhr sichtbar. |
+| 35-42 | Reflexion | „Welche Priorität war am schwierigsten zu erkennen? Wann würdet ihr vom Schema abweichen?" |
+| 42-45 | Mini-Lernziel-Check | 1 TN führt ABCDE am Phantom in <2 min vor. Badge „ABCDE-Operator". |
 
 ### Trainer-Hinweise
 - **Häufiger Fehler:** TN beginnen mit E (Kleidung entfernen) bevor A bis D geprüft. Korrigieren durch „Erst A, dann E."
 - **Schnittstellen aufzeigen:** „ABCDE kommt in LF III bei Reanimation wieder, in LF IV bei Polytrauma, in LF V bei Bewusstlosigkeit."
-- **Realitäts-Hinweis:** „Im Echt Einsatz habt ihr keinen Stift für Eigenschutz — achtet auf Handschuhe auch bei der Bodycheck-Demo."
+- **Realitäts-Hinweis:** „Im Echt Einsatz habt ihr keinen Stift für Eigenschutz - achtet auf Handschuhe auch bei der Bodycheck-Demo."
 
 ### Reflexionsfragen
 - Welche Konsequenz hat es, wenn ihr A überspringt und direkt zu C geht?
@@ -174,7 +174,7 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 
 ---
 
-## 8 UE 3 — Sofortmaßnahmen und Notruf (45 min, Kommentar S. 9)
+## UE 3 - Sofortmaßnahmen und Notruf (45 min, Kommentar S. 9)
 
 ### Lernziele
 - TN sichern eine Unfallstelle und retten eine Person aus einem Gefahrenbereich.
@@ -191,16 +191,16 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | Audio Verkehrslärm abspielen. „Was hört ihr? Was ist eure erste Handlung?" TN sammeln spontan. |
-| 5–15 | Theorie-Input | Reihenfolge der lebensrettenden Sofortmaßnahmen: Überblick verschaffen → Eigensicherung/Absichern → Retten (Rautek-Rettungsgriff) → Vitalfunktionen sichern. Notruf: 5 W's, Rettungsmittel (KTW/RTW/NAW/NEF/RTH), SIM-Karte. |
-| 15–35 | Praxis (3er-Gruppen) | Szenario „Verkehrsunfall, Person eingeklemmt": Gruppe muss Unfallstelle absichern, Person mit Rautek-Griff retten, Notruf absetzen. Trainer:in wechselt zwischen Gruppen, gibt Feedback. Stoppuhr für Notruf-Dauer. |
-| 35–42 | Reflexion | „Was war die größte Hürde? Was würdet ihr beim nächsten Mal anders machen?" |
-| 42–45 | Mini-Lernziel-Check | 1 TN setzt Notruf in <60 s ab, Trainer:in bewertet 5-W-Vollständigkeit. Badge „Notruf-Meister". |
+| 0-5 | Hook | Audio Verkehrslärm abspielen. „Was hört ihr? Was ist eure erste Handlung?" TN sammeln spontan. |
+| 5-15 | Theorie-Input | Reihenfolge der lebensrettenden Sofortmaßnahmen: Überblick verschaffen → Eigensicherung/Absichern → Retten (Rautek-Rettungsgriff) → Vitalfunktionen sichern. Notruf: 5 W's, Rettungsmittel (KTW/RTW/NAW/NEF/RTH), SIM-Karte. |
+| 15-35 | Praxis (3er-Gruppen) | Szenario „Verkehrsunfall, Person eingeklemmt": Gruppe muss Unfallstelle absichern, Person mit Rautek-Griff retten, Notruf absetzen. Trainer:in wechselt zwischen Gruppen, gibt Feedback. Stoppuhr für Notruf-Dauer. |
+| 35-42 | Reflexion | „Was war die größte Hürde? Was würdet ihr beim nächsten Mal anders machen?" |
+| 42-45 | Mini-Lernziel-Check | 1 TN setzt Notruf in <60 s ab, Trainer:in bewertet 5-W-Vollständigkeit. Badge „Notruf-Meister". |
 
 ### Trainer-Hinweise
 - **Häufiger Fehler:** TN beginnen mit Retten statt Absichern. Eigenschutz-Geste wiederholen: „Sicherheit zuerst, immer."
-- **Rettungsmittel-Detail:** „Die wenigsten wissen, dass 112 vom Handy ohne SIM-Karte geht (in D)." — diese Info hervorheben.
-- **Realitäts-Hinweis:** „Im echten Einsatz könnt ihr den Lautsprecher nicht ausschalten — die Leitstelle unterbricht euch, das ist normal."
+- **Rettungsmittel-Detail:** „Die wenigsten wissen, dass 112 vom Handy ohne SIM-Karte geht (in D)." - diese Info hervorheben.
+- **Realitäts-Hinweis:** „Im echten Einsatz könnt ihr den Lautsprecher nicht ausschalten - die Leitstelle unterbricht euch, das ist normal."
 
 ### Reflexionsfragen
 - Was passiert, wenn ihr den Notruf abbrechen müsst (z. B. CPR nötig)?
@@ -208,7 +208,7 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 
 ---
 
-## 9 UE 4 — Anamnese, PAKET und Eigenwärme (45 min, Kommentar S. 10)
+## UE 4 - Anamnese, PAKET und Eigenwärme (45 min, Kommentar S. 10)
 
 ### Lernziele
 - TN erheben eine vollständige Anamnese nach SAMPLER.
@@ -225,15 +225,15 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | Schauspielpatient betritt den Raum, setzt sich auf Stuhl, wirkt erschöpft. „Was würdet ihr jetzt tun?" TN sammeln. |
-| 5–15 | Theorie-Input | SAMPLER (S=Symptoms, A=Allergies, M=Medications, P=Past medical history, L=Last oral intake, E=Events, R=Risk factors). PAKET (Patientencheck, Anamnese, Kontrolle Vitalzeichen, Entscheidung Notarzt, Therapie). Eigenwärme-Methoden (Wolldecke + Rettungsdecke, Ziehharmonika-Technik). |
-| 15–35 | Praxis (2er-Gruppen mit Schauspielpatient) | Gruppe A: Anamnese + PAKET an Schauspielpatient (Szenario: leichte Kreislaufschwäche nach langer Stehen). Gruppe B: Eigenwärme-Technik an zweitem SP (Szenario: Unterkühlung nach Regen). Nach 10 min Rollentausch. Trainer:in dokumentiert, was fehlt. |
-| 35–42 | Reflexion | „Was habt ihr bei der Anamnese vergessen? Wie fühlt sich der SP an — habt ihr auf nonverbale Zeichen geachtet?" |
-| 42–45 | Mini-Lernziel-Check | 1 TN demonstriert Eigenwärme-Anlage in <2 min. Badge „PAKET-Anwender". |
+| 0-5 | Hook | Schauspielpatient betritt den Raum, setzt sich auf Stuhl, wirkt erschöpft. „Was würdet ihr jetzt tun?" TN sammeln. |
+| 5-15 | Theorie-Input | SAMPLER (S=Symptoms, A=Allergies, M=Medications, P=Past medical history, L=Last oral intake, E=Events, R=Risk factors). PAKET (Patientencheck, Anamnese, Kontrolle Vitalzeichen, Entscheidung Notarzt, Therapie). Eigenwärme-Methoden (Wolldecke + Rettungsdecke, Ziehharmonika-Technik). |
+| 15-35 | Praxis (2er-Gruppen mit Schauspielpatient) | Gruppe A: Anamnese + PAKET an Schauspielpatient (Szenario: leichte Kreislaufschwäche nach langer Stehen). Gruppe B: Eigenwärme-Technik an zweitem SP (Szenario: Unterkühlung nach Regen). Nach 10 min Rollentausch. Trainer:in dokumentiert, was fehlt. |
+| 35-42 | Reflexion | „Was habt ihr bei der Anamnese vergessen? Wie fühlt sich der SP an - habt ihr auf nonverbale Zeichen geachtet?" |
+| 42-45 | Mini-Lernziel-Check | 1 TN demonstriert Eigenwärme-Anlage in <2 min. Badge „PAKET-Anwender". |
 
 ### Trainer-Hinweise
 - **Häufiger Fehler:** TN fragen nicht nach Allergien, weil „nicht relevant wirkt". Aufklären: „Allergie-Anamnese ist im Notfall Pflicht, auch wenn es banal klingt."
-- **Übergang zu LF-V aufzeigen:** „Die Anamnese wird im Bewusstseins-Störungs-Kontext in LF V nochmal wichtig — Unterzucker erkennen."
+- **Übergang zu LF-V aufzeigen:** „Die Anamnese wird im Bewusstseins-Störungs-Kontext in LF V nochmal wichtig - Unterzucker erkennen."
 - **Inklusion SP:** Schauspielpatienten vorher briefen, was sie dürfen/müssen.
 
 ### Reflexionsfragen
@@ -242,7 +242,7 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 
 ---
 
-## 10 UE 5 — Psychische Betreuung und Patientenkommunikation (45 min, Kommentar S. 10–11)
+## UE 5 - Psychische Betreuung und Patientenkommunikation (45 min, Kommentar S. 10-11)
 
 ### Lernziele
 - TN wenden die 4-S-Regel an.
@@ -257,11 +257,11 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | „Stellt euch vor, euer:e Partner:in hatte gerade einen schweren Unfall. Was sagt ihr als erstes?" TN tauschen sich 2 min aus, Sammlung. |
-| 5–15 | Theorie-Input | 4-S-Regel (Sagen, Schützen, Schirmen, Sorgen). Auftretens-Probleme (zu unsicher, zu dominant). Umgang mit: alten Menschen (Sie, keine „Oma"-Anrede), Kindern (Augenhöhe, einfache Worte, Bezugsperson), Behinderten (kein falsches Mitleid), Ausländern (Angehörige um Hilfe bitten, langsam sprechen). Interkulturelle Kompetenz kurz. |
-| 15–40 | Praxis (4 Rollenspiele, 4er-Gruppen) | Jede Gruppe zieht eine Rollenkarte, bereitet 5 min vor, spielt 5 min, Reflexion in der Gruppe 2 min. Trainer:in rotiert, gibt Live-Feedback. |
-| 40–43 | Reflexion | „Was war überraschend? Welche Patientengruppe war am schwierigsten?" |
-| 43–45 | Mini-Lernziel-Check | 1 TN zeigt 4-S-Regel in 60 s. Badge „Patientenflüsterer". |
+| 0-5 | Hook | „Stellt euch vor, euer:e Partner:in hatte gerade einen schweren Unfall. Was sagt ihr als erstes?" TN tauschen sich 2 min aus, Sammlung. |
+| 5-15 | Theorie-Input | 4-S-Regel (Sagen, Schützen, Schirmen, Sorgen). Auftretens-Probleme (zu unsicher, zu dominant). Umgang mit: alten Menschen (Sie, keine „Oma"-Anrede), Kindern (Augenhöhe, einfache Worte, Bezugsperson), Behinderten (kein falsches Mitleid), Ausländern (Angehörige um Hilfe bitten, langsam sprechen). Interkulturelle Kompetenz kurz. |
+| 15-40 | Praxis (4 Rollenspiele, 4er-Gruppen) | Jede Gruppe zieht eine Rollenkarte, bereitet 5 min vor, spielt 5 min, Reflexion in der Gruppe 2 min. Trainer:in rotiert, gibt Live-Feedback. |
+| 40-43 | Reflexion | „Was war überraschend? Welche Patientengruppe war am schwierigsten?" |
+| 43-45 | Mini-Lernziel-Check | 1 TN zeigt 4-S-Regel in 60 s. Badge „Patientenflüsterer". |
 
 ### Trainer-Hinweise
 - **Häufiger Fehler:** TN reden auf Patienten ein, ohne Pausen. 3-Sekunden-Pause als Übungsregel.
@@ -274,7 +274,7 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 
 ---
 
-## 11 UE 6 — Einweisung, Dokumentation und Übergabe (45 min, Kommentar S. 11–12)
+## UE 6 - Einweisung, Dokumentation und Übergabe (45 min, Kommentar S. 11-12)
 
 ### Lernziele
 - TN dokumentieren einen Einsatz vollständig nach DIVI-Standard.
@@ -290,16 +290,16 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 
 | Min | Phase | Inhalt |
 |---|---|---|
-| 0–5 | Hook | „Ihr habt 12 min mit einem Patienten verbracht. Nun kommt der RTW. Was sagt ihr in 90 s?" TN sammeln Stichworte. |
-| 5–15 | Theorie-Input | Übergabe-Inhalte: Notfallgeschehen, Feststellungen/Beobachtungen, Vorerkrankungen, Vitalwerte + Verlauf, durchgeführte Maßnahmen. Aufgaben bei Übergabe: kurze prägnante Information, Mithilfe bei Umlagerung, Eigentum, Hinweis auf Angehörige. Dokumentation: Zeit, Maßnahmen, Vitalwerte, Übergabezeit. |
-| 15–35 | Praxis (Paararbeit mit Schauspielpatient) | Runde 1: 2 SP-Teams, jeweils Übergabe an „RTW-Besatzung" (Trainer:in oder erfahrene*r TN). Stoppuhr 90 s. Runde 2: Dokumentation am DIVI-Bogen. Trainer:in coacht. |
-| 35–42 | Reflexion | „Was war zu lang? Was war zu kurz? Welche Information hat der Rettungsdienst gebraucht, die ihr vergessen habt?" |
-| 42–45 | Mini-Lernziel-Check | 1 TN führt 90-s-Übergabe vor. Badge „Übergabe-Profi". |
+| 0-5 | Hook | „Ihr habt 12 min mit einem Patienten verbracht. Nun kommt der RTW. Was sagt ihr in 90 s?" TN sammeln Stichworte. |
+| 5-15 | Theorie-Input | Übergabe-Inhalte: Notfallgeschehen, Feststellungen/Beobachtungen, Vorerkrankungen, Vitalwerte + Verlauf, durchgeführte Maßnahmen. Aufgaben bei Übergabe: kurze prägnante Information, Mithilfe bei Umlagerung, Eigentum, Hinweis auf Angehörige. Dokumentation: Zeit, Maßnahmen, Vitalwerte, Übergabezeit. |
+| 15-35 | Praxis (Paararbeit mit Schauspielpatient) | Runde 1: 2 SP-Teams, jeweils Übergabe an „RTW-Besatzung" (Trainer:in oder erfahrene*r TN). Stoppuhr 90 s. Runde 2: Dokumentation am DIVI-Bogen. Trainer:in coacht. |
+| 35-42 | Reflexion | „Was war zu lang? Was war zu kurz? Welche Information hat der Rettungsdienst gebraucht, die ihr vergessen habt?" |
+| 42-45 | Mini-Lernziel-Check | 1 TN führt 90-s-Übergabe vor. Badge „Übergabe-Profi". |
 
 ### Trainer-Hinweise
 - **Häufiger Fehler:** TN reden zu lange über Anamnese, zu kurz über Verlauf und Maßnahmen. Gewichtung betonen: „Was habt ihr GETAN, ist wichtiger als die ganze Vorgeschichte."
-- **Schnittstellen:** „Übergabe ist die Brücke zwischen SanH und RD — wenn sie schlecht ist, leidet der Patient."
-- **Realitäts-Hinweis:** „Im RTW ist es laut und hektisch — klare Stimme, kurze Sätze."
+- **Schnittstellen:** „Übergabe ist die Brücke zwischen SanH und RD - wenn sie schlecht ist, leidet der Patient."
+- **Realitäts-Hinweis:** „Im RTW ist es laut und hektisch - klare Stimme, kurze Sätze."
 
 ### Reflexionsfragen
 - Welche Information ist auf jeden Fall in den ersten 30 Sekunden zu nennen?
@@ -325,7 +325,7 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 - Foto / Pinwand-Eintrag
 
 ### Übergang zu Lernfeld II
-- Ausblick: „Im nächsten Block geht es um Atmung und Atemstörungen — ABCDE wird dort wieder aufgegriffen und vertieft."
+- Ausblick: „Im nächsten Block geht es um Atmung und Atemstörungen - ABCDE wird dort wieder aufgegriffen und vertieft."
 - Hausaufgabe (optional): „Beobachtet im Alltag 3× die Atmung eines Menschen (eigene, Familienmitglied, Passant:in). Was fällt euch auf?"
 
 ---
@@ -394,13 +394,13 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 
 ```
 ┌─────────────────────────────────┐
-│  S — Symptoms                  │
-│  A — Allergies                  │
-│  M — Medications                │
-│  P — Past medical history       │
-│  L — Last oral intake           │
-│  E — Events (was ist passiert?) │
-│  R — Risk factors               │
+│  S - Symptoms                  │
+│  A - Allergies                  │
+│  M - Medications                │
+│  P - Past medical history       │
+│  L - Last oral intake           │
+│  E - Events (was ist passiert?) │
+│  R - Risk factors               │
 └─────────────────────────────────┘
 ```
 
@@ -414,7 +414,7 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 │  4. Welche Verletzungen?        │
 │  5. Warten auf Rückfragen!      │
 │                                 │
-│  112 — kostenlos, mit/ohne SIM  │
+│  112 - kostenlos, mit/ohne SIM  │
 └─────────────────────────────────┘
 ```
 
@@ -422,11 +422,11 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 
 ```
 ┌─────────────────────────────────┐
-│  P — Patientencheck             │
-│  A — Anamnese (SAMPLER)         │
-│  K — Kontrolle Vitalfunktionen  │
-│  E — Entscheidung (Notarzt?)    │
-│  T — Therapie                   │
+│  P - Patientencheck             │
+│  A - Anamnese (SAMPLER)         │
+│  K - Kontrolle Vitalfunktionen  │
+│  E - Entscheidung (Notarzt?)    │
+│  T - Therapie                   │
 └─────────────────────────────────┘
 ```
 

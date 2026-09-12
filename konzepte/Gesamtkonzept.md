@@ -1,4 +1,4 @@
-# SanH Modul B2 — Gesamtkonzept
+# SanH Modul B2 - Gesamtkonzept
 
 ## Master-Dokument für Ausbilder:innen
 
@@ -13,15 +13,15 @@
 
 | Lernfeld | Titel | Kommentar | UE | Trainer-Konzept |
 |---|---|---|---|---|
-| **HF** | Handhabung + Orientierung | S. 5–7 | 2 | (in LF-I integriert) |
-| **LF-I** | Vermittlung notfallmedizinischer Basiskompetenzen | S. 8–12 | 6 | [LF-I-Basiskompetenzen.md](LF-I-Basiskompetenzen.md) |
-| **LF-II** | Der Patient mit Atemstörung | S. 12–17 | 6 | [LF-II-Atmung.md](LF-II-Atmung.md) |
-| **LF-III** | Der Patient mit Herz-Kreislaufstörungen | S. 18–24 | 8 | [LF-III-Herz-Kreislauf.md](LF-III-Herz-Kreislauf.md) |
-| **LF-IV** | Der verletzte Patient | S. 25–34 | 10 | [LF-IV-Verletzt.md](LF-IV-Verletzt.md) |
-| **LF-V** | Der Patient mit Bewusstseinsstörungen | S. 35–41 | 6 | [LF-V-Bewusstsein.md](LF-V-Bewusstsein.md) |
-| **LF-VI** | Der Patient mit Schmerzen | S. 41–44 | 4 | [LF-VI-Schmerzen.md](LF-VI-Schmerzen.md) |
-| **LF-VII** | Notfälle abseits der Routine | S. 45–46 | 4 | [LF-VII-Sondersituationen.md](LF-VII-Sondersituationen.md) |
-| **PRÜF** | Prüfungsvorbereitung + OSCE | — | 2 | dieses Dokument § 4 |
+| **HF** | Handhabung + Orientierung | S. 5-7 | 2 | (in LF-I integriert) |
+| **LF-I** | Vermittlung notfallmedizinischer Basiskompetenzen | S. 8-12 | 6 | [LF-I-Basiskompetenzen.md](LF-I-Basiskompetenzen.md) |
+| **LF-II** | Der Patient mit Atemstörung | S. 12-17 | 6 | [LF-II-Atmung.md](LF-II-Atmung.md) |
+| **LF-III** | Der Patient mit Herz-Kreislaufstörungen | S. 18-24 | 8 | [LF-III-Herz-Kreislauf.md](LF-III-Herz-Kreislauf.md) |
+| **LF-IV** | Der verletzte Patient | S. 25-34 | 10 | [LF-IV-Verletzt.md](LF-IV-Verletzt.md) |
+| **LF-V** | Der Patient mit Bewusstseinsstörungen | S. 35-41 | 6 | [LF-V-Bewusstsein.md](LF-V-Bewusstsein.md) |
+| **LF-VI** | Der Patient mit Schmerzen | S. 41-44 | 4 | [LF-VI-Schmerzen.md](LF-VI-Schmerzen.md) |
+| **LF-VII** | Notfälle abseits der Routine | S. 45-46 | 4 | [LF-VII-Sondersituationen.md](LF-VII-Sondersituationen.md) |
+| **PRÜF** | Prüfungsvorbereitung + OSCE | - | 2 | dieses Dokument § 4 |
 | **Σ** | | | **48 UE** | |
 
 > **Hinweis UE-Verteilung:** Die genaue UE-Aufteilung zwischen LF-VI und
@@ -43,7 +43,7 @@ Block 1 (Wochenende 1, 16 UE):
   └─ Reflektion + Hausaufgabe (2 UE: ABCDE + Atmung beobachten)
 
 Selbststudium Phase 1 (1 Woche):
-  └─ Anki-Deck LF-I + LF-II (10–15 Karten/Tag)
+  └─ Anki-Deck LF-I + LF-II (10-15 Karten/Tag)
 
 Block 2 (Wochenende 2, 16 UE):
   ├─ LF-III: Herz-Kreislauf (8 UE)
@@ -78,7 +78,7 @@ Schriftliche + praktische Prüfung (Termin nach Vereinbarung)
 | **Vom Einfachen zum Komplexen** | LF-I (Grundlagen) → LF-II/III (Organ-spezifisch) → LF-IV (Trauma) → LF-V/VI (komplexe Notfälle) → LF-VII (Querschnitt) |
 | **ABCDE als roter Faden** | LF-I führt ABCDE ein; LF-II/III vertiefen A/B/C; LF-IV betont X-ABCDE bei Trauma; LF-V nutzt D; LF-VI nutzt E |
 | **HLW aufbauend** | LF-III führt HLW ein, LF-V vertieft (Kinder-HLW in LF-V implizit), Prüfungsvorbereitung festigt |
-| **Schock als Querschnitt** | Schock taucht in LF-I, LF-III, LF-IV auf — Repetition über die Blöcke |
+| **Schock als Querschnitt** | Schock taucht in LF-I, LF-III, LF-IV auf - Repetition über die Blöcke |
 | **Psychische Betreuung** | In LF-I kurz, in LF-V/VI/VII vertieft (Kommunikation in Krisensituationen) |
 
 ### 2.3 Alternative Reihenfolgen (je nach TN-Gruppe)
@@ -143,9 +143,9 @@ Trainiert wird in **90-Sekunden-Formaten** mit klarer Reihenfolge:
 TN erhalten nach **jedem Block** eine Lernziel-Checkliste und einen
 Anki-Sync-Hinweis. Empfohlene Lernroutine:
 
-- **Vor dem Block:** Wiederholung der Karten des letzten Blocks (5–10 min)
-- **Nach dem Block:** Neue Karten des aktuellen Blocks (10–15 min)
-- **Vor der Prüfung:** Alle 263 Karten intensiv (1–2 Wochen, 15–20 min/Tag)
+- **Vor dem Block:** Wiederholung der Karten des letzten Blocks (5-10 min)
+- **Nach dem Block:** Neue Karten des aktuellen Blocks (10-15 min)
+- **Vor der Prüfung:** Alle 263 Karten intensiv (1-2 Wochen, 15-20 min/Tag)
 
 ---
 
@@ -162,7 +162,7 @@ Die SanH-Ausbildung schließt mit zwei Prüfungsteilen ab:
 
 **Praktische Prüfung (OSCE, ~20 min pro TN):**
 - 4 Stationen à 5 min
-- Pro Station: 1 Aufgabe + 1–2 Rückfragen
+- Pro Station: 1 Aufgabe + 1-2 Rückfragen
 - Bestehensschwelle: 3 von 4 Stationen bestanden
 - Wiederholung nicht bestandener Stationen möglich
 
@@ -173,7 +173,7 @@ Die SanH-Ausbildung schließt mit zwei Prüfungsteilen ab:
 | 1 | Hygiene | Händedesinfektion unter UV-Licht | Vollständige Benetzung (Daumen, Handgelenk, Fingerzwischenräume) |
 | 2 | ABCDE | Bodycheck am Phantom in <2 min | Reihenfolge A→E; X-ABCDE bei Trauma erkannt |
 | 3 | Notruf | Telefon-Simulation in <60 s | Alle 5 W's enthalten; Rückrufbitte ausgesprochen |
-| 4 | HLW | 2 min Reanimation am Phantom | Frequenz 100–120/min; Tiefe 5–6 cm; Full Recoil; AED-Einsatz |
+| 4 | HLW | 2 min Reanimation am Phantom | Frequenz 100-120/min; Tiefe 5-6 cm; Full Recoil; AED-Einsatz |
 | 5 | Tourniquet | Anlage bei simulierter Blutung | Handbreit proximal; bis Blutung steht; Zeit notiert |
 | 6 | Druckverband | Anlage bei Schnittwunde | Keimfrei; Druckpolster; fest genug ohne Abschnürung |
 | 7 | Stabile Seitenlage | Bei bewusstlosem SP | Achsengerechte Drehung; Mund tiefster Punkt; Atmung kontrolliert |
@@ -187,13 +187,13 @@ Die SanH-Ausbildung schließt mit zwei Prüfungsteilen ab:
 
 | Min | Inhalt |
 |---|---|
-| 0–15 | Begrüßung + Wiederholung kritischer Skills (TN-Fragen sammeln) |
-| 15–60 | HLW-Trockentraining + 2-Helfer-Pit-Crew (LF-III Inhalt) |
-| 60–105 | Stop-the-Bleed-Training (Tourniquet, Druckverband) — LF-IV Inhalt |
-| 105–135 | Übergabe-Training in 4er-Gruppen — LF-I Inhalt |
-| 135–180 | 2 Probe-OSCEs mit Selbstbewertung (TN geben sich gegenseitig Feedback) |
+| 0-15 | Begrüßung + Wiederholung kritischer Skills (TN-Fragen sammeln) |
+| 15-60 | HLW-Trockentraining + 2-Helfer-Pit-Crew (LF-III Inhalt) |
+| 60-105 | Stop-the-Bleed-Training (Tourniquet, Druckverband) - LF-IV Inhalt |
+| 105-135 | Übergabe-Training in 4er-Gruppen - LF-I Inhalt |
+| 135-180 | 2 Probe-OSCEs mit Selbstbewertung (TN geben sich gegenseitig Feedback) |
 
-### 4.4 Schriftliche Prüfungsfragen — Beispiele (5 pro LF, 35 gesamt)
+### 4.4 Schriftliche Prüfungsfragen - Beispiele (5 pro LF, 35 gesamt)
 
 > **Hinweis:** Diese Beispielfragen erheben keinen Anspruch auf Vollständigkeit
 > und sollten von der prüfenden Stelle (Ausbildungsleitung) gegen den aktuellen
@@ -273,7 +273,7 @@ Die SanH-Ausbildung schließt mit zwei Prüfungsteilen ab:
 
 **Bestellzeitraum:** Spätestens 6 Wochen vor Kursbeginn.
 
-**Budget-Schätzung:** 800–1.200 € pro Kurs (ohne Personalkosten).
+**Budget-Schätzung:** 800-1.200 € pro Kurs (ohne Personalkosten).
 
 ### 5.2 Lagerung und Transport
 
@@ -290,9 +290,9 @@ Die SanH-Ausbildung schließt mit zwei Prüfungsteilen ab:
 | TN-Anzahl | Trainer:innen | Co-Trainer:innen | Helfer:innen |
 |---|---|---|---|
 | ≤ 8 TN | 1 | 0 | 0 |
-| 9–12 TN | 1 | 1 | 0 |
-| 13–16 TN | 1 | 1 | 1 |
-| 17–20 TN | 1 | 2 | 1 |
+| 9-12 TN | 1 | 1 | 0 |
+| 13-16 TN | 1 | 1 | 1 |
+| 17-20 TN | 1 | 2 | 1 |
 
 ### 6.2 Qualifikations-Profil
 
