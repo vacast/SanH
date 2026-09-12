@@ -6,6 +6,7 @@
 **Umfang:** 6 Unterrichtseinheiten à 45 min = 270 min
 **Zielgruppe:** Sanitätshelfer-Anfänger (Mindestalter 16, Erste-Hilfe-Kurs vorausgesetzt)
 **Theorie-Praxis-Verhältnis:** 30 % Theorie, 70 % Praxis (JUH-Standard 1/3 : 2/3)
+**Pädagogische Kaskade:** Kompetenzen (Fach-/Methoden-/personale Kompetenz) → Lernziele (Ausbildungs-/Richt-/Grob-/Feinlernziele) → Lernfelder → Lernsituationen (vgl. Kompendium Teil 2 S. 11-22). LZ 1-6 dieses Blocks sind Feinlernziele mit Taxonomie nach Bloom.
 
 ---
 
@@ -22,7 +23,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | LZ-5 | Patienten in belastenden Situationen psychisch betreuen, alters- und kultursensibel kommunizieren | Anwenden, Reflektieren |
 | LZ-6 | Eine strukturierte Übergabe an den Rettungsdienst durchführen und den Patienten einweisen | Anwenden |
 
-*Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen*
+*Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen (vgl. Kompendium S. 18)*
 
 **Prüfungsrelevanz:** LZ 1-6 sind prüfungsrelevant und werden am Blockende mit einer 15-min Mini-OSCE überprüft.
 
@@ -39,6 +40,10 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | **Kooperationskultur** | Partnerarbeit, Peer-Feedback, kein Bloßstellen - Fehler sind Lernchancen |
 
 **70-20-10-Modell:** 70 % Praxis (Üben, Szenarien), 20 % sozialer Austausch (Reflexion, Diskussion), 10 % formaler Input (Vortrag, Demo).
+
+**Lernzielebene nach Kompendium S. 14-17:** LZ 1-6 sind Feinlernziele. Das zugehörige Grobziel lautet „Sanitätshelfer beherrschen die notfallmedizinischen Basiskompetenzen für die erste strukturierte Patientenversorgung". Das Richtziel verankert dies im Ausbildungsziel des SanH-Lehrgangs (selbstständige Versorgung von Notfallpatienten bis zum Eintreffen des Rettungsdienstes).
+
+**Hemmschwellen (Kompendium S. 79-92):** UE 1 (Händedesinfektion) ist bewusst als sicherer Starter gewählt - frühe Erfolgserlebnisse reduzieren die Angst vor Fehlern und das Gefühl mangelnder Kompetenz. Die Reflektion am Blockende adressiert offene Hemmschwellen aus dem TN-Feedback.
 
 ---
 
@@ -467,5 +472,6 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 | Version | Datum | Änderung | Autor |
 |---|---|---|---|
 | 1.0 | 2026-09-12 | Erstkonzept | Valentin Casas Stöldt |
+| 1.1 | 2026-09-12 | Pädagogische Kaskade + Lernzielklassifizierung + Hemmschwellen aus Kompendium Teil 2 ergänzt | Valentin Casas Stöldt |
 
 **Nächste Revision:** Nach erster Pilot-Durchführung, basierend auf TN-Feedback und OSCE-Ergebnissen.

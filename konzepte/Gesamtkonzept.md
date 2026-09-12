@@ -3,6 +3,7 @@
 ## Master-Dokument für Ausbilder:innen
 
 **Curriculum-Bezug:** Begleitender Kommentar 2018 (JUH, BG, BEE)
+**Methodische Primärquelle:** Pädagogisches Kompendium Teil 2 (Ralf Sick, Johanniter-Bildungswerk 2026, 324 S.) - die pädagogische Gesamtstruktur (Planen / Durchführen / Reflektieren) ist in [Methodik-und-Tagesstruktur.md](Methodik-und-Tagesstruktur.md) § 0 verankert
 **Gesamtumfang:** 48 Unterrichtseinheiten à 45 min = 36 Zeit-Stunden
 **Verteilt auf:** 7 Lernfelder + Handhabung + Prüfungsvorbereitung
 **Zielgruppe:** Sanitätshelfer-Anfänger:innen (EH-Vorkurs vorausgesetzt, ≥ 16 J.)
@@ -347,6 +348,8 @@ Dokumentation in einem **Kurs-Tagebuch** (persönlich oder geteilt im Team).
 | TN-Empfehlungsrate | ≥ 80 % |
 | Materialverfügbarkeit bei jeder UE | 100 % |
 
+Diese Zielwerte werden im PDCA-Zyklus auf Lehrgangs-Ebene geprüft ([Methodik-und-Tagesstruktur.md](Methodik-und-Tagesstruktur.md) § 8.1): Soll/Ist-Vergleich am Kursende, Anpassung der LF-Konzepte für die nächste Durchführung, KVP-Bericht an die Ausbildungsleitung.
+
 ### 7.4 Hospitation
 
 - **1× pro Jahr** Hospitation durch Mentor:in (erfahrener SanH-Ausbilder)
@@ -360,6 +363,7 @@ Dokumentation in einem **Kurs-Tagebuch** (persönlich oder geteilt im Team).
 | Version | Datum | Änderung | Autor |
 |---|---|---|---|
 | 1.0 | 2026-09-12 | Erstkonzept | Valentin Casas Stöldt |
+| 1.1 | 2026-09-12 | Pädagogisches Kompendium Teil 2 als methodische Primärquelle referenziert; PDCA-Zyklus in § 7.3 verankert | Valentin Casas Stöldt |
 
 **Nächste Revision:** Nach erster Pilot-Durchführung, basierend auf TN-Feedback und OSCE-Ergebnissen.
 
