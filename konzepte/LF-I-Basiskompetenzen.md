@@ -99,11 +99,11 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 ├────────────────────────┼─────────────────────────────────┤
 │ Theorie-Input (10-15)  │ Demonstration, max. 15 min      │
 ├────────────────────────┼─────────────────────────────────┤
-│ Praxis-Phase (20-25)   │ Üben mit Feedback              │
+│ Praxis-Phase (20-25)   │ Üben mit Feedback               │
 ├────────────────────────┼─────────────────────────────────┤
-│ Reflexion (5 min)      │ Was? So what? Now what?        │
+│ Reflexion (5 min)      │ Was? So what? Now what?         │
 ├────────────────────────┼─────────────────────────────────┤
-│ Mini-Lernziel-Check    │ Kurze Demonstration, 1 TN      │
+│ Mini-Lernziel-Check    │ Kurze Demonstration, 1 TN       │
 └──────────────────────────────────────────────────────────┘
 ```
 
