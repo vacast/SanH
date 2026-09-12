@@ -10,6 +10,7 @@ Hilfsorganisationen (JUH, BG, BEE). Stand: 2018.
 | `SanH_Modul_B2_Schueler.apkg` | Fertiges Anki-Deck zum Importieren (263 Karten) |
 | `sanh-schueler-deck.csv` | Quell-CSV (Semikolon-getrennt, 4 Spalten) |
 | `build_schueler_deck.py` | Generator-Skript (liest CSV, baut .apkg) |
+| `konzepte/LF-I-Basiskompetenzen.md` | Trainer-Konzept für 6 UE Lernfeld I (JUH-Pädagogik, 70-20-10, Gamification) |
 
 ## Karteikarten-Aufbau
 
@@ -137,6 +138,11 @@ Dieses Deck dient als **persönliches Lernwerkzeug für Teilnehmer:innen der
 Sanitätshelfer-Ausbildung** und als **Arbeitsmaterial für Ausbilder:innen
 zur Unterrichtsvorbereitung**. Eine Weiterverbreitung außerhalb dieses
 Zwecks ist nicht vorgesehen.
+
+Das Trainer-Konzept unter `konzepte/` ist als **Open Educational Resource**
+für Sanitätshelfer-Ausbilder:innen aller Hilfsorganisationen gedacht und darf
+für eigene nicht-kommerzielle Ausbildungszwecke frei verwendet und
+angepasst werden — bitte mit Quellenangabe.
 
 Bei Aktualisierung des Curriculums: bitte Issues oder Pull Requests
 öffnen, damit das Deck aktualisiert werden kann.
