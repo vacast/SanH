@@ -130,9 +130,9 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 ├────────────────────────┼─────────────────────────────────┤
 │ Praxis-Phase (20-25)   │ Üben mit Moulage/Partner        │
 ├────────────────────────┼─────────────────────────────────┤
-│ Reflexion (5 min)      │ Was? So what? Now what?        │
+│ Reflexion (5 min)      │ Was? So what? Now what?         │
 ├────────────────────────┼─────────────────────────────────┤
-│ Mini-Lernziel-Check    │ Kurze Demonstration, 1 TN      │
+│ Mini-Lernziel-Check    │ Kurze Demonstration, 1 TN       │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -601,7 +601,7 @@ TN erkennen Brustkorbverletzungen (Rippenserienfraktur, Lungenverletzung), Wirbe
 ```
 ┌─────────────────────────────────┐
 │  Oberhaut (keine Gefäße)        │
-│  Lederhaut (Drüsen, Gefäße,    │
+│  Lederhaut (Drüsen, Gefäße,     │
 │             Sinneszellen,       │
 │             Haarmuskel)         │
 │  Unterhaut (große Gefäße,       │
@@ -616,8 +616,8 @@ TN erkennen Brustkorbverletzungen (Rippenserienfraktur, Lungenverletzung), Wirbe
 
 ```
 ┌─────────────────────────────────┐
-│  Schürfwunde   - Oberhaut      │
-│  Platzwunde    - über Knochen  │
+│  Schürfwunde   - Oberhaut       │
+│  Platzwunde    - über Knochen   │
 │  Schnittwunde  - klaffend       │
 │  Quetschwunde  - Nekrose        │
 │  Risswunde     - Lappen         │
@@ -635,16 +635,16 @@ TN erkennen Brustkorbverletzungen (Rippenserienfraktur, Lungenverletzung), Wirbe
 
 ```
 ┌─────────────────────────────────┐
-│  1. Eigenschutz                  │
+│  1. Eigenschutz                 │
 │  2. Druck (direkt auf Wunde)    │
 │  3. Druckverband (Auflage +     │
-│                 Druckkörper)     │
+│                 Druckkörper)    │
 │  4. Tourniquet (handbreit von   │
-│                Achsel/Leiste,    │
-│                nie über Gelenk,  │
-│                Zeit dokumentieren│
-│  5. Hämostyptika (wenn vorhanden)│
-│  6. Notruf 112                   │
+│               Achsel/Leiste,    │
+│               nie über Gelenk,  │
+│               Zeit dokumentieren│
+│  5. Hämostyptika(wenn vorhanden)│
+│  6. Notruf 112                  │
 └─────────────────────────────────┘
 ```
 
@@ -653,12 +653,12 @@ TN erkennen Brustkorbverletzungen (Rippenserienfraktur, Lungenverletzung), Wirbe
 ```
 ┌─────────────────────────────────┐
 │  ✓ Handbreit von Achsel/Leiste  │
-│  ✓ Am Oberarm / Oberschenkel   │
-│  ✓ Zudrehen bis Blutung steht  │
-│  ✓ + 1 weitere Umdrehung       │
-│  ✗ NIEMALS über Gelenk         │
+│  ✓ Am Oberarm / Oberschenkel    │
+│  ✓ Zudrehen bis Blutung steht   │
+│  ✓ + 1 weitere Umdrehung        │
+│  ✗ NIEMALS über Gelenk          │
 │  ✗ NIEMALS zu locker            │
-│  ⏱ Zeitpunkt DOKUMENTIEREN      │
+│    Zeitpunkt DOKUMENTIEREN      │
 │                                 │
 │  Abbindestellen:                │
 │  • Oberarmmitte                 │
@@ -688,19 +688,19 @@ TN erkennen Brustkorbverletzungen (Rippenserienfraktur, Lungenverletzung), Wirbe
 
 ```
 ┌─────────────────────────────────┐
-│  Grad 1: Rötung                  │
+│  Grad 1: Rötung                 │
 │  Grad 2: + Blasenbildung        │
-│  Grad 3: Gewebszerstörung/       │
-│          Verkohlung              │
+│  Grad 3: Gewebszerstörung/      │
+│          Verkohlung             │
 │                                 │
-│  Maßnahmen:                      │
+│  Maßnahmen:                     │
 │  • Brennende Kleidung löschen   │
-│  • Kleinflächig kühlen           │
-│    (NICHT bei Kindern großflächig│
+│  • Kleinflächig kühlen          │
+│   (NICHT bei Kindern großflächig│
 │    UND NICHT am Rumpf)          │
-│  • Keimfrei bedecken             │
-│  • Wärmeerhalt                   │
-│  • KEINE Salben/Cremes/Hausmittel│
+│  • Keimfrei bedecken            │
+│  • Wärmeerhalt                  │
+│  •KEINE Salben/Cremes/Hausmittel│
 └─────────────────────────────────┘
 ```
 
@@ -741,7 +741,7 @@ TN erkennen Brustkorbverletzungen (Rippenserienfraktur, Lungenverletzung), Wirbe
 │  • Bewegungseinschränkung       │
 │                                 │
 │  Ruhigstellung: Schmerzlinderung│
-│  + Vermeidung zusätzlicher       │
+│  + Vermeidung zusätzlicher      │
 │  Verletzungen                   │
 └─────────────────────────────────┘
 ```
