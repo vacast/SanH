@@ -106,11 +106,11 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 ├────────────────────────┼─────────────────────────────────┤
 │ Theorie-Input (10-15)  │ Demonstration, max. 15 min      │
 ├────────────────────────┼─────────────────────────────────┤
-│ Praxis-Phase (20-25)   │ Üben mit Feedback              │
+│ Praxis-Phase (20-25)   │ Üben mit Feedback               │
 ├────────────────────────┼─────────────────────────────────┤
-│ Reflexion (5 min)      │ Was? So what? Now what?        │
+│ Reflexion (5 min)      │ Was? So what? Now what?         │
 ├────────────────────────┼─────────────────────────────────┤
-│ Mini-Lernziel-Check    │ Kurze Demonstration, 1 TN      │
+│ Mini-Lernziel-Check    │ Kurze Demonstration, 1 TN       │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -352,21 +352,21 @@ TN benennen die Lage und Funktion der inneren Bauchorgane und erklären die Beso
 
 ```
 ┌───────────────────────────────────────────────────────┐
-│ DIE 5 SCHMERZARTEN                                     │
+│ DIE 5 SCHMERZARTEN                                    │
 ├───────────────────────────────────────────────────────┤
-│ 1. KOLIKARTIG (an- und abschwellend, Pausen)         │
+│ 1. KOLIKARTIG (an- und abschwellend, Pausen)          │
 │    → Nierensteine, Gallensteine, Durchfall            │
 ├───────────────────────────────────────────────────────┤
 │ 2. ENTZÜNDUNGSSCHMERZ (immer stärker werdend)         │
 │    → Blasenentzündung, Appendizitis                   │
 ├───────────────────────────────────────────────────────┤
-│ 3. RUPTURSCHMERZ (stark → plötzlich Abbruch → wieder)│
+│ 3. RUPTURSCHMERZ (stark → plötzlich Abbruch → wieder) │
 │    → Durchbruch Wurmfortsatz                          │
 ├───────────────────────────────────────────────────────┤
 │ 4. POCHENDER SCHMERZ (wellenförmig, ohne Pause)       │
 │    → Verrenkung, Verstauchung, Quetschung, Eiter      │
 ├───────────────────────────────────────────────────────┤
-│ 5. BRENNENDER SCHMERZ                                  │
+│ 5. BRENNENDER SCHMERZ                                 │
 │    → Organentzündung, Durchblutungsstörung, Infektion │
 └───────────────────────────────────────────────────────┘
 ```
@@ -404,22 +404,22 @@ Maßnahme: PAKET, Notarzt (medikamentöse Therapie)
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│ SCHMERZSKALA 0 - 10                                       │
-│                                                            │
-│ 0 = keine Schmerzen                                        │
-│ 1  2  3 = leichte Schmerzen                                │
-│ 4  5  6 = mittlere Schmerzen                               │
-│ 7  8  9 = starke Schmerzen                                 │
-│ 10 = unerträgliche Schmerzen (schlimmste vorstellbare)     │
-│                                                            │
-│ Frage an Patient:in:                                       │
-│ „Null bedeutet keine Schmerzen, zehn ist der              │
-│  schlimmste Schmerz, den Sie sich vorstellen können.      │
-│  Welche Zahl geben Sie Ihrem Schmerz?"                     │
-│                                                            │
-│ Wichtig: NICHT suggestive Fragen stellen!                  │
-│ → NICHT: „Es tut bestimmt sehr weh, oder?"                │
-│ → BESSER: „Wie stark sind Ihre Schmerzen gerade?"         │
+│ SCHMERZSKALA 0 - 10                                      │
+│                                                          │
+│ 0 = keine Schmerzen                                      │
+│ 1  2  3 = leichte Schmerzen                              │
+│ 4  5  6 = mittlere Schmerzen                             │
+│ 7  8  9 = starke Schmerzen                               │
+│ 10 = unerträgliche Schmerzen (schlimmste vorstellbare)   │
+│                                                          │
+│ Frage an Patient:in:                                     │
+│ „Null bedeutet keine Schmerzen, zehn ist der             │
+│  schlimmste Schmerz, den Sie sich vorstellen können.     │
+│  Welche Zahl geben Sie Ihrem Schmerz?"                   │
+│                                                          │
+│ Wichtig: NICHT suggestive Fragen stellen!                │
+│ → NICHT: „Es tut bestimmt sehr weh, oder?"               │
+│ → BESSER: „Wie stark sind Ihre Schmerzen gerade?"        │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -455,28 +455,28 @@ am Bauch, zunehmende Schmerzen.
 ┌──────────────────────────────────────────────────────────┐
 │ MINI-OSCE LF VI - SCHMERZEN                              │
 │ Name TN: ____________________   Datum: _____________     │
-│                                                            │
+│                                                          │
 │ Station 1: Schmerzart-Zuordnung (3 Patientenzitate)      │
-│   Zitat 1: _____/___  Zitat 2: _____/___  Zitat 3: ___/___ │
-│   ☐ bestanden  ☐ nicht bestanden                           │
-│                                                            │
-│ Station 2: Akutes-Abdomen-Bodycheck (SP)                  │
-│   ☐ Schonhaltung erkannt                                  │
-│   ☐ Brettharte Bauchdecke ertastet (vorsichtig)           │
-│   ☐ Schockzeichen geprüft (Puls, Hautfarbe)               │
-│   ☐ bestanden  ☐ nicht bestanden                           │
-│                                                            │
-│ Station 3: Schmerzskala + Maßnahmen-Auswahl               │
-│   ☐ Schmerzskala neutral erfragt (nicht suggestiv)        │
-│   ☐ Indikationsgerechte Maßnahme genannt                   │
-│   ☐ bestanden  ☐ nicht bestanden                           │
-│                                                            │
-│ Station 4: Bauchdeckenentlastende Lagerung (<90 s)        │
-│   ☐ Knierolle oder Embryonalhaltung korrekt               │
-│   ☐ Patient:in-Komfort beachtet (Kissen, Decke)           │
-│   ☐ bestanden  ☐ nicht bestanden                           │
-│                                                            │
-│ ERGEBNIS: _____ von 4 Stationen bestanden                 │
+│   Zitat 1: _____/___ Zitat 2: _____/___ Zitat 3: ___/___ │
+│   ☐ bestanden  ☐ nicht bestanden                         │
+│                                                          │
+│ Station 2: Akutes-Abdomen-Bodycheck (SP)                 │
+│   ☐ Schonhaltung erkannt                                 │
+│   ☐ Brettharte Bauchdecke ertastet (vorsichtig)          │
+│   ☐ Schockzeichen geprüft (Puls, Hautfarbe)              │
+│   ☐ bestanden  ☐ nicht bestanden                         │
+│                                                          │
+│ Station 3: Schmerzskala + Maßnahmen-Auswahl              │
+│   ☐ Schmerzskala neutral erfragt (nicht suggestiv)       │
+│   ☐ Indikationsgerechte Maßnahme genannt                 │
+│   ☐ bestanden  ☐ nicht bestanden                         │
+│                                                          │
+│ Station 4: Bauchdeckenentlastende Lagerung (<90 s)       │
+│   ☐ Knierolle oder Embryonalhaltung korrekt              │
+│   ☐ Patient:in-Komfort beachtet (Kissen, Decke)          │
+│   ☐ bestanden  ☐ nicht bestanden                         │
+│                                                          │
+│ ERGEBNIS: _____ von 4 Stationen bestanden                │
 │ Trainer:in: ______________________   Unterschrift: ____  │
 └──────────────────────────────────────────────────────────┘
 ```
