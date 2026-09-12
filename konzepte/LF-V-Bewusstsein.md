@@ -6,6 +6,7 @@
 **Umfang:** 6 Unterrichtseinheiten à 45 min = 270 min
 **Zielgruppe:** Sanitätshelfer (Fortgeschrittene nach LF I-IV, Erste-Hilfe-Kurs + LF I-IV vorausgesetzt)
 **Theorie-Praxis-Verhältnis:** 30 % Theorie, 70 % Praxis (JUH-Standard 1/3 : 2/3)
+**Pädagogische Kaskade:** Kompetenzen (Fach-/Methoden-/personale Kompetenz) → Lernziele (Ausbildungs-/Richt-/Grob-/Feinlernziele) → Lernfelder → Lernsituationen (vgl. Kompendium Teil 2 S. 11-22). LZ 1-8 dieses Blocks sind Feinlernziele mit Taxonomie nach Bloom.
 
 ---
 
@@ -24,7 +25,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | LZ-7 | Thermische Notfälle (Unterkühlung, Hitzschlag, Sonnenstich) erkennen, Erstmaßnahmen einleiten und die „nicht mehr bewegen"-Regel bei fortgeschrittener Unterkühlung begründen | Anwenden, Analysieren |
 | LZ-8 | Hinweise auf Vergiftungen erkennen, Aufnahmewege (oral/inhalatorisch/perkutan/intravenös) zuordnen, Eigenschutz beachten und die Giftinformationszentrale (Vorwahl 19240) zielgerichtet kontaktieren | Anwenden, Bewerten |
 
-*Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen*
+*Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen (vgl. Kompendium S. 18)*
 
 **Prüfungsrelevanz:** LZ 1-8 sind prüfungsrelevant und werden am Blockende mit einer 20-min Mini-OSCE überprüft.
 
@@ -41,6 +42,10 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | **Kooperationskultur** | Partnerarbeit, Peer-Feedback; SP-Debriefing nach Krampf-Simulation ausdrücklich einplanen - Fehler sind Lernchancen |
 
 **70-20-10-Modell:** 70 % Praxis (Üben, Szenarien mit Schauspielpatienten), 20 % sozialer Austausch (Reflexion, Diskussion über Eigenschutz bei Vergiftungen), 10 % formaler Input (Vortrag, Demo).
+
+**Lernzielebene nach Kompendium S. 14-17:** LZ 1-8 sind Feinlernziele. Grobziel: „Sanitätshelfer erkennen Bewusstseinsstörungen, leiten die jeweils indizierten Sofortmaßnahmen ein und erkennen Zeitfenster-Notfälle". Richtziel: selbstständige Versorgung neurologischer und metabolischer Notfälle bis zum Eintreffen des Rettungsdienstes.
+
+**Hemmschwellen (Kompendium S. 79-92):** Krampfanfälle (UE 5) lösen bei TN regelmäßig Angst und Hilflosigkeit aus. Das SP-Debriefing nach Krampf-Simulation und die Reflexionsphase zu Blockbeginn („Welche Sondersituation habt ihr selbst erlebt?") sind explizit als Mittel gegen diese Hemmschwellen konzipiert.
 
 ---
 
@@ -540,5 +545,6 @@ TN unterscheiden Unterkühlung (Frühstadium vs. fortgeschritten), Hitzschlag un
 | Version | Datum | Änderung | Autor |
 |---|---|---|---|
 | 1.0 | 2026-09-12 | Erstkonzept | Valentin Casas Stöldt |
+| 1.1 | 2026-09-12 | Pädagogische Kaskade + Lernzielklassifizierung + Hemmschwellen aus Kompendium Teil 2 ergänzt | Valentin Casas Stöldt |
 
 **Nächste Revision:** Nach erster Pilot-Durchführung, basierend auf TN-Feedback, SP-Debriefing und OSCE-Ergebnissen.

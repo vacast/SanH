@@ -6,6 +6,7 @@
 **Umfang:** 4 Unterrichtseinheiten à 45 min = 180 min
 **Zielgruppe:** Sanitätshelfer-Anfänger (Mindestalter 16, Erste-Hilfe-Kurs vorausgesetzt)
 **Theorie-Praxis-Verhältnis:** 30 % Theorie, 70 % Praxis (JUH-Standard 1/3 : 2/3)
+**Pädagogische Kaskade:** Kompetenzen (Fach-/Methoden-/personale Kompetenz) → Lernziele (Ausbildungs-/Richt-/Grob-/Feinlernziele) → Lernfelder → Lernsituationen (vgl. Kompendium Teil 2 S. 11-22). LZ 1-6 dieses Blocks sind Feinlernziele mit Taxonomie nach Bloom.
 
 ---
 
@@ -22,7 +23,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | LZ-5 | Die Schmerzintensität mit der Schmerzskala 0-10 erfragen und dokumentieren | Anwenden |
 | LZ-6 | Schmerz-Maßnahmen indikationsgerecht auswählen (kühlen / warme Umschläge / Entlastungslagerung / Oberkörper hoch / Ruhigstellung / PAKET) | Anwenden, Bewerten |
 
-*Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen*
+*Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen (vgl. Kompendium S. 18)*
 
 **Prüfungsrelevanz:** LZ 1-6 sind prüfungsrelevant und werden am Blockende mit einer 12-min Mini-OSCE überprüft.
 
@@ -39,6 +40,10 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | **Kooperationskultur** | Partnerarbeit, Peer-Feedback, kein Bloßstellen - Fehler sind Lernchancen |
 
 **70-20-10-Modell:** 70 % Praxis (Üben, Szenarien), 20 % sozialer Austausch (Reflexion, Diskussion), 10 % formaler Input (Vortrag, Demo).
+
+**Lernzielebene nach Kompendium S. 14-17:** LZ 1-6 sind Feinlernziele. Grobziel: „Sanitätshelfer erkennen Schmerzursachen, insbesondere das akute Abdomen, und führen bauchdeckenentlastende Lagerung und PAKET indikationsgerecht durch". Richtziel: selbstständige Versorgung von Patienten mit abdominellen und sonstigen Schmerzen bis zum Eintreffen des Rettungsdienstes.
+
+**Hemmschwellen (Kompendium S. 79-92):** Die Schmerzintensitätserfragung (Schmerzskala 0-10) und das Berühren unbekannter Körperregionen lösen bei TN gelegentlich Unsicherheit aus. Die Übungsphase in UE 4 ist bewusst praxisintensiv, um Routine und Sicherheit aufzubauen.
 **Schnittstelle zu LF I:** ABCDE, PAKET, Schonhaltung und 4-S-Regel werden aus LF I vorausgesetzt und in LF VI wieder aufgegriffen (Interleaving).
 
 ---
@@ -499,5 +504,6 @@ am Bauch, zunehmende Schmerzen.
 | Version | Datum | Änderung | Autor |
 |---|---|---|---|
 | 1.0 | 2026-09-12 | Erstkonzept | Valentin Casas Stöldt |
+| 1.1 | 2026-09-12 | Pädagogische Kaskade + Lernzielklassifizierung + Hemmschwellen aus Kompendium Teil 2 ergänzt | Valentin Casas Stöldt |
 
 **Nächste Revision:** Nach erster Pilot-Durchführung, basierend auf TN-Feedback und OSCE-Ergebnissen.

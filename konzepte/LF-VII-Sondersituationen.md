@@ -6,6 +6,7 @@
 **Umfang:** 4 Unterrichtseinheiten à 45 min = 180 min
 **Zielgruppe:** Sanitätshelfer-Anfänger (Mindestalter 16, Erste-Hilfe-Kurs vorausgesetzt)
 **Theorie-Praxis-Verhältnis:** 25 % Theorie, 75 % Praxis (JUH-Standard 1/3 : 2/3; hier zugunsten Praxis verschoben - Sondersituationen lernt man im Rollenspiel)
+**Pädagogische Kaskade:** Kompetenzen (Fach-/Methoden-/personale Kompetenz) → Lernziele (Ausbildungs-/Richt-/Grob-/Feinlernziele) → Lernfelder → Lernsituationen (vgl. Kompendium Teil 2 S. 11-22). LZ 1-6 dieses Blocks sind Feinlernziele mit Taxonomie nach Bloom.
 
 ---
 
@@ -22,7 +23,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | LZ-5 | Vorbeugende Maßnahmen zur Gewalt-Prävention (Selbstreflexion, Deeskalation, Selbstverteidigung) erläutern | Verstehen, Anwenden |
 | LZ-6 | Konfliktsituationen frühzeitig erkennen und deeskalierend handeln | Anwenden, Bewerten |
 
-*Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen*
+*Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen (vgl. Kompendium S. 18)*
 
 **Prüfungsrelevanz:** LZ 1-6 sind prüfungsrelevant und werden am Blockende mit einer 12-min Mini-OSCE (Szenario-basiert) überprüft.
 
@@ -39,6 +40,10 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | **Kooperationskultur** | Reflexions-Austausch über belastende Erlebnisse, Peer-Feedback nach Rollenspielen, kein Bloßstellen |
 
 **70-20-10-Modell:** 70 % Praxis (Rollenspiele, Szenarien, Table-Top), 20 % sozialer Austausch (Reflexion, Gruppendiskussion), 10 % formaler Input (Vortrag, Demo). Wegen Praxis-Tiefe formaler Input-Anteil zugunsten Reflexion/Diskussion reduziert.
+
+**Lernzielebene nach Kompendium S. 14-17:** LZ 1-6 sind Feinlernziele. Grobziel: „Sanitätshelfer bewältigen Sondersituationen (MANV, Gewalt, Einsatznachsorge) sicher und unter Wahrung des Eigenschutzes". Richtziel: situationsangemessenes Handeln unter ungewöhnlichen Bedingungen mit klarer Rollen- und Weisungsstruktur.
+
+**Hemmschwellen (Kompendium S. 79-92):** Gewalt-Rollenspiele und MANV-Szenarien lösen bei TN starke Emotionen aus (Angst, Unsicherheit). Die Reflexionsphase zu Blockbeginn, das „Hier darf auch Nein gesagt werden"-Signal und die ausführliche Gruppendiskussion in UE 4 (Einsatznachsorge) sind explizit als Hemmschwellen-Reduzierung konzipiert.
 **Schnittstelle zu LF I:** Eigenschutz, Notruf, ABCDE werden aus LF I vorausgesetzt. Sondersituationen sind immer auch eine Wiederholung der Basiskompetenzen unter Stress.
 
 **Besonderheit dieses Blocks:** Sondersituationen lösen Emotionen aus (Angst, Unsicherheit, Betroffenheit). Trainer:in achtet auf psychische Sicherheit und signalisiert: „Hier darf auch 'Nein' gesagt werden."
@@ -572,5 +577,6 @@ Frage an TN: Welche Hinweise aus dem Umfeld? Was tun?
 | Version | Datum | Änderung | Autor |
 |---|---|---|---|
 | 1.0 | 2026-09-12 | Erstkonzept | Valentin Casas Stöldt |
+| 1.1 | 2026-09-12 | Pädagogische Kaskade + Lernzielklassifizierung + Hemmschwellen aus Kompendium Teil 2 ergänzt | Valentin Casas Stöldt |
 
 **Nächste Revision:** Nach erster Pilot-Durchführung, basierend auf TN-Feedback und OSCE-Ergebnissen. Geplante Ergänzungen: Audio-Datei mit „Einsatznachsorge-Erfahrungsbericht" für UE 3 Hook, Sammlung weiterer anonymisierter Fallvignetten aus JUH-Einsatznachsorge-Praxis.

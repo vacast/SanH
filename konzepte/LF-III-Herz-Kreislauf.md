@@ -6,6 +6,7 @@
 **Umfang:** 8 Unterrichtseinheiten à 45 min = 360 min
 **Zielgruppe:** Sanitätshelfer-Anfänger (LF I und LF II abgeschlossen)
 **Theorie-Praxis-Verhältnis:** 30 % Theorie, 70 % Praxis (JUH-Standard 1/3 : 2/3)
+**Pädagogische Kaskade:** Kompetenzen (Fach-/Methoden-/personale Kompetenz) → Lernziele (Ausbildungs-/Richt-/Grob-/Feinlernziele) → Lernfelder → Lernsituationen (vgl. Kompendium Teil 2 S. 11-22). LZ 1-8 dieses Blocks sind Feinlernziele mit Taxonomie nach Bloom.
 
 ---
 
@@ -24,7 +25,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | LZ-7 | Einen AED vorbereiten, anschließen, Sprachanweisungen umsetzen und Schockabgabe unter Beachtung des Eigen- und Fremdschutzes auslösen | Anwenden |
 | LZ-8 | Die 6 CRM-Prinzipien (geschlossene Loop, Speak-Up, Team-Leader etc.) in einem Reanimations-Team anwenden | Anwenden, Reflektieren |
 
-*Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen*
+*Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen (vgl. Kompendium S. 18)*
 
 **Prüfungsrelevanz:** LZ 1-8 sind prüfungsrelevant und werden am Blockende mit einer 15-min Mini-OSCE überprüft.
 
@@ -41,6 +42,10 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | **Kooperationskultur** | Rollierende Team-Konstellationen, klare Team-Leader-Rollen, kein Bloßstellen - Reanimation ist Hochstress, hier zählt Sicherheit |
 
 **70-20-10-Modell:** 70 % Praxis (Üben, Szenarien, Phantom), 20 % sozialer Austausch (Reflexion, CRM-Diskussion), 10 % formaler Input (Vortrag, Demo).
+
+**Lernzielebene nach Kompendium S. 14-17:** LZ 1-8 sind Feinlernziele. Grobziel: „Sanitätshelfer erkennen Herz-Kreislauf-Störungen, leiten lebensrettende Sofortmaßnahmen ein und führen die HLW mit erweitertem Atemwegsmanagement durch". Richtziel: Beherrschung der Basismaßnahmen bei Kreislaufstillstand bis zum Eintreffen des Rettungsdienstes.
+
+**Hemmschwellen (Kompendium S. 79-92):** Reanimation und Larynx-Tubus-Anlage lösen bei TN regelmäßig Angst vor Fehlern und Gruppeneffekte aus. Die CRM-Prinzipien (UE 8) sind explizit als Mittel gegen diese Hemmschwellen konzipiert: klare Rollen im Team reduzieren das Gefühl mangelnder Kompetenz und die Angst, etwas falsch zu machen.
 
 **Anknüpfung an LF I + II:** ABCDE-Schema, Atemkontrolle und SAMPLER werden reaktiviert. Eigenschutz, Händedesinfektion und O2-Anlage aus LF II werden vorausgesetzt. Aspiration-Schemata aus LF II werden in UE 6 wieder aufgegriffen (HLW-Kinder mit Aspiration).
 
@@ -736,5 +741,6 @@ TN führen den Larynx-Tubus in max. 2 Versuchen unter Beachtung der Hygiene ein,
 | Version | Datum | Änderung | Autor |
 |---|---|---|---|
 | 1.0 | 2026-09-12 | Erstkonzept | Valentin Casas Stöldt |
+| 1.1 | 2026-09-12 | Pädagogische Kaskade + Lernzielklassifizierung + Hemmschwellen aus Kompendium Teil 2 ergänzt | Valentin Casas Stöldt |
 
 **Nächste Revision:** Nach erster Pilot-Durchführung, basierend auf TN-Feedback, OSCE-Ergebnissen und CRM-Beobachtungen.

@@ -6,6 +6,7 @@
 **Umfang:** 6 Unterrichtseinheiten à 45 min = 270 min
 **Zielgruppe:** Sanitätshelfer-Anfänger (LF I abgeschlossen)
 **Theorie-Praxis-Verhältnis:** 30 % Theorie, 70 % Praxis (JUH-Standard 1/3 : 2/3)
+**Pädagogische Kaskade:** Kompetenzen (Fach-/Methoden-/personale Kompetenz) → Lernziele (Ausbildungs-/Richt-/Grob-/Feinlernziele) → Lernfelder → Lernsituationen (vgl. Kompendium Teil 2 S. 11-22). LZ 1-6 dieses Blocks sind Feinlernziele mit Taxonomie nach Bloom.
 
 ---
 
@@ -22,7 +23,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | LZ-5 | Die Pflicht-Ablaufschemata Aspiration bei Erwachsenen (S. 51) und bei Kindern (S. 52) anwenden und bei Bewusstlosigkeit in den HLW-Ablauf überleiten | Anwenden |
 | LZ-6 | Spezifische Atemstörungen (Aspiration, Beinahe-Ertrinken, Asthma, Insektenstich Rachen, Hyperventilation, Krupp) erkennen und die jeweils indizierten Maßnahmen einleiten | Anwenden, Bewerten |
 
-*Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen*
+*Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen (vgl. Kompendium S. 18)*
 
 **Prüfungsrelevanz:** LZ 1-6 sind prüfungsrelevant und werden am Blockende mit einer 15-min Mini-OSCE überprüft.
 
@@ -39,6 +40,10 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | **Kooperationskultur** | Partnerarbeit, Peer-Feedback bei Atemtyp-Beurteilung, kein Bloßstellen |
 
 **70-20-10-Modell:** 70 % Praxis (Üben, Szenarien), 20 % sozialer Austausch (Reflexion, Diskussion), 10 % formaler Input (Vortrag, Demo).
+
+**Lernzielebene nach Kompendium S. 14-17:** LZ 1-6 sind Feinlernziele. Grobziel: „Sanitätshelfer erkennen Atemstörungen und leiten die jeweils indizierten Maßnahmen ein". Richtziel: selbstständige Versorgung respiratorischer Notfälle bis zum Eintreffen des Rettungsdienstes.
+
+**Hemmschwellen (Kompendium S. 79-92):** Sauerstoff-Sicherheit (Brandförderung) und Masken-Anlage können bei unsicheren TN Hemmschwellen auslösen. Das erfolgreiche Bestehen der UE 3 (O2-Berechnung + sichere Anwendung) baut das Gefühl der Kompetenz auf und reduziert die Angst vor Fehlern.
 
 **Anknüpfung an LF I:** ABCDE-Schema und SAMPLER-Anamnese werden zu Blockbeginn reaktiviert („Was habt ihr aus LF I mitgenommen?"). Eigenschutz und Hygiene bleiben jederzeit vorausgesetzt - Handschuhe werden vor jeder Atemkontrolle und O2-Anlage selbstverständlich angezogen.
 
@@ -558,5 +563,6 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 | Version | Datum | Änderung | Autor |
 |---|---|---|---|
 | 1.0 | 2026-09-12 | Erstkonzept | Valentin Casas Stöldt |
+| 1.1 | 2026-09-12 | Pädagogische Kaskade + Lernzielklassifizierung + Hemmschwellen aus Kompendium Teil 2 ergänzt | Valentin Casas Stöldt |
 
 **Nächste Revision:** Nach erster Pilot-Durchführung, basierend auf TN-Feedback und OSCE-Ergebnissen.

@@ -7,6 +7,8 @@ Ablaufschemata, die im laufenden Kursbetrieb immer wieder benötigt werden.
 Es ist als **Schnellreferenz für Ausbilder:innen** gedacht - die zugehörigen
 Lernziele und Didaktik finden sich in den jeweiligen LF-Konzepten.
 
+**Pädagogische Einordnung:** Dieser Anhang bildet das Element „Lernsituationen" der Pädagogischen Kaskade (Kompendium Teil 2 S. 11-22): nachschlagbare Werte, die in den LF-Konzepten als kleine Lerneinheiten eingebettet sind. Die Lernziel- und Hemmschwellen-Bezüge zu jedem Wert sind in den jeweiligen LF-Konzepten dokumentiert.
+
 ---
 
 ## 1 Normwertetabelle Vitalzeichen (Kommentar S. 47)
@@ -297,5 +299,6 @@ Pauken.
 | Version | Datum | Änderung | Autor |
 |---|---|---|---|
 | 1.0 | 2026-09-12 | Erstkonzept | Valentin Casas Stöldt |
+| 1.1 | 2026-09-12 | Pädagogische Einordnung als Element der Pädagogischen Kaskade aus Kompendium Teil 2 ergänzt | Valentin Casas Stöldt |
 
 **Nächste Revision:** Nach erster Pilot-Durchführung, basierend auf TN-Feedback und OSCE-Ergebnissen.

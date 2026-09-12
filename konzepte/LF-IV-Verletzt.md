@@ -6,6 +6,7 @@
 **Umfang:** 10 Unterrichtseinheiten à 45 min = 450 min
 **Zielgruppe:** Sanitätshelfer-Anfänger (LF I, LF II und LF III abgeschlossen)
 **Theorie-Praxis-Verhältnis:** 30 % Theorie, 70 % Praxis (JUH-Standard 1/3 : 2/3)
+**Pädagogische Kaskade:** Kompetenzen (Fach-/Methoden-/personale Kompetenz) → Lernziele (Ausbildungs-/Richt-/Grob-/Feinlernziele) → Lernfelder → Lernsituationen (vgl. Kompendium Teil 2 S. 11-22). LZ 1-7 dieses Blocks sind Feinlernziele mit Taxonomie nach Bloom.
 
 ---
 
@@ -23,7 +24,7 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | LZ-6 | Hitze-, Kälte- und Verätzungsschäden differenzieren, das Ausmaß einschätzen (9er-Regel, 3 Schweregrade) und mit spezifischen Maßnahmen versorgen (Kühlung kleinflächig, Amputat, Zahnrettung, Augenspülung) | Anwenden, Analysieren |
 | LZ-7 | Wirbelsäulen-, Brustkorb- und Schädel-Hirn-Trauma-Situationen erkennen, achsengerecht stabilisieren und die jeweils indizierte Lagerung durchführen (auf verletzte Seite / 30°-Oberkörper / Flachlagerung) | Anwenden, Bewerten |
 
-*Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen*
+*Taxonomie nach Bloom: Erinnern → Verstehen → Anwenden → Analysieren → Bewerten → Erschaffen (vgl. Kompendium S. 18)*
 
 **Prüfungsrelevanz:** LZ 1-7 sind prüfungsrelevant und werden am Blockende mit einer 20-min Mini-OSCE überprüft.
 
@@ -40,6 +41,10 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 | **Kooperationskultur** | 2er-/3er-Gruppen für Verband-Üben, Peer-Feedback bei Druckverband-Korrektheit, kein Bloßstellen - Fehler sind Lernchancen |
 
 **70-20-10-Modell:** 70 % Praxis (Üben, Moulage-Szenarien, Stop-the-Bleed-Training), 20 % sozialer Austausch (Reflexion, Diskussion), 10 % formaler Input (Vortrag, Demo).
+
+**Lernzielebene nach Kompendium S. 14-17:** LZ 1-7 sind Feinlernziele. Grobziel: „Sanitätshelfer versorgen Verletzungen aller Schweregrade und aller mechanischen Wundarten keimfrei und schock-prophylaktisch". Richtziel: selbstständige Versorgung traumatologischer Notfälle bis zum Eintreffen des Rettungsdienstes.
+
+**Hemmschwellen (Kompendium S. 79-92):** Moulage mit Blut, Verbrennungs-Darstellungen und Amputations-Szenarien lösen regelmäßig Ekelbarrieren aus. Die Partner-Übungen (UE 1-3) sind bewusst niedrigschwellig und schaffen erste Erfolgserlebnisse, bevor Moulage-Intensität in UE 4-7 gesteigert wird.
 
 **Anknüpfung an LF I-III:** ABCDE-Schema, SAMPLER-Anamnese und PAKET-Ablauf werden zu Blockbeginn reaktiviert („Was habt ihr aus LF I mitgenommen?"). Eigenschutz und Händedesinfektion bleiben jederzeit vorausgesetzt - Handschuhe werden vor jeder Wundversorgung selbstverständlich angezogen. Schock-Erkennung aus LF III wird in UE 6 und UE 7 explizit aufgegriffen (Blutverlust → Volumenmangelschock). Atemkontrolle aus LF II kommt in UE 10 bei Brustkorbverletzungen wieder zur Anwendung.
 
@@ -775,5 +780,6 @@ TN erkennen Brustkorbverletzungen (Rippenserienfraktur, Lungenverletzung), Wirbe
 | Version | Datum | Änderung | Autor |
 |---|---|---|---|
 | 1.0 | 2026-09-12 | Erstkonzept | Valentin Casas Stöldt |
+| 1.1 | 2026-09-12 | Pädagogische Kaskade + Lernzielklassifizierung + Hemmschwellen aus Kompendium Teil 2 ergänzt | Valentin Casas Stöldt |
 
 **Nächste Revision:** Nach erster Pilot-Durchführung, basierend auf TN-Feedback und OSCE-Ergebnissen. Insbesondere Tourniquet-Station (Zeitbenchmark <45 s) und Trauma-Szenario-Station (Lagerungs-Korrektheit) evaluieren. Moulage-Realismus und emotionale Belastung der TN rückmelden.
