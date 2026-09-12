@@ -394,7 +394,7 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 
 ```
 ┌─────────────────────────────────┐
-│  S - Symptoms                  │
+│  S - Symptoms                   │
 │  A - Allergies                  │
 │  M - Medications                │
 │  P - Past medical history       │
@@ -409,7 +409,7 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 ```
 ┌─────────────────────────────────┐
 │  1. Wo?    (genauer Ort)        │
-│  2. Was?   (was ist passiert?) │
+│  2. Was?   (was ist passiert?)  │
 │  3. Wie viele Verletzte?        │
 │  4. Welche Verletzungen?        │
 │  5. Warten auf Rückfragen!      │
@@ -435,13 +435,13 @@ TN wenden das ABCDE-Schema am Phantom/Partner prioritätengerecht an und erkenne
 ```
 ┌──────────────────────────────────────────────┐
 │ 1. Patientendaten (Name, Alter, ggf. Gewicht)│
-│ 2. Notfallgeschehen (was, wann, wo)         │
+│ 2. Notfallgeschehen (was, wann, wo)          │
 │ 3. Feststellungen / Beobachtungen            │
-│ 4. Vorerkrankungen / Allergien              │
+│ 4. Vorerkrankungen / Allergien               │
 │ 5. Vitalwerte + Verlauf                      │
-│ 6. Bisherige Maßnahmen (mit Zeitangabe)     │
-│ 7. Aktueller Zustand                        │
-│ 8. Eigentum / Angehörige                    │
+│ 6. Bisherige Maßnahmen (mit Zeitangabe)      │
+│ 7. Aktueller Zustand                         │
+│ 8. Eigentum / Angehörige                     │
 └──────────────────────────────────────────────┘
 ```
 
