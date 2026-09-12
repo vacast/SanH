@@ -118,11 +118,11 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 ├────────────────────────┼─────────────────────────────────┤
 │ Theorie-Input (10-15)  │ Demonstration, max. 15 min      │
 ├────────────────────────┼─────────────────────────────────┤
-│ Praxis-Phase (20-25)   │ Üben mit Feedback              │
+│ Praxis-Phase (20-25)   │ Üben mit Feedback               │
 ├────────────────────────┼─────────────────────────────────┤
-│ Reflexion (5 min)      │ Was? So what? Now what?        │
+│ Reflexion (5 min)      │ Was? So what? Now what?         │
 ├────────────────────────┼─────────────────────────────────┤
-│ Mini-Lernziel-Check    │ Kurze Demonstration, 1 TN      │
+│ Mini-Lernziel-Check    │ Kurze Demonstration, 1 TN       │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -522,17 +522,17 @@ TN führen den Larynx-Tubus in max. 2 Versuchen unter Beachtung der Hygiene ein,
 
 ```
 ┌────────────────────────────────────────┐
-│  PULSMESSUNG - 4 Stellen              │
+│  PULSMESSUNG - 4 Stellen               │
 │   • Speichenschlagader (Handgelenk,    │
 │     daumenseitig)                      │
 │   • Halsschlagader (seitlich Kehlkopf) │
 │   • Beckenschlagader (Leistenbeuge)    │
 │   • Oberarmschlagader (Innenseite)     │
 │                                        │
-│  TECHNIK: 3 Fingerkuppen, nie Daumen, │
+│  TECHNIK: 3 Fingerkuppen, nie Daumen,  │
 │   nie beide Halsschlagadern gleichzeitig│
 │                                        │
-│  FREQUENZ: 15 s zählen × 4 = /min     │
+│  FREQUENZ: 15 s zählen × 4 = /min      │
 │                                        │
 │  BEURTEILUNG:                          │
 │   • schwach / gut tastbar              │
@@ -610,7 +610,7 @@ TN führen den Larynx-Tubus in max. 2 Versuchen unter Beachtung der Hygiene ein,
 │  4. 5 INITIALE BEATMUNGEN              │
 │     → Säugling: Schnüffelposition      │
 │     → Kind: Kopf leicht überstrecken   │
-│  5. Bei fehlender Reaktion: 15:2        │
+│  5. Bei fehlender Reaktion: 15:2       │
 │     → 15 Kompressionen                 │
 │     → Tiefe: 1/3 Brustkorb-Durchmesser │
 │     → Frequenz: 100-120/min            │
@@ -685,7 +685,7 @@ TN führen den Larynx-Tubus in max. 2 Versuchen unter Beachtung der Hygiene ein,
 │     Tubus                              │
 │                                        │
 │  MAXIMAL 2 VERSUCHE!                   │
-│  Bei Fehllage → Beutel-Maske-Beatmung │
+│  Bei Fehllage → Beutel-Maske-Beatmung  │
 │  (C-Griff oder Doppel-C-Griff)         │
 └────────────────────────────────────────┘
 ```
@@ -702,7 +702,7 @@ TN führen den Larynx-Tubus in max. 2 Versuchen unter Beachtung der Hygiene ein,
 │      seitlich unter Achsel)            │
 │  3. SPRACHANWEISUNGEN FOLGEN           │
 │  4. ANALYSE: niemand berührt Patient   │
-│  5. SCHOCK:                             │
+│  5. SCHOCK:                            │
 │     "Achtung, Schock!" - Umfeld prüfen │
 │     Schock-Taste drücken               │
 │  6. HLW SOFORT FORTFÜHREN              │
@@ -712,7 +712,7 @@ TN führen den Larynx-Tubus in max. 2 Versuchen unter Beachtung der Hygiene ein,
 │   vorhanden, sonst Standard. Auf       │
 │   Hersteller-Hinweise achten.          │
 │                                        │
-│  EIGEN-/FREMD-SCHUTZ: Während Schock- │
+│  EIGEN-/FREMD-SCHUTZ: Während Schock-  │
 │   abgabe niemanden berühren!           │
 └────────────────────────────────────────┘
 ```
