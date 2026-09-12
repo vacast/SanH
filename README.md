@@ -36,6 +36,7 @@ Differenzierung, Trainer-Qualifikation, Druckvorlagen.
 | `konzepte/LF-VII-Sondersituationen.md` | Lernfeld VII | 4 | S. 45–46 |
 | `konzepte/Anhang-Normwerte.md` | Schnellreferenz | — | S. 47–52 |
 | `konzepte/Gesamtkonzept.md` | Master-Dokument (Kursfahrplan, Prüfung, Logistik) | 8 + Prüfung | alle |
+| `konzepte/druckvorlagen/` | Druckfertige PDF-Karten (8 PDFs, 71 Seiten) | — | alle |
 
 **Gesamtumfang:** 48 UE + Prüfungsvorbereitung, 36 Zeit-Stunden Präsenz.
 
