@@ -110,11 +110,11 @@ Am Ende des Blocks können die Teilnehmer:innen (TN):
 ├────────────────────────┼─────────────────────────────────┤
 │ Theorie-Input (10-15)  │ Demonstration, max. 15 min      │
 ├────────────────────────┼─────────────────────────────────┤
-│ Praxis-Phase (20-25)   │ Üben mit Feedback              │
+│ Praxis-Phase (20-25)   │ Üben mit Feedback               │
 ├────────────────────────┼─────────────────────────────────┤
-│ Reflexion (5 min)      │ Was? So what? Now what?        │
+│ Reflexion (5 min)      │ Was? So what? Now what?         │
 ├────────────────────────┼─────────────────────────────────┤
-│ Mini-Lernziel-Check    │ Kurze Demonstration, 1 TN      │
+│ Mini-Lernziel-Check    │ Kurze Demonstration, 1 TN       │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -437,7 +437,7 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 ```
 ┌────────────────────────────────────────┐
 │  AUF DEN ERSTEN BLICK:                 │
-│   □ Sitzende Position, Arme abgestützt  │
+│   □ Sitzende Position, Arme abgestützt │
 │   □ Ringen nach Luft                   │
 │   □ Unnatürliche Atemgeräusche         │
 │   □ Zyanose (Lippen, Nagelbett)        │
@@ -464,7 +464,7 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 ┌────────────────────────────────────────┐
 │  1. Mundraum-Kontrolle (Fremdkörper?)  │
 │  2. Kopf in den Nacken beugen + UK     │
-│     vorziehen                         │
+│     vorziehen                          │
 │  3. Sehen - Hören - Spüren             │
 │     (Hände am Kopf NICHT entfernen)    │
 │  4. Dauer: max. 10 Sekunden            │
@@ -513,7 +513,7 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 │     sich, Bronchien bleiben länger     │
 │     offen.                             │
 │                                        │
-│  Übung: Strohhalm → Atem durch Nase   │
+│  Übung: Strohhalm → Atem durch Nase    │
 │  ein, durch Strohhalm aus.             │
 └────────────────────────────────────────┘
 ```
@@ -530,13 +530,13 @@ TN erkennen Hyperventilation, Krupp-Syndrom, Insektenstich im Rachenraum und Bei
 │  1. Patient beruhigen (4-S-Regel!)     │
 │  2. In Gespräch verwickeln             │
 │  3. Kleine Plastiktüte über Mund +     │
-│     Nase - max. 1-2 Minuten           │
-│  4. Tüte vorher entleeren (kein         │
+│     Nase - max. 1-2 Minuten            │
+│  4. Tüte vorher entleeren (kein        │
 │     Sauerstoffentzug über die Norm)    │
 │                                        │
 │  ACHTUNG: Nicht bei Bewusstseinstrü-   │
 │  bung, nicht bei Verdacht auf andere   │
-│  Ursache (z. B. Herzinfarkt mit         │
+│  Ursache (z. B. Herzinfarkt mit        │
 │  Tachypnoe!).                          │
 └────────────────────────────────────────┘
 ```
